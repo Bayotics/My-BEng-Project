@@ -1,0 +1,500 @@
+latitude,longitude,altitude,geometry,state_code,source,name,ward_code,settlement_name,settlement_type,type_goods,other_type_goods,product_desc,days_monday,days_tuesday,days_wednesday,days_thursday,days_friday,days_saturday,days_sunday,total_days,frequency,global_id
+6.6733228,3.998836,,Point,LA,GRID,Ajebowale Market Ibowon,LASEPE13,Ibowon Market,,Mixed,,,true,true,true,true,true,true,true,7,Other,0104c14b-b08c-41d6-8912-fcb08495ab43
+6.53302,3.36763,,Point,LA,OSGOF,Alasela Market,LASSMU12,Alasela,BUA,,,,,,,,,,,,,0133d84c-f511-4fd1-98e2-5a81765898b2
+6.4426083,3.47132,,Point,LA,GRID,Trebet Superstore,LASEOA10,Peninsula,,Clothing Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,01e74f2e-4e2a-49ed-9727-940868c6a13c
+6.45804,3.24626,,Point,LA,OSGOF,Lagos International Trade Fair Complex,LASAON01,Lagos International Trade Fair Complex,BUA,,,,,,,,,,,,,01f199f4-2e69-443b-b5bd-9c37bd65aeeb
+6.627955,3.3324017,,Point,LA,GRID,Lsdpc Shoping Complex,LASIOE10,Ogba Ijaiye,,Clothing Food Stuff Mixed,,,false,true,false,false,false,false,false,1,Weekly,01f3c85f-d6f1-4374-a08a-d7c625c12b49
+6.6353823,3.2549757,,Point,LA,GRID,Atadola Farm Market,LASAMO07,Ajasa Command Atapa Road Lagos State,,Clothing Food Stuff Mixed,,,true,true,true,true,true,false,false,5,Weekly,03159934-b559-47c3-80b8-70d78a574018
+6.4366317,2.9781583,,Point,LA,GRID,Ajagun Modern Market,LASBDY04,Imeke,,Food Stuff,,,true,true,true,true,true,true,true,7,Other,0315cc77-907b-4613-b8f2-d0fc28af5346
+6.5378,3.39231,,Point,LA,OSGOF,Adebayo Market,LASSMU10,Adebayo,BUA,,,,,,,,,,,,,0329fa58-b3b8-47c8-b6c7-ddf3274c1b6f
+6.5994293,3.9433005,,Point,LA,GRID,Araromi Market Odo Temu Epe,LASEPE15,Malara,,Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Other,033dd30d-b644-4ec1-a609-e5a94689ce61
+6.47495,3.34634,,Point,LA,OSGOF,Sari Market,LASAPA03,Sari,BUA,,,,,,,,,,,,,037c43e8-3d70-472b-be29-b857fa5b2907
+6.52307,3.36081,,Point,LA,OSGOF,Folami Modern Market,LASMUN04,Folami Modern,BUA,,,,,,,,,,,,,03f04d1c-c77b-4cb0-a8e0-c8efbb1bfa91
+6.6296606,3.3438492,,Point,LA,GRID,Alhaja Habibatu Mogaji Market,LASIKA07,Ogba,,Livestock Food Stuff Mixed,,,false,false,false,false,false,false,true,1,Weekly,049c5b49-3b4d-48e0-9bee-ea6821adb9f3
+6.4376711,3.5107529,,Point,LA,GRID,Mayamaya Centre,LASEOA04,Osapa London,,Mixed,,,true,true,true,true,true,true,false,6,Weekly,04bb76ef-885c-4486-8b6d-74f1e7bd1905
+6.49789,3.5858317,,Point,LA,GRID,Ado Roundabout Market Langbasa,LASEOA06,Langbasa,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,04e2be87-2f82-4f3a-a7e1-58ee4ee4ee1d
+6.50499,3.38596,,Point,LA,OSGOF,Chanarite Supermarket,LASLMD04,Chanarite Supermarket,BUA,,,,,,,,,,,,,054f89b6-0346-4a11-b4f3-acd2746da766
+6.671615,3.3380033,,Point,LA,GRID,Iju Ogundimu Market,LASIOE13,Ogundimu iju,,Mixed,,,true,true,true,true,true,true,false,,Other,05cddb8a-2d76-43eb-915e-08dbe8e2c745
+6.46188,3.38682,,Point,LA,OSGOF,Idumota Market,LASLID14,Idumota,BUA,,,,,,,,,,,,,06302054-8432-43b3-94d7-5c49affe19d0
+6.6564933,3.4761817,,Point,LA,GRID,Asolo Market,LASIKU06,Asolo,,Clothing Livestock Food Stuff Mixed Other,There beer parlour and Restaurant,,true,true,true,true,true,true,true,7,Other,06987996-bc93-44f4-a1c8-b157f9c6a049
+6.4723,3.6291069,,Point,LA,GRID,Queens Shopping Center Sangotedo,LASEOA18,Sangotedo,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,074cfe2f-2bd8-4b46-b9d3-dd41cd05d760
+6.545768,3.374237,,Point,LA,GRID,Adanijo Pedro Market,LASSMU15,Pedro,,Mixed,,,true,true,true,true,true,true,false,6,Weekly,07740e4b-2c60-4faf-92b4-0b12e8519f0f
+6.5023767,3.18943,,Point,LA,GRID,Aratunu Market,LASOJO04,"OJO,IBA LOCAL GOVERNMENT",,Clothing Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Other,08418558-059b-4c06-a3ea-f5deb07f1a93
+6.6061974,3.2700708,,Point,LA,GRID,Abesan Retail Market,LASAMO02,Abesan estate,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,08a7506a-1435-4206-afe9-94a7af2ad1de
+6.4449417,3.2615817,,Point,LA,GRID,Ijegun Market 301,LASAON08,Satellite Town,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,09426f90-d635-4b3e-a142-c3e594c5ed97
+6.4505917,3.143175,,Point,LA,GRID,Proposed Site Etegbirin Etegbirin Oto Awori LGA,LASOJO02,Etegbin town oto Awori,,Other,,,true,true,true,true,true,true,true,7,Weekly,0983b4a9-1b18-41f8-8153-412cf5be1332
+6.4558233,3.441115,,Point,LA,GRID,PlazaQuintessence,LASEOA11,Park view gate,,Clothing Other,Services,,true,true,true,true,true,true,false,6,Other,09a59203-ce96-423b-a922-191a67b45b46
+6.4645417,3.2054617,,Point,LA,GRID,Iweju Anuoluwa Market Oko Efo LASU Isheri Road,LASOJO08,"Iweju settlement, Oko efo Lasu isheri road",,Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,09efec67-bad4-4b40-8273-db6f5c725932
+6.4579952,3.2865921,,Point,LA,GRID,Agboju Market,LASAON03,Agboju,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,09fba385-9d6a-4c0f-9b37-55e924bfccaf
+6.6095033,3.291725,,Point,LA,GRID,Bola Tinubu Model Market,LASAMO21,Gowon estate,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,0ac5ecba-d8eb-42a0-bfc3-d229068b94bb
+6.43338,3.50615,,Point,LA,OSGOF,Elegushi International Market,LASEOA13,Elegushi International,BUA,,,,,,,,,,,,,0b1e9d43-c823-4cbe-be7c-3cbec0f9791a
+6.4583667,3.4198733,,Point,LA,GRID,New Cruse Household,LASEOA09,Dolphin estate,,Mixed,,,true,true,true,true,true,true,true,7,Monthly,0b8c24fe-ab8a-419f-9208-56e3684bc161
+6.4552617,3.4040417,,Point,LA,GRID,Sura Market,LASLID12,Sura,,Mixed,,,true,true,true,true,true,true,false,6,Weekly,0d1ec6ba-11cd-4889-bfcc-49048d63de04
+6.4659633,3.1550033,,Point,LA,GRID,Tope Market Ajangbadi Illogbo Road,LASOJO07,Oto Awori Ajangbadi,,Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,0e12f629-9d5e-4ca2-90f8-cc04c29df621
+6.50219,3.3508083,,Point,LA,GRID,Fruit Market Masha Junction,LASSUE06,Masha,,Other,Fruits,,true,true,true,true,true,true,false,6,Weekly,0e9a9a16-2afd-4fc9-9279-4c290bb888e2
+6.6633957,3.2847301,,Point,LA,GRID,Ijaiye Ram Market,LASIOE08,Ijaiye,,Livestock,,,true,true,true,true,true,true,true,7,Other,0e9c09e8-a6f3-4f1d-b24f-2eb46c7864a0
+6.6714155,3.3363413,,Point,LA,GRID,Ajuwon Market,LASIOE13,Ajuwon,,Mixed,,,true,true,true,true,true,true,true,,Other,0fbbf650-3cf9-4c33-80fe-d1bc29965c42
+6.6101076,3.3698701,,Point,LA,GRID,Grand Square,LASKSE21,Toll gate,,Clothing Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,1053dcbe-9e03-4b44-9d36-85f7685dc28b
+6.5520917,3.206715,,Point,LA,GRID,Egan Odo Plank Market,LASAMO17,Egan,,Other,Planks and building materials,,true,true,false,true,true,true,true,6,Other,105e12f3-3ffb-4fb2-bfde-26a0cbc7b97f
+6.5469462,3.3324911,,Point,LA,GRID,Azde Plaza,LASOIO04,Isolo way,,Clothing Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,10dc7f4a-4982-4019-9837-543184e1b1e4
+6.46315,3.16986,,Point,LA,OSGOF,Ilemba Hausa Market,LASOJO07,Ilemba Hausa,BUA,,,,,,,,,,,,,118e84cc-d913-4717-b8c2-1880a1043609
+6.6550953,3.7940615,,Point,LA,GRID,Itokin Market,LASEPE09,Itokin,,Food Stuff,,,false,false,false,false,false,false,true,1,Weekly,12dcafca-20c0-4289-b881-4fd9fa526d21
+6.5075333,3.3340683,,Point,LA,GRID,Ola Market,LASMUN14,Itire Surulere,,Clothing Food Stuff Mixed Other,Provisions and beverages,,true,true,true,true,true,true,true,7,Weekly,1354f33b-0394-49ce-822c-e30e2e4396a2
+6.4960383,3.1223017,,Point,LA,GRID,Vespa Market,LASOJO06,Vespa,,Clothing Livestock Food Stuff,,,true,true,true,true,true,true,false,6,Other,153a399a-0e89-4509-b602-25b87a935ee1
+6.4844877,2.9597143,,Point,LA,GRID,Market 4,LASBDY13,Ikoga,,Other,Building materials,,true,true,true,true,true,true,false,6,Weekly,15602cf4-e0ab-49f4-bc13-3b75d111116d
+6.43566,2.8891883,,Point,LA,GRID,New Market,LASBDY03,Ajala - Badagry,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,15612ee2-3fca-4e28-8fa1-9aab4f1474f6
+6.5285019,3.3548727,,Point,LA,OSGOF,Ojuwoye Market,LASMUN03,Ojuwoye,BUA,,,,,,,,,,,,,15bd78b0-f9b0-4f4c-9e03-333b517bd536
+6.6147967,3.35799,,Point,LA,GRID,Ikeja City Mall,LASIKA04,Alausa,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,161c8df6-697d-4f2e-a2e8-23b0edfa49b1
+6.5932367,3.2408317,,Point,LA,GRID,Wuraola Market,LASAMO15,Ayobo Alaja Road,,Food Stuff,,,true,true,true,true,true,true,false,6,Weekly,165d935f-b280-46be-b447-f77383ee4f60
+6.5679436,3.479365,,Point,LA,GRID,Akinsanya Market,LASIKU01,"Rabaka, Owode Rabaka bus stop, Ibeshe",,Clothing Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,16bc3960-d9cb-4bf4-bee9-eb8d57df96bc
+6.54921,3.23369,,Point,LA,OSGOF,Olufunmi Modern Market,LASAMO17,Olufunmi Modern,BUA,,,,,,,,,,,,,16d40214-0446-4417-920c-286d7b9ac3db
+6.6210717,3.3293833,,Point,LA,GRID,Moshood Abiola Modern Market,LASAGG06,Old Ogba road,,Clothing Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Other,17e0b78f-517b-4e1b-bcf2-3a39fc4d737b
+6.4998083,3.327725,,Point,LA,GRID,Itire Ijesha Market,LASMUN13,Itire Ijesha,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,180de20d-9343-4c09-a6e0-63b831ba541f
+6.4548463,3.5302384,,Point,LA,GRID,Prince Ebeano,LASEOA04,Chevron,,Mixed,,,true,true,true,true,true,true,true,7,Monthly,18833a51-6029-4406-aedb-534b481fd2cc
+6.4395666,3.4884489,,Point,LA,GRID,Credo,LASEOA10,Ikate elegushi,,Mixed,,,true,true,true,true,true,true,true,7,Monthly,18ab0370-df23-4db8-b0b2-d432d6f66df7
+6.4646795,3.3266074,,Point,LA,GRID,Alaba Market 334,LASATO14,Alaba Oro market,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,1914a6a8-8c47-43a5-bae1-75b7f910cf6a
+6.4590922,3.163327,,Point,LA,GRID,Ajagbandi Market,LASOJO07,Ajagbandi Market Off Ilemba,,Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,19183478-9bfc-42f9-92a9-0b2a6d1ee693
+6.46369,3.14458,,Point,LA,OSGOF,Ifelodun Community Market,LASOJO07,Ifelodun Community,BUA,,,,,,,,,,,,,197be610-f2f1-4ba9-a5d8-4aaef622db3e
+6.57554,3.3237567,,Point,LA,GRID,Murtala Muhammed International Airport Shopping Complex,LASOIO12,Murtala Muhammed International Airport,,Mixed,,,true,true,true,true,true,true,true,7,Other,19824b5f-7d77-42f2-9398-84af57e49e61
+6.6464117,3.5172317,,Point,LA,GRID,Lambo lasun Market,LASIKU06,Lambo-lasun,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,19b8711a-d315-4b0f-ba5e-012bcd4f9527
+6.5260426,3.2952292,,Point,LA,GRID,Prime Assets Plaza,LASOIO03,Ailegun,,Clothing Electronic Spare Parts Mixed,,,true,true,true,true,true,true,false,6,Weekly,1a42dce4-9c62-4d65-a148-53fef004dfe5
+6.5518408,3.3010652,,Point,LA,GRID,Egigbo Market,LASOIO09,Ejigbo,,Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Other,1a672009-5367-415a-83e0-cbd39cbd59a8
+6.5497921,3.2686347,,Point,LA,GRID,Irepodun Market 228,LASAMO20,Ikotun,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,1ab9cfec-a8cd-4b6a-9bd5-387ad90149ba
+6.46095,3.1436967,,Point,LA,GRID,Akorede Plank Market,LASOJO03,Shibiri,,Other,Plank/Wood,,true,true,true,true,true,true,false,6,Other,1d0359bb-5e66-463b-ab72-b4cbfefd0d9b
+6.5289111,3.2399097,,Point,LA,GRID,Abaranje Market,LASAMO01,Abaranje,,Clothing Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,1f88a6e1-dbb9-46e3-b32e-45f4c19f02fc
+6.6743817,3.2724983,,Point,LA,GRID,Kola Market,LASIOE08,Kola,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,1fb22ada-9778-4de3-a480-1d8caf40106f
+6.55492,3.33058,,Point,LA,GRID,Star Diamond Plaza,LASOIO15,mafoluku,,Mixed,,,true,true,true,true,true,true,false,6,Other,1fbd0de8-8281-4f47-9356-4da14678375b
+6.4367433,3.511035,,Point,LA,GRID,Alubarika Plano Market,LASEOA15,Lekki,,Other,Plank and plywoods,,true,true,true,true,true,true,false,6,Weekly,2098d878-9f70-4e94-af5b-ca1218dc988b
+6.5505611,3.2383432,,Point,LA,GRID,Egan Market,LASAMO17,Egan market,,Clothing Livestock Electronic Spare Parts Food Stuff,,,true,true,true,true,true,true,false,6,Weekly,209ba648-71cb-44cd-9604-04fe26bb8388
+6.6221684,3.3605197,,Point,LA,GRID,MKO Abiola Gardens Shopping Complex,LASIKA04,MKO Abiola Gardens,,Mixed,,,true,true,true,true,true,true,false,6,Other,216fef2b-57e1-47f9-a64e-22c253dca615
+6.4966229,3.0054246,,Point,LA,GRID,Agunmo Market,LASBDY13,Agunmo,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,218ff565-d536-4213-bce0-4c0e43eb1950
+6.5965832,3.3845041,,Point,LA,GRID,Ikosi Market Ketu,LASKSE11,Ikosi market,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,227322f3-97e5-491d-9f31-9e8b549f04a4
+6.6136333,3.2740933,,Point,LA,GRID,Mosan Market,LASAMO29,Mosan community market,,Food Stuff,,,true,true,true,true,true,true,true,7,Other,22a7fadc-f805-44c9-b3e0-3095e7c09f7b
+6.5468316,3.331175,,Point,LA,GRID,Limit5 Superstore,LASOIO04,Ajao estate,,Clothing Livestock Mixed,,,true,true,true,true,true,true,false,6,Weekly,22cd3af2-2fad-480c-b278-42131c298f5f
+6.4679554,3.3504792,,Point,LA,OSGOF,Oke Oja Market,LASATO12,Oke Oja,BUA,,,,,,,,,,,,,240df40e-d967-4c2a-92ab-21fba794e0b1
+6.5227502,3.3189701,,Point,LA,GRID,Ire Akari Estate Market,LASOIO14,Ire akari,,Mixed,,,true,true,true,true,true,true,false,6,Other,2439f30c-93be-4eef-8bde-f309ef60219e
+6.6067681,3.3515894,,Point,LA,GRID,New Alade Market,LASIKA04,Alade,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,244ff0f9-d49c-45b3-a0c7-16f8a0faad87
+6.4481432,3.4732418,,Point,LA,GRID,Lush Mall,LASEOA10,Peninsula,,Clothing Livestock Electronic Spare Parts,,,true,true,true,true,true,true,true,7,Weekly,246a5d95-3257-45d6-bf2e-1f66c5718efb
+6.4943483,3.3860783,,Point,LA,GRID,Asejere Fish Smoking Market,LASLMD03,Makoko,,Food Stuff,,,true,true,true,true,true,true,true,7,Other,247d47a1-b9e1-497e-91cd-73d5f66576e2
+6.42478,4.10039,,Point,LA,OSGOF,Market Centre,LASIUI06,Center,SSA,,,,,,,,,,,,,2485e62f-8d49-4c19-be4f-5bb8720f7854
+6.610275,3.2845867,,Point,LA,GRID,Ladegba Market,LASAMO29,Shagari estate,,Electronic Spare Parts,,,true,true,true,true,true,true,false,6,Weekly,25c0837c-f378-489f-8c53-e8da577a0f9e
+6.46156,3.39098,,Point,LA,OSGOF,Sagbemi Market,LASLID10,Sagbemi,BUA,,,,,,,,,,,,,25ca0e91-e82e-4801-bf4b-6fad9a286f4f
+6.51332,3.33402,,Point,LA,OSGOF,Afenifere Building Market,LASMUN14,Afenifere Building,BUA,,,,,,,,,,,,,2650f17a-b9ec-4412-8fff-ec694741372d
+6.56758,3.59353,,Point,LA,OSGOF,Ewu Elepe Market,LASIKU25,Ewu Elepe,BUA,,,,,,,,,,,,,26858ea1-36a1-4d26-8933-ed7981dc9afc
+6.5437919,3.3412077,,Point,LA,GRID,Ogbewi Gate 2 Market,LASMUN19,Ladipo Market,,Electronic Spare Parts,,,true,true,true,true,true,true,false,6,Weekly,26ebb325-86dc-4d58-9c51-21fd3720f7db
+6.49265,3.58364,,Point,LA,OSGOF,Oke Ira Kereke Market,LASEOA02,Oke Ira Kereke,BUA,,,,,,,,,,,,,26f8a172-7a95-4a42-b56a-be343feedc18
+6.6399833,3.5152167,,Point,LA,GRID,Oke gbegun Plank Market,LASIKU06,Oke-gbegun,,Other,Plank,,true,true,true,true,true,true,false,6,Other,278de0c4-3561-415d-adc9-07a1bace4af6
+6.4378683,2.9671133,,Point,LA,GRID,Alhaja Awawu Ayoka Ashorobi Plaza,LASBDY07,Ilado,,Clothing Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Other,281484e6-ea14-4efe-acae-23bcfd03e28d
+6.4441685,3.4151994,,Point,LA,GRID,Kids Republic Supermarket,LASEOA16,Keffi,,Clothing,,,true,true,true,true,true,false,false,5,Other,2826d27c-5917-428b-88f2-17f86d23149d
+6.44584,3.3386967,,Point,LA,GRID,Alakoto Market,LASATO04,Olodi Apapa,,Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,28306f5b-59fb-44dc-9714-bfc9190bfd00
+6.5114965,3.3193342,,Point,LA,GRID,Old Okota Market Square,LASOIO18,Okota,,Mixed,,,true,true,true,true,true,true,true,7,Other,294f339d-16e0-425f-86dd-955b277d9128
+6.6002633,3.5690333,,Point,LA,GRID,Green Grace Farmers Market,LASIKU29,Ewu oliwu,,Mixed,,,true,true,true,true,true,true,false,6,Weekly,2959c7c8-6e3a-4fad-aaa2-632cec7089ec
+6.4660926,3.6661451,,Point,LA,GRID,Warike Shopping Complex,LASIUI04,Abijo,,Other,"Dstv, provisions, Electronic, salon, restaurant kitchen",,true,true,true,true,true,true,false,6,Other,2a168e1b-556e-4ac5-b853-e82c9cb41af6
+6.553185,3.40107,,Point,LA,GRID,Odo eran Market,LASKSE17,Oworonshoki,,Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,2a1b0601-8f2e-426d-a170-5f12acadea67
+6.5280717,3.2392233,,Point,LA,GRID,Okerube Plank Market,LASAMO01,Okerube,,Other,Planks and Building Materials,,true,true,true,true,true,true,true,7,Other,2a47c4b0-2d2d-46e1-8e0d-a1691289abf4
+6.5937517,3.3574867,,Point,LA,GRID,Pentagon Shopping Plaza,LASIKA14,Opebi,,Mixed,,,true,true,true,true,true,true,false,6,Other,2aefbbd0-9374-43ee-9c5d-2e6d99b86f9b
+6.5446912,3.3431892,,Point,LA,GRID,Ladipo MarketOhaize Market,LASMUN19,Ladipo Market Area,,Electronic Spare Parts,,,true,true,true,true,true,true,false,6,Weekly,2b273e9a-aa1c-42e3-8e60-34b810ca4a04
+6.4753667,3.274262,,Point,LA,OSGOF,Festac Market Shopping Centre,LASAON10,Festac Shopping Center,BUA,,,,,,,,,,,,,2b5a2375-95f4-4f32-9408-0b1cd7e8060f
+6.47874,3.17388,,Point,LA,OSGOF,Mebamu Central Market,LASOJO01,Mebamu Central,BUA,,,,,,,,,,,,,2ca5bcaa-34f0-4323-ae12-d908b40e23c2
+6.4745,3.17002,,Point,LA,OSGOF,Salami Market,LASOJO07,Salami,BUA,,,,,,,,,,,,,2ccb61d7-9cfd-4683-9129-72727fe99212
+6.4901656,3.3574303,,Point,LA,GRID,Shop Rite Mall Adediran Ogunsanya,LASSUE01,Adeniran Ogunsanya shop rite mall,,Clothing Electronic Spare Parts Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,2ccbf868-bf2c-4e23-8fd7-cc504f08ec74
+6.6552067,3.3232017,,Point,LA,GRID,Fagba Market,LASIOE02,Fagba,,Clothing Livestock Electronic Spare Parts Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,2ce55793-b845-4fc0-a7a4-0be6f4a0f16b
+6.5902517,3.6244567,,Point,LA,GRID,Oke olokun Cpi Market,LASIKU04,Oke-olokun Agura,,Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,2d54aef6-11a1-4a68-9ece-834060d2426f
+6.4441917,3.40242,,Point,LA,GRID,Lagos City Mall,LASLID04,Onikan,,Clothing Other,Electronic,,true,true,true,true,true,true,true,7,Weekly,2e1d62a2-f5da-4356-b77d-0bbb8fab552c
+6.4609163,3.2245911,,Point,LA,GRID,Ogunjobi Tofunmi,LASOJO08,Mammi market,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,false,true,6,Weekly,2e33113d-467a-4cf6-af46-7c3a75a08050
+6.43735,3.50977,,Point,LA,OSGOF,Ile Anu Market,LASEOA04,Ile Anu,BUA,,,,,,,,,,,,,2e4b6026-9764-4068-a932-009d6a139c59
+6.6402133,3.3661833,,Point,LA,GRID,Berger Market,LASIKA08,Berger market,,Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,2e710555-787c-4721-9b70-d7084aad9e27
+6.66054,3.61889,,Point,LA,OSGOF,Isiu Market,LASIKU07,Isiu,SSA,,,,,,,,,,,,,2ea91a45-fd97-4578-bada-abed6e6ffc55
+6.4380017,3.9362817,,Point,LA,GRID,Akodo Community Market,LASIUI08,Akodo community,,Clothing Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Other,2ec97b3b-e7ec-47e0-b80b-5985a8ef4408
+6.6304053,3.3436409,,Point,LA,GRID,Ogba Oluwole Retail Market,LASIKA07,Ogba,,Clothing Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,2f4a57a7-09b6-432f-988d-dbee91a7b502
+6.6142367,3.57796,,Point,LA,GRID,Ola Oluwa Market,LASIKU29,Bagidan oko filling road,,Mixed,,,true,true,true,true,true,true,false,6,Other,2fb97333-f760-4730-8c7e-018e1d314688
+6.5301295,3.3082668,,Point,LA,GRID,Jakande Gate Market,LASOIO03,Isolo,,Mixed,,,true,true,true,true,true,true,true,7,Other,2fde68a5-574a-4b5a-838e-64baecddd194
+6.5824483,3.3808117,,Point,LA,GRID,Kujore Market,LASKSE16,Ojota,,Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,2ff91d84-f97b-44ea-aff4-cda7bcc2447f
+6.6093917,3.3959133,,Point,LA,GRID,Mile 12 Market 259,LASKSE20,Mile 12,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,304c8592-8c4e-43fb-aad5-803b7035515a
+6.600685,3.3641967,,Point,LA,GRID,Oregun Market,LASIKA15,Oregun,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,30b95711-d147-40b4-aa31-f6603df95f4e
+6.4610416,3.3240416,,Point,LA,GRID,Charles Avenue Suru Market,LASATO14,Suru Alaba,,Food Stuff,,,true,true,true,true,true,true,false,6,Weekly,30d94b1f-64b5-4036-8d37-6731efa10990
+6.5225633,3.2574383,,Point,LA,GRID,Seamoriow Supermarkets,LASAMO01,"Ikotun, Ijegun road",,Mixed,,,true,true,true,true,true,true,true,7,Other,30dc2da4-873c-4e6e-a477-3ac208c25198
+6.589175,3.51825,,Point,LA,GRID,Kaniyi Owode Market,LASIKU01,IGBOGBO MARKET,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,31160fbe-c617-43ee-93cf-9f97429bbd2e
+6.4686483,3.6394167,,Point,LA,GRID,Shoprite Sangotedo Lekki,LASEOA18,Sangotedo lekki,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed Other,All kind of goods you need,,true,true,true,true,true,true,true,7,Other,319d2fd4-ac20-4bd5-87d6-ccc89bea5135
+6.508085,3.362835,,Point,LA,GRID,Clegg Street Market,LASSUE10,Surulere,,Electronic Spare Parts,,,true,true,true,true,true,true,true,7,Weekly,31d5366b-b568-4bef-b7b7-b30541655d05
+6.489775,3.1746783,,Point,LA,GRID,Iyana Ishasi Plaza,LASOJO05,Isashi road,,Clothing Electronic Spare Parts Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,32353d2b-74ba-4e07-9fb6-6c55252f59bb
+6.650251,3.360097,,Point,LA,GRID,Market,LASIKA08,Oja market,,Mixed,,,false,false,true,false,false,false,false,,Weekly,329dbd01-73a6-47ff-995d-55a9dccc0452
+6.5501826,3.3319017,,Point,LA,GRID,Philez Plaza,LASOIO04,ajao estate,,Mixed,,,true,true,true,true,true,false,false,5,Other,32d62dd4-bda5-46a5-ae0f-d1af92dbcade
+6.5038256,3.183112,,Point,LA,GRID,Ayefo Market,LASOJO04,Aratunu Road,,Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,330dcee5-c38f-4a3d-93ed-7da871940e14
+6.52362,3.36121,,Point,LA,OSGOF,Igbeyin Adun Market,LASMUN04,Igbeyin Adun,BUA,,,,,,,,,,,,,33ef54b5-1d9b-45c0-8b57-bd1d42e6bfe5
+6.640666,3.3317306,,Point,LA,GRID,Obawole Aina Arupe Market,LASIOE05,Coker,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,348bac81-109c-44a7-9ab0-9ff29464ba59
+6.4684411,3.3621611,,Point,LA,GRID,Railway Market 254,LASAPA06,"Better life, fadaini street badia",,Clothing Livestock Other,"Paints, electronics, carpets",,true,true,true,true,true,true,true,7,Weekly,34ad25b3-0cb7-44cf-af8d-3a5ebac5fea9
+6.5766217,3.2763167,,Point,LA,GRID,Oja Oba Plank Market,LASAMO28,Isheri Olofin,,Mixed Other,"Planks, building Materials food stuff",,true,true,true,true,true,true,true,7,Other,35fe5d4a-ac8e-45ae-b1a8-e41b81c89abb
+6.5222726,3.3179608,,Point,LA,GRID,Kamola Plaza,LASOIO14,Okota,,Mixed,,,true,true,true,true,true,true,false,6,Other,361ac93c-871c-424f-8981-f0a62c179748
+6.626815,3.50716,,Point,LA,GRID,Sabo Market 380,LASIKU26,Sabo,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,37829d2c-feaf-4997-93c7-f561a0efa0b9
+6.4381636,3.5150447,,Point,LA,GRID,Chief Muritala Odofin Complex,LASEOA04,Lekki,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,37eea72d-f11c-4521-9ac3-c1be15bf96ea
+6.5320098,3.2791118,,Point,LA,GRID,Agodo Irepodun Market,LASAMO18,Agodo,,Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,380a3bdb-0876-4726-a3b1-95dea9488c71
+6.553575,3.37793,,Point,LA,GRID,Sawmill Markert,LASKSE05,Redemption crescent,,Mixed,,,true,true,true,true,true,true,false,6,Bi-Weekly,39c5a2f3-2ede-4c7e-ab1b-bdad48a7db17
+6.5642652,3.3494458,,Point,LA,GRID,Nigerian Army Shopping Arena,LASIKA12,Nigerian army cantonment,,Clothing Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,3a4a44c9-ee90-4b78-8668-dfd8be507934
+6.4787317,3.3334867,,Point,LA,GRID,Coker Bridge Market,LASSUE13,Coker,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,3a4ecfe0-1480-4e71-b0a3-fe233837dd1e
+6.4681267,3.37795,,Point,LA,GRID,Ijora Olopa MarketUnder Bridge,LASAPA08,Ijora olopa,,Livestock Food Stuff,,,true,true,true,true,true,true,false,6,Weekly,3bf39f2d-36d7-46b7-ba5c-7a2f0824ea63
+6.678105,3.5969017,,Point,LA,GRID,Mojoda Market,LASIKU18,Emuren rd,,Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,3c5561fe-6f11-41e0-9c83-086bb230e3b9
+6.4614333,2.959915,,Point,LA,GRID,Sewede Akoro Plaza,LASBDY03,Mowo,,Mixed,,,true,true,true,true,true,true,false,6,Other,3cd3a98a-5c00-4c26-b32f-f3b100ab3eeb
+6.45979,3.33794,,Point,LA,OSGOF,Abule Layeni Market,LASATO10,Abule Layeni,BUA,,,,,,,,,,,,,3cf92046-89db-48dc-b7cc-158e3e2bad46
+6.4176228,2.8756985,,Point,LA,GRID,Agbalata Market,LASBDY16,Jegba,,Mixed,,,true,true,true,true,true,true,false,6,Other,3d26bad6-f90d-41ec-99df-d71b35c45796
+6.4281233,3.4092067,,Point,LA,GRID,Silverbird Galleria,LASEOA20,Mall,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,3d4e3038-acfc-4ca2-95b4-66890c742a14
+6.4384973,3.5164364,,Point,LA,GRID,Lucky Best,LASEOA04,Ajiran,,Mixed,,,true,true,true,true,true,true,false,6,Monthly,3e0c5820-278d-4987-89de-d826a0a6d47c
+6.4636449,3.3874963,,Point,LA,GRID,Docemo Market,LASLID08,Docemo Obun-eko,,Mixed,,,true,true,true,true,true,true,false,6,Other,3e4555d8-ec41-4b04-b806-dae691c4fac6
+6.6036733,3.6061683,,Point,LA,GRID,Ewu Owa Market,LASIKU04,Ewu owa,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,3e4c99cd-5f60-4aa5-9b47-d0a95b501729
+6.6041467,3.350675,,Point,LA,GRID,Scanfrost Plaza,LASIKA03,Allen,,Electronic Spare Parts,,,true,true,true,true,true,true,false,6,Weekly,3f70c1ff-4e16-4c10-8975-8b9c417d326b
+6.6217873,3.3225988,,Point,LA,OSGOF,Papa Nku Market,LASAGG11,Papa Nku,BUA,,,,,,,,,,,,,3feb049d-be49-47ca-84a5-a308ea0153f9
+6.44317,3.31133,,Point,LA,OSGOF,Kirikiri Market,LASAON11,Kirikiri,BUA,,,,,,,,,,,,,40e578fe-c887-4b7c-98a2-ace66c326045
+6.5995794,3.3829242,,Point,LA,GRID,Ikosi Jakande Market,LASKSE04,Ikosi-ketu,,Clothing Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,413f6216-14c2-487f-9258-9d0f78abe218
+6.4761116,3.3426398,,Point,LA,GRID,Sari Iganmu Market,LASAPA03,Sari Iganmu,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,41cc642f-67b4-4885-a957-9cfc0220768a
+6.59206,3.51645,,Point,LA,OSGOF,Igbogbo Market,LASIKU01,Igbogbo,BUA,,,,,,,,,,,,,426f97f6-5108-4d06-8086-44d501f98c12
+6.4532417,3.3273633,,Point,LA,GRID,Awodiora Retail Market,LASATO07,Awodiora,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,42998333-4225-4b5c-9c02-3f3fb6c005eb
+6.6164533,3.5669283,,Point,LA,GRID,Elepe Market,LASIKU29,Ewu Elepe,,Mixed,,,true,true,true,true,true,true,false,6,Other,432dc167-e96f-4a22-b335-4a8694514bb3
+6.6253683,3.9855633,,Point,LA,GRID,Fadama Project Market,LASEPE15,Eredo Naforija,,Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Other,46246cd5-f52a-463a-9288-afad9da13e40
+6.64612,3.34442,,Point,LA,OSGOF,Oke Ira Shopping Plaza,LASIKA10,Oke Ira Shopping Plaza,BUA,,,,,,,,,,,,,4657d7c7-064a-452e-894b-d33e515e4d4a
+6.6279167,3.3545417,,Point,LA,GRID,Spare Part Market,LASIKA07,Agidingbi road,,Electronic Spare Parts,,,true,true,true,true,true,true,false,6,Other,476e94dc-6446-493f-9684-58891eb55ae4
+6.6095067,3.407615,,Point,LA,GRID,Owode Onirin Market,LASKSE10,Owode onirin,,Electronic Spare Parts,,,true,true,true,true,true,true,false,6,Other,477e7bf9-9296-41b8-a2e4-1b0c20c7e2ff
+6.5712817,3.3042017,,Point,LA,GRID,Orisunbare Modern Market,LASAMO30,Shasha,,Food Stuff,,,false,true,false,false,false,false,false,1,Weekly,47ce2563-252b-42fe-b826-aef89c650fee
+6.6349909,3.3489833,,Point,LA,GRID,Cvs Supermarket,LASIKA01,Aguda,,Clothing Electronic Spare Parts,,,true,true,true,true,true,true,false,6,Weekly,4900ebde-94c3-4a54-93d6-90ec4e93b66b
+6.4626587,3.3840485,,Point,LA,GRID,Ebute ero Gorodom Market,LASLID14,Gorodom,,Mixed,,,true,true,true,true,true,true,false,6,Other,4aedfb4b-9f75-4e73-ad75-86f6e35befba
+6.5328962,3.3949383,,Point,LA,GRID,Assigning Market,LASSMU10,Ilaje,,Mixed,,,true,true,true,true,true,true,false,6,Weekly,4b8a8aea-ade6-4305-ad32-9f59a9cdebfe
+6.5415967,3.5000883,,Point,LA,GRID,Psalm91 Super Market,LASIKU09,Offin,,Mixed,,,true,true,true,true,true,true,false,6,Weekly,4bd2282b-b33c-4b15-b005-7543e158d204
+6.4910376,3.0226787,,Point,LA,GRID,Odan Ilogbo Eremi Community Market Phase 1,LASBDY13,Ilogbo,,Clothing Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Other,4c299e4c-e3a8-465e-8260-1551fc8ed13c
+6.599345,3.38774,,Point,LA,GRID,Oja Oba Market Ketu,LASKSE09,Ketu,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,4c437940-01e7-48ae-80e7-933959383e12
+6.6136626,3.3295835,,Point,LA,GRID,Ashade Market,LASAGG13,Akanni Doherty,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Other,4c4c7c6d-2ebe-41cc-8501-88ca78e3ab0b
+6.6679398,3.7358844,,Point,LA,GRID,Otta Market,LASEPE05,Otta,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,4c9873dd-d091-46e7-a388-ba714e34d7fe
+6.4656792,3.3902842,,Point,LA,GRID,Fresh Fish Market,LASLID08,Iso eleja,,Livestock,,,true,true,true,true,true,true,false,6,Other,4c99105c-70c4-4112-ba41-bd4d583ab835
+6.4378317,3.3675008,,Point,LA,GRID,Nars Supermarket,LASAPA02,"Burma Road, Wharf Apapa",,Mixed,,,true,true,true,true,true,false,false,5,Weekly,4cce66bb-1dfa-4aae-ac66-7ec975ec33b6
+6.6052467,3.6002817,,Point,LA,GRID,Mummy Wuraola Stores,LASIKU04,Onefold gberigbe,,Mixed,,,true,true,true,true,true,true,false,6,Weekly,4d714d87-a33d-4b8f-9b37-a2387a670b0a
+6.4563083,3.5303187,,Point,LA,GRID,Evron Food Store,LASEOA04,Chevron,,Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Monthly,4ddd31ed-d1f4-44ab-81f3-2dec4cebce85
+6.57833,3.34142,,Point,LA,OSGOF,Shogunle Market,LASOIO20,Shogunle,BUA,,,,,,,,,,,,,4e22e44e-9342-454e-b913-2011c68335ac
+6.5289708,3.3206724,,Point,LA,GRID,Royal Plaza,LASOIO05,akingbaiye,,Mixed,,,true,true,true,true,true,true,false,6,Other,4f146672-27f8-4847-8565-3c932d264f85
+6.4846867,3.0757017,,Point,LA,GRID,Ibiye Market,LASBDY08,Ibiye,,Food Stuff,,,true,true,true,true,true,true,false,6,Weekly,4f261a16-5da0-4c80-b0b7-1a02c909267a
+6.4733167,3.5736683,,Point,LA,GRID,Estate Plaza,LASEOA03,Thomas,,Clothing Electronic Spare Parts Mixed,,,true,true,true,true,true,true,true,7,Weekly,4fa1fe79-c887-4ea1-81f8-a74626fdd879
+6.62835,3.3249083,,Point,LA,GRID,Jakande Market,LASAGG06,Beach road,,Clothing Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Bi-Weekly,50a14264-d7f2-4645-b8ec-51141a8f9756
+6.4388117,2.90521,,Point,LA,GRID,Molakina Shopping Complex,LASBDY18,Ibereko,,Mixed,,,true,true,true,true,true,true,false,6,Weekly,516731b4-6092-4a07-9b79-f61eddc67d11
+6.6206639,3.3603995,,Point,LA,GRID,Florence Adebanjo Shopping Complex,LASIKA04,Alausa,,Mixed,,,true,true,true,true,true,true,false,6,Other,5223baca-828e-452c-b228-53c61d7276ef
+6.59067,3.22946,,Point,LA,OSGOF,Nojimu Tiamiyi Market,LASAMO15,Nojimu Tiamiyi,BUA,,,,,,,,,,,,,52d620ea-5df8-4828-8622-9d810ff7dfe4
+6.4548707,3.244623,,Point,LA,GRID,Article Dealers Market,LASAON01,Under Bridge,,Clothing Livestock Electronic Spare Parts Mixed,,,true,true,true,true,true,true,false,6,Weekly,53518bb3-8bc1-410c-b1db-68307884cb58
+6.5917817,3.3610883,,Point,LA,GRID,Lts Shopping Mall,LASIKA14,Salvation Road,,Mixed,,,true,true,true,true,true,true,true,7,Other,5383cfbc-7069-404a-a47c-da64c2515284
+6.4383122,3.5160143,,Point,LA,GRID,Chief Muritala Odofin Shopping Compplex,LASEOA04,Lekki,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,5397ee39-0c61-4b0b-aa80-9002a4117875
+6.53481,3.36773,,Point,LA,OSGOF,Somolu Model Market,LASSMU12,Somolu Model,BUA,,,,,,,,,,,,,53dd0237-48f2-4a51-a17d-8b79472a8188
+6.46761,3.56415,,Point,LA,OSGOF,Ajah Ultra Modern Market,LASEOA03,Ajah Ultra Modern,BUA,,,,,,,,,,,,,5522c11c-e975-4afc-b25d-f3cb4d321759
+6.5703805,3.2107465,,Point,LA,GRID,Boluwatife Super Market,LASAMO15,"Akinola Street, Ijon  Promise Land Ayo  Lagos",,Clothing Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,55d35049-7df9-4642-a0ba-7769291e959d
+6.4299283,3.494205,,Point,LA,GRID,Orile Ilasan Market,LASEOA13,Ilasan market,,Mixed,,,true,false,true,false,true,false,false,3,Weekly,55daa96d-24d8-4ed2-9e41-92b1dd057c15
+6.6364283,3.3816317,,Point,LA,GRID,Isheri Oke Ayetoro Market,LASKSE12,Isheri Magodo,,Mixed,,,true,true,true,true,true,true,false,6,Weekly,564fb938-6902-4815-8b62-5aaee9bd1881
+6.4606206,3.2063816,,Point,LA,GRID,Afolabi Ege Market Iyana Oba,LASOJO08,"Afolabi ege market, iyana oba,Lagos badagry express road",,Clothing Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,56a73242-2328-4af6-ab65-c457e62ea7f5
+6.4394133,3.3588967,,Point,LA,GRID,Sunny Market The Beach Liverpool,LASAPA05,Sunny market,,Clothing Livestock Food Stuff,,,true,true,true,true,false,false,true,5,Weekly,570b5804-aa10-4f33-ad5e-c9707318cef6
+6.5245791,3.2925498,,Point,LA,GRID,Isheri Market,LASOIO03,ailegun,,Mixed Other,building materials,,true,true,true,true,true,true,false,6,Other,57c362f7-c9cf-4d08-ad21-3be28ce46e1b
+6.5471533,3.3323181,,Point,LA,GRID,Ramotalahi Ayodele Memorial Plaza,LASOIO04,Isolo way,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,583a2a15-ccea-45bb-9b2c-2522c1174d25
+6.6033583,3.4856983,,Point,LA,GRID,New Ebute Modern Market,LASIKU15,Dangota,,Food Stuff,,,false,false,false,false,false,true,false,1,Weekly,58834475-603e-4fbe-96d6-a2410df39f02
+6.45717,3.34304,,Point,LA,OSGOF,Night Market,LASATO02,Night,BUA,,,,,,,,,,,,,589c43d1-176b-4765-87ac-b3746cc7bbf2
+6.48886,3.34844,,Point,LA,OSGOF,Supermarket Royal,LASSUE22,Supermarket Royal,BUA,,,,,,,,,,,,,590b19b8-f0a9-4d2f-8f32-8906b44c0b8d
+6.6082128,3.3483167,,Point,LA,GRID,Ojuolape Plaza,LASIKA07,The plaza is located on aromire street,,Clothing Other,Salon,,true,true,true,true,true,true,false,6,Weekly,5a4e9048-951f-4755-b6ce-1ff95c0dab6e
+6.4648517,3.1454933,,Point,LA,GRID,Ilogbo Plank Market,LASOJO07,Ilogbo Babalola,,Other,Plank,,true,true,true,true,true,true,false,6,Other,5b2557d8-1ec1-431c-8f3a-e1590ff330be
+6.4355483,3.50275,,Point,LA,GRID,First Gate Market,LASEOA13,Jakande ist gate market,,Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,5bf63b32-0aca-4078-88e8-62e70364fdf1
+6.621785,3.3524367,,Point,LA,GRID,Master Furniture Plaza,LASIKA07,Alausa,,Other,Furniture,,true,true,true,true,true,false,false,5,Weekly,5c6083f3-9548-4a4e-900e-63f92e192748
+6.5592663,3.3314973,,Point,LA,GRID,Saubana Market,LASOIO19,Oshodi,,Mixed,,,true,true,true,true,true,true,true,7,Other,5c6be9d7-b1a6-404d-8dda-18a2f02e0e1f
+6.4734583,3.8445417,,Point,LA,GRID,GroceryCom Supermarket,LASIUI09,Eleko,,Other,Provisions,,true,false,false,false,false,false,false,1,Weekly,5cf6cb27-9b9c-43ac-aee2-11330a6eed90
+6.4469267,3.3337483,,Point,LA,GRID,Idewu Market,LASATO09,Olodi Apapa,,Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,5facd4c2-1be0-40f0-8cea-a8d351e0f5f6
+6.4968783,3.3001847,,Point,LA,GRID,Ibiwoye Modern Market,LASOIO18,Agor,,Food Stuff,,,true,true,true,true,true,true,true,7,Other,5fff04df-2565-4ddb-acdb-b247033e5fdc
+6.4564509,3.2532423,,Point,LA,GRID,Abule Ado Cattle And Cow Market Abule Ado,LASAON01,Abule Ado express,,Livestock,,,true,true,true,true,true,true,true,7,Other,609cf211-27a1-4da5-afed-47929e9213dc
+6.607945,3.428085,,Point,LA,GRID,Obasemo Ifeoluwa,LASKSE14,Thomas market,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,614fb2a2-8e73-45d1-a6b6-d9986edcf353
+6.6459933,3.3064683,,Point,LA,GRID,Oja Oba Market,LASAGG08,Oja oba,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Other,6258fd8f-c059-4796-a869-acbac44577e7
+6.5498608,3.3288371,,Point,LA,GRID,Abule Market,LASOIO04,Ajao estate,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,635752ac-ed9b-4042-9350-da7d189865e0
+6.5548683,3.3889567,,Point,LA,GRID,Akerele Market,LASKSE06,Sawmill ifako,,Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,637fccbd-4fff-4e90-9dfc-e418f5fae291
+6.4406,3.33489,,Point,LA,OSGOF,Ibafon Market,LASATO09,Ibafon,BUA,,,,,,,,,,,,,63d3717a-fa07-4f5e-b2d3-c4ce413a3f6b
+6.63574,3.3541034,,Point,LA,GRID,Riggs Plaza,LASIKA08,Omole,,Clothing Electronic Spare Parts Mixed,,,true,true,true,true,true,true,false,6,Weekly,6425b02b-1546-4268-9044-7b97a1ae6e24
+6.5084171,3.3693612,,Point,LA,GRID,Spar Departmental Stores,LASSUE14,Tejuosho,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,64d28f48-7f3e-40d3-a403-59e8ece1b9c2
+6.5031467,3.3601133,,Point,LA,GRID,Gbaja Market,LASSUE10,Gbaja,,Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,64dd1a41-220b-4935-83d9-4738544dea1a
+6.5656056,3.2806895,,Point,LA,GRID,Idimu Plank Market,LASAMO22,Odimu,,Other,Planks and building material,,true,true,true,true,true,true,true,7,Weekly,651d760a-585d-48df-83b5-3a633722ba12
+6.6260267,3.5494983,,Point,LA,GRID,Setz Mega Mart Quality Word,LASIKU29,Ejede,,Clothing Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,65526087-e8a0-4973-9a07-52058325ca04
+6.45627,3.27102,,Point,LA,OSGOF,Irepodun Fsp Market,LASAON08,Irepodun Fsp,BUA,,,,,,,,,,,,,6644b647-f52e-4402-97b0-42be6587fa80
+6.5471042,3.3327886,,Point,LA,GRID,Gmall,LASOIO04,Isolo way,,Clothing Livestock Electronic Spare Parts Food Stuff,,,true,true,true,true,true,true,false,6,Weekly,67497fd4-3f97-41d7-ba1b-5dad9480ad67
+6.4775713,3.0209511,,Point,LA,GRID,Araromi Sawmill,LASBDY08,Araromi,,Mixed Other,Building materials,,true,true,true,true,true,true,false,6,Weekly,6867b6b1-ee33-4ce3-97c2-f66484590691
+6.5076333,3.3705694,,Point,LA,GRID,Tejuosho Ultramodern Market,LASSUE14,Tejuosho,,Clothing,,,true,true,true,true,true,true,true,7,Weekly,687b1fa8-5782-4fb9-ac7a-d33741990118
+6.6079404,3.3490736,,Point,LA,GRID,De plaza Ville Shopping Complex,LASIKA07,Alade,,Clothing Electronic Spare Parts Mixed,,,true,true,true,true,true,true,true,7,Weekly,69e9f285-1df7-4c51-807e-368af993038f
+6.4855417,3.3686917,,Point,LA,GRID,Olaleye Market,LASLMD06,Olaleye,,Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,6b454958-8c43-482e-bf4f-63dfda7d4585
+6.528555,3.3207633,,Point,LA,GRID,Isolo Business Complex,LASOIO14,Akingbaiye,,Mixed,,,true,true,true,true,true,true,true,7,Other,6bb4a2bd-b448-42e3-b679-c9e76cc2f907
+6.5243333,3.3005217,,Point,LA,GRID,Estate Market,LASOIO17,Jakande estate,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Other,6c909214-403c-43f3-a95c-bcf8a58bfb49
+6.4770983,3.3446183,,Point,LA,GRID,Aratunmi Shopping Complex,LASAPA03,Sari iganmu,,Clothing Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Monthly,6cb8ad07-9356-4448-85ef-f4c238dfde7e
+6.62267,3.32546,,Point,LA,OSGOF,Oba Ogunji Market,LASAGG06,Oba Ogunji,BUA,,,,,,,,,,,,,6d50e8f4-4213-4811-9b4e-a30853d30310
+6.5979267,3.3673283,,Point,LA,GRID,Alhaja Mamunah Memorial Shopping Plaza,LASIKA15,Oregun,,Mixed,,,true,true,true,true,true,true,false,6,Other,6dedf933-8c23-49ac-8c3d-f4ceef71dcb5
+6.57622,3.28072,,Point,LA,GRID,Isheri Bus Stop Market,LASAMO28,Isheri Olofin,,Clothing Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Other,6e0c7df0-411c-4c69-bac4-330f0d0811ce
+6.58676,3.95106,,Point,LA,OSGOF,Ram Market,LASEPE03,Ram,BUA,,,,,,,,,,,,,6e2c3f78-31ef-4510-badc-fe32543a4704
+6.5724383,3.3956017,,Point,LA,GRID,Epetedo Market,LASKSE15,Ogudu,,Clothing Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Other,6ed3a961-653e-4b71-88f9-048e2f3e00bc
+6.4796394,3.3501478,,Point,LA,GRID,Doyin Market,LASSUE11,Doyin,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,6fb131d1-bc92-44de-9c88-0e8a2dd1e5c7
+6.52971,3.32152,,Point,LA,OSGOF,Isolo Market,LASOIO05,Isolo,BUA,,,,,,,,,,,,,6fbc2345-5e86-4e7b-b886-f05e2ababecd
+6.6232117,3.3214083,,Point,LA,GRID,Agege Market,LASAGG01,Ap agege,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,6fc9e430-0d61-4805-b228-baf68657a54b
+6.5059617,3.3783633,,Point,LA,GRID,Sabo Market 372,LASLMD15,Sabo,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,72eff916-afe8-4887-b5d9-e2c10ddafcca
+6.607065,3.3928517,,Point,LA,GRID,Mile 12 Market 270,LASKSE20,Mile 12  market,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,731be3c8-b318-4d25-999d-77eebfd7d6df
+6.6186114,3.3458833,,Point,LA,GRID,Hay em Supermarket,LASIKA07,Adeniyi Jones,,Clothing,,,true,true,true,true,true,true,false,6,Weekly,73ab9756-504b-4ec2-92d2-07ec8a252dbd
+6.414885,3.0148583,,Point,LA,GRID,Iworo Market,LASBDY15,Iworo,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,74b69147-bdd4-4bde-9797-babe9dcec146
+6.601935,3.3961883,,Point,LA,GRID,Ajelogo Market,LASKSE09,Ajelogo,,Mixed,,,true,true,true,true,true,true,false,6,Weekly,74cf941b-4b79-438d-949a-52d272de9d1a
+6.4804717,3.3461783,,Point,LA,GRID,Orowunmi Market,LASSUE22,Orile,,Other,Building materials,,true,true,true,true,true,true,false,6,Weekly,771fee9f-74ac-4664-8059-50d140b0e6fa
+6.669135,3.3248885,,Point,LA,GRID,Ishaga Market,LASIOE11,Iju Ishaga,,Mixed,,,true,true,true,true,true,true,true,,Other,7764d962-bcf6-428c-976f-19d01dc4113d
+6.4798141,3.3836826,,Point,LA,GRID,Oyingbo Market,LASLMD17,Denton street,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed Other,,,true,true,false,true,true,true,true,6,Other,78397108-caa4-4de6-8132-c1d096788297
+6.438105,2.962655,,Point,LA,GRID,Ayinke Plaza,LASBDY04,Ilado,,Clothing Electronic Spare Parts Food Stuff Other,Snacks and pastries,,true,true,true,true,true,true,false,6,Weekly,787428a3-1fc3-4940-875f-dfe07e3ab556
+6.4725464,3.6273519,,Point,LA,GRID,Destiny Plaza Market Sangotedo,LASEOA18,Sangotedo,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Other,791eb3fe-ced5-49bf-8f94-a72478365b28
+6.46669,3.3457,,Point,LA,OSGOF,Amukoko Market,LASATO05,Amukoko,BUA,,,,,,,,,,,,,7a6c5ccb-800e-4289-9659-a388c34f80f4
+6.4980529,3.0087876,,Point,LA,GRID,Aanuoluwapo Plank Market,LASBDY13,Agunma,,Other,Planks,,true,true,true,true,true,true,false,6,Other,7ac8b5a3-6488-464b-bdee-e890513f9ac8
+6.4668252,3.36348,,Point,LA,GRID,Kamaroun Market Apapa Road Ijora,LASAPA06,Apapa road ijora,,Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,7c00efb7-80ec-4883-9ff9-d04555abc39a
+6.60321,3.49037,,Point,LA,OSGOF,Ipakodo Market,LASIKU15,Ipakodo,BUA,,,,,,,,,,,,,7c647bfb-63e2-47c8-aba5-05d71cee8a1b
+6.467175,3.3509083,,Point,LA,GRID,Lawaco Plaza,LASATO12,Palaace market,,Clothing Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,7e038e6f-eb6b-4683-863d-30edc6e0342c
+6.5512024,3.2411284,,Point,LA,OSGOF,Owode Ultra Modern Market,LASAMO23,Owode Ultra Modern,BUA,,,,,,,,,,,,,7e39f8e0-5fb8-409b-a28a-767909b9fc8f
+6.5235483,3.334695,,Point,LA,GRID,Ilasa,LASOIO13,Ilasa,,Electronic Spare Parts,,,true,true,true,true,true,true,false,6,Weekly,7efadb24-ae24-47b0-9532-45168624b601
+6.4778617,3.310225,,Point,LA,GRID,Fruit Market Ago Road,LASAON04,Ago,,Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,7f6d4b45-ee50-42fb-9f47-8fed7d246139
+6.45271,3.3504,,Point,LA,OSGOF,Oluwa Shopping Mall,LASATO13,Oluwa Shopping Mall,BUA,,,,,,,,,,,,,7f89223d-f7a8-4d87-a10c-3e3407ba9742
+6.45734,3.4162867,,Point,LA,GRID,3 Mart,LASEOA09,Ikoyi Dolphin Estate,,Mixed,,,true,true,true,true,true,true,true,7,Monthly,7fe74bc3-7ccb-43bd-abcb-e1883506792c
+6.4757883,3.7723283,,Point,LA,GRID,Hallal Supermarket,LASIUI02,Imalete Alafia Town,,Food Stuff Mixed,,,true,true,true,true,true,false,true,6,Other,8026adf7-639f-41dd-af58-63ae13a3ef78
+6.6121417,3.8999717,,Point,LA,GRID,Erijin Market,LASEPE07,Wolf,,Mixed,,,true,true,true,true,true,true,true,7,Monthly,81ff202d-6c35-4547-bd59-6ad3375cb6b9
+6.67336,3.29013,,Point,LA,OSGOF,Jankara Market,LASIOE08,Jankara,BUA,,,,,,,,,,,,,8234aa95-1166-4b52-ace7-cbdff960a984
+6.4718614,3.631479,,Point,LA,GRID,Sangotedo Community Market,LASEOA18,Sangotedo,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,828c30c0-847b-4c62-890a-72c4f0a5d764
+6.4552367,3.2558167,,Point,LA,GRID,Abule Ado Express Market,LASAON01,Abule Ado junction,,Clothing Livestock Electronic Spare Parts Food Stuff,,,true,true,true,true,true,true,true,7,Other,82e86a5c-caf0-40fb-be88-8f7bab7a7a91
+6.474615,3.62067,,Point,LA,GRID,Kobi tianid,LASEOA18,Sangotedo,,Clothing Electronic Spare Parts Mixed,,,true,true,true,true,true,true,false,6,Monthly,83575278-e29e-4deb-8fe4-0c7472e7dc28
+6.61969,3.32565,,Point,LA,OSGOF,Isale Oja Market,LASAGG05,Isale Oja,BUA,,,,,,,,,,,,,8431b5b9-db64-4b8c-aef7-a8b9ead07dce
+6.5392978,3.3324031,,Point,LA,GRID,Aswani Market,LASOIO06,Isolo aswani,,Mixed,,,false,true,false,false,false,false,false,1,Weekly,8488b5a9-a5f4-4187-b6cc-9d1401986711
+6.5730965,3.3600981,,Point,LA,GRID,Bb Marketplace,LASIKA12,GRA,,Clothing,,,true,true,true,true,true,true,false,6,Weekly,850d55ed-9229-4ce7-866e-27883225f252
+6.45758,3.38484,,Point,LA,OSGOF,New Balogun Ultra Modern Hall,LASLID05,New Balogun Ultra Modern Hall,BUA,,,,,,,,,,,,,863b2c06-6f49-475a-bdfa-f7bf09e2a20d
+6.5061833,3.368925,,Point,LA,GRID,Tejuosho Market,LASSUE05,Tejuosho,,Clothing Mixed,,,true,true,true,true,true,true,true,7,Weekly,86d435b1-2207-4c98-978c-48b4f7e7bbfe
+6.45961,3.383,,Point,LA,GRID,Offin Market,LASLID15,Offin Market,,Mixed,,,true,true,true,true,true,true,false,6,Other,87edbc81-8292-49a8-927c-84d7d7d21377
+6.54015,3.34568,,Point,LA,OSGOF,Oduduwa Model Market,LASMUN19,Oduduwa Model,BUA,,,,,,,,,,,,,884b74ca-1238-4368-80e0-7347535fb60a
+6.5284033,3.32267,,Point,LA,GRID,Bos Plaza,LASOIO14,Ire-akari,,Clothing Electronic Spare Parts,,,true,true,true,true,true,true,false,6,Other,88a6a7a0-ee62-4f06-9362-c0a0fae517af
+6.438388,3.5260996,,Point,LA,GRID,Ojomu Royal Market,LASEOA15,Efon Settlement,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,894e94d8-5b89-4f96-b35d-548c41972303
+6.5067867,3.200215,,Point,LA,GRID,Oloje Plaza,LASOJO04,Iba lcda,,Clothing Electronic Spare Parts Food Stuff Mixed Other,Accessories,,true,true,true,true,true,false,false,5,Weekly,89f834dc-e290-4c9f-9720-52ee5087637b
+6.4690634,3.3629393,,Point,LA,GRID,Ijora Market Ijora,LASAPA06,Ijora badia,,Clothing Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,8aa8d330-622d-43d9-bb27-e3737f58b795
+6.53141,3.33845,,Point,LA,OSGOF,Daleko Market,LASMUN01,Daleko,BUA,,,,,,,,,,,,,8d67b7e0-b85c-4a0c-a82f-3efd1b4ad73d
+6.6065617,3.38028,,Point,LA,GRID,Cele Market,LASKSE04,Ikosi-ketu,,Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,8df0e0fe-f2d3-4a77-88ae-95a0e3d8cc61
+6.4884883,3.36043,,Point,LA,GRID,Bode Thomas Market,LASSUE11,Surulere,,Clothing Food Stuff,,,true,true,true,true,true,true,false,6,Weekly,8e45814a-2731-4f5d-97ce-55b5fcfb8770
+6.53291,3.3662,,Point,LA,OSGOF,Iron And Steel Market,LASMUN10,Iron And Steel,BUA,,,,,,,,,,,,,8fc3f6ed-fbb2-4fa4-9cdd-e9eaf652a0ec
+6.5414083,3.333425,,Point,LA,GRID,Gestric Plaza,LASOIO06,Osolo way,,Mixed,,,true,true,true,true,true,true,false,6,Other,9005edd8-36bb-465c-b494-6d8afb4b72a5
+6.4459705,3.4707939,,Point,LA,GRID,Aarons Mall,LASEOA10,Peninsula,,Clothing Mixed,,,true,true,true,true,true,true,true,7,Weekly,9029369a-9cf0-4f17-9fd7-142ed80079cb
+6.6608633,3.32722,,Point,LA,GRID,Araromi Market,LASIOE12,Araromi market,,Clothing Livestock Food Stuff Mixed,,,false,false,false,true,false,false,true,2,Weekly,90b0fc89-b584-4f3d-bd28-654f5989f914
+6.5532383,3.244705,,Point,LA,GRID,Itesiwaju Eko Wood Market,LASAMO23,Igando,,Other,Wood/Pako,,true,true,true,true,true,true,true,7,Other,90f53d07-136c-48c0-baaa-dbaa7b920cb7
+6.4565817,3.2037767,,Point,LA,GRID,Waterside Market,LASOJO11,Ojo,,Clothing Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,91973c80-8ff7-4ba8-9eec-1c3693d2678d
+6.5798428,3.3590183,,Point,LA,GRID,The Hub Mart,LASIKA06,GRA,,Clothing Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,91f191fe-62c1-48a0-a192-a039624aaf86
+6.6458954,3.3172232,,Point,LA,GRID,Abattoir Market,LASIOE02,Abattoir Matket,,Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,920520d8-4e18-45e8-b38c-4414b05d9623
+6.46203,3.32358,,Point,LA,OSGOF,Layeni Market,LASATO14,Layeni,BUA,,,,,,,,,,,,,92a4a087-360d-4605-aae6-0f91614c6372
+6.5423982,3.3423372,,Point,LA,GRID,Ladipo Market,LASMUN19,Ladipo,,Electronic Spare Parts,,,true,true,true,true,true,true,true,7,Weekly,92ab9245-afda-478b-9c1c-0dab26ffd63d
+6.46041,3.3233,,Point,LA,OSGOF,Mammy Market,LASATO14,Mammy,BUA,,,,,,,,,,,,,9421dd09-9a19-4946-85e1-3b0a0a2d6877
+6.61771,3.29984,,Point,LA,OSGOF,Iyana Ipaja Market,LASAMO12,Iyana Ipaja,BUA,,,,,,,,,,,,,94e342d5-ac89-4a3e-8a90-55fbd6383c7d
+6.5666416,3.2769782,,Point,LA,GRID,Gb Xpress,LASAMO28,Idimu,,Clothing Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Bi-Weekly,959b3c80-78a5-4d10-905a-12f028dd2b33
+6.46238,3.39362,,Point,LA,OSGOF,Maboroje Market,LASLID10,Maboroje,BUA,,,,,,,,,,,,,95cfed4e-f598-4564-bb3a-400573f4e114
+6.4407811,3.496558,,Point,LA,GRID,Spar Supermarket,LASEOA10,Lekki Phase Two,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,968b1338-3c7d-4652-99ba-df9315b953d4
+6.4618841,3.2858161,,Point,LA,GRID,Festac 2 Gate Market,LASAON14,Festac,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,9782096c-d873-44ab-820e-b40fed0b3509
+6.46924,3.33202,,Point,LA,OSGOF,Coker Market,LASATO06,Coker,BUA,,,,,,,,,,,,,9872d93c-acd9-48ce-9b39-8eff9dd1e861
+6.6057434,3.4954225,,Point,LA,GRID,Ikorodu Abattoir,LASIKU05,Tos Benson Beach Road Ebute,,Food Stuff Other,Meat,,true,true,true,true,true,true,false,6,Other,98ce8c80-4e24-4026-9f04-7427532a570f
+6.4790066,3.3853959,,Point,LA,GRID,Spare Parts Market,LASLMD17,Willoughby street,,Electronic Spare Parts,,,true,true,true,false,true,true,true,6,Other,9b53a134-25f7-4eea-b4e5-3f8ab2d502a6
+6.5283235,3.2369221,,Point,LA,GRID,Eshindana Market,LASAMO01,Okerube,,Clothing Electronic Spare Parts Food Stuff,,,true,true,true,true,true,true,true,7,Other,9b5fe140-0a02-40f2-ae87-10a412add546
+6.5571283,3.3604233,,Point,LA,GRID,Ilupeju Model Market,LASMUN09,Ilupeju,,Clothing Food Stuff Mixed Other,"Soap, detergents, drinks and beverages",,true,true,true,true,true,true,true,7,Weekly,9c116249-a571-4809-94fd-f95d16d49e74
+6.57991,3.97559,,Point,LA,OSGOF,Ayetoro Market,LASEPE03,Ayetoro,BUA,,,,,,,,,,,,,9c227c85-7f81-481c-a4a2-cc8cb3710169
+6.61519,3.5057,,Point,LA,OSGOF,Igbo Oluwo Market,LASIKU17,Igbo Oluwo,BUA,,,,,,,,,,,,,9c4759e7-bfa9-46f8-9d2d-7d5b50f34531
+6.62105,3.32531,,Point,LA,OSGOF,Abiola Market,LASAGG13,Abiola,BUA,,,,,,,,,,,,,9d1c996f-aee6-4943-8081-8cb6996ac40c
+6.6071683,3.255645,,Point,LA,GRID,Abibatu Mogaji Market,LASAMO13,Ipaja,,Clothing Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Other,9daad17a-c250-44f5-aa8a-b4af38c562f4
+6.4361283,3.48961,,Point,LA,GRID,Pills And Tabs,LASEOA10,Ikate elegushi,,Mixed,,,true,true,true,true,true,true,true,7,Monthly,9dd92f4c-1a99-4deb-ba54-d8e3713eb1e4
+6.463775,3.363885,,Point,LA,GRID,Ijora Railway Under Bridge Pako Market,LASAPA09,Under bridge railway,,Other,"Planks, wood and pallets",,true,true,true,true,true,true,false,6,Weekly,9e3ec03f-bb04-430f-af16-ef9925fab25d
+6.45578,3.39096,,Point,LA,OSGOF,Ita Faji Butcher Market,LASLID02,Ita Faji Butcher,BUA,,,,,,,,,,,,,9e783e1c-615e-46e2-8e62-0fc5f23de294
+6.6625417,3.51945,,Point,LA,GRID,Odogunyan Market,LASIKU23,Odogunyan,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Monthly,9e933af7-9094-438e-bc2a-04eb321b8097
+6.6018884,3.3440346,,Point,LA,GRID,Trinity Mall,LASIKA17,Olowu,,Clothing Electronic Spare Parts Mixed,,,true,true,true,true,true,true,false,6,Weekly,9efa292c-c258-4131-8720-d0a2b65392c8
+6.6299372,3.3429146,,Point,LA,GRID,Proposed Ogba Ultra Modern Shopping Complex,LASIKA07,Ogba,,Other,,,true,true,true,true,true,true,false,6,Weekly,9fb0a658-71ea-40df-b5e4-4fe4b79d1add
+6.5096233,3.369665,,Point,LA,GRID,Railway Market 272,LASSUE14,Tejuosho,,Clothing Livestock Electronic Spare Parts Food Stuff,,,true,true,true,true,true,true,false,6,Weekly,9fd4fa86-3801-43f4-9618-51688bda4853
+6.45819,3.34294,,Point,LA,OSGOF,Shopping Plaza,LASATO01,Shopping Plaza,BUA,,,,,,,,,,,,,9fe15f9d-d932-411e-b733-152d707b21d9
+6.461785,3.18622,,Point,LA,GRID,Alaba Market Annex St Patrik Street,LASOJO14,Alaba,,Clothing Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,a03e3592-8e02-4f69-bb55-eb8a9c4aaba9
+6.5432692,3.3275553,,Point,LA,GRID,Abule Mini Market,LASOIO04,Ajao estate,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Other,a0b5a50b-f676-453a-99ca-dc747ff197fd
+6.45947,3.2296833,,Point,LA,GRID,Mile Two Express Way Market,LASOJO08,Barracks,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,a1ee823f-5e27-4b62-a4b0-ef9c43f3db85
+6.5270632,3.2151374,,Point,LA,GRID,Idera Market,LASAMO08,Obadore,,Food Stuff,,,true,true,true,true,true,true,false,6,Other,a24a3afa-ec6f-4ccc-b87d-e50c14399703
+6.6430433,3.5248433,,Point,LA,GRID,Laspotech Central Market,LASIKU20,LASPOTECH,,Clothing Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,a2dcfa7c-ec52-44a4-9d27-e1d9ce16fb70
+6.6008074,3.3436546,,Point,LA,GRID,Rasul House,LASIKA17,Seriki Aro,,Clothing Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,a2ecf5c5-f279-4002-b9d9-48142c5e29c8
+6.417905,2.877615,,Point,LA,GRID,3C Hub Building,LASBDY16,Bereke,,Electronic Spare Parts,,,true,true,true,true,true,true,false,6,Other,a2f8d0d6-07dd-4da7-8684-f4202aaec985
+6.4891133,3.3631283,,Point,LA,GRID,Alaska Shopping Complex,LASSUE01,Alaka,,Other,,,true,true,true,true,true,false,false,5,Weekly,a33724ca-2be7-403d-a55a-2cec479f8b7c
+6.50609,3.3912533,,Point,LA,GRID,Salami Street Market,LASLMD18,"Salami street, iwaya",,Clothing Livestock Electronic Spare Parts Food Stuff Mixed Other,Building,,true,true,true,true,true,true,true,7,Weekly,a3a176c7-e819-4ba8-b71e-85dce5698ef7
+6.4297617,3.4569267,,Point,LA,GRID,Oniru Market Off Akiogun,LASEOA05,Eti ose,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,a48520c1-0790-408f-ac1a-8399a0326da4
+6.474715,3.6192167,,Point,LA,GRID,Blenco,LASEOA18,Sangotedo,,Clothing Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Monthly,a5e6f6a8-4ee6-48d3-8468-afedc0b500d1
+6.5781378,3.2838575,,Point,LA,GRID,Pipeline Market,LASAMO36,Sheri idimu,,Food Stuff,,,true,true,true,true,true,true,false,6,Other,a6c6ef26-1351-464d-9e71-e73a59e8be2d
+6.5644817,3.5958583,,Point,LA,GRID,Oba ale Market,LASIKU25,Ijede,,Clothing Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Other,a89e7d79-ede9-4e99-9391-646e8a1d2a9e
+6.4601513,3.2500362,,Point,LA,GRID,Trade Fair International Market,LASAON01,Trade fair ojo,,Mixed,,,true,true,true,true,true,true,true,7,Other,a8d32c8b-bdd0-4e27-924b-a93e7454ef64
+6.4537579,3.5184351,,Point,LA,GRID,Royal Plaza Shopping Mall,LASEOA04,On peanut road,,Mixed,,,true,true,true,true,true,true,false,6,Other,a9024086-c5d9-4d61-880d-81bef30500c6
+6.5324491,3.3791272,,Point,LA,GRID,A Made Market,LASSMU11,Alade,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,a92f9f17-ce1a-4af5-8aff-f8490e44226e
+6.5460425,3.3270098,,Point,LA,GRID,Biyot Shopping Mall,LASOIO04,Ajao estate,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Other,a9409977-6510-416c-8e56-d7f49dbbc611
+6.4869432,2.9588222,,Point,LA,GRID,Ikoga Saw Mal Market,LASBDY13,Ikoga,,Other,Sawmal,,true,true,true,true,true,true,false,6,Weekly,a95ad989-bbe5-4ac4-9770-eec999ab318f
+6.54763,3.2672617,,Point,LA,GRID,Ijegun Road Round About,LASAMO25,Ikotun,,Mixed,,,true,true,true,true,true,true,true,7,Other,a95f1a67-297f-4275-a70b-7e35409ea00f
+6.6259117,3.33553,,Point,LA,GRID,Odo Eran Market Ijaiye Road,LASIKA07,Agege Odo Eram,,Electronic Spare Parts,,,false,true,false,false,false,false,false,1,Other,a9769cec-5b4d-4879-b76c-1ffa4a2aabc2
+6.470565,3.382855,,Point,LA,GRID,Iddo Market,LASLMD16,Iddo,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed Other,,,true,true,true,true,true,true,true,7,Weekly,aa68e6e4-fa40-443d-9e22-da3fb5fd89a5
+6.46101,3.39062,,Point,LA,OSGOF,Okoya Market,LASLID10,Okoya,BUA,,,,,,,,,,,,,aae5a057-ea13-44a2-a060-1b9a64b774f3
+6.539825,3.3451833,,Point,LA,GRID,Mustapha Balkis,LASMUN19,Oduduwa model market,,Electronic Spare Parts,,,true,true,true,true,true,true,true,7,Weekly,abc915e3-f726-4f33-b885-5aa0b4d77f6b
+6.6186783,3.5039633,,Point,LA,GRID,Ladega Street Market,LASIKU20,Alhalagago,,Clothing Livestock Electronic Spare Parts Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,abdfe3b3-af14-451d-91aa-11905eb6b6c3
+6.67661,3.71254,,Point,LA,OSGOF,Odo Ayandelu Market,LASEPE05,Odo Ayandelu,SSA,,,,,,,,,,,,,ac604fa4-d6e3-45e8-aabb-ab82e249b5bc
+6.53047,3.38401,,Point,LA,OSGOF,Alarape Market,LASSMU04,Alarape,BUA,,,,,,,,,,,,,ac688b77-32b0-4fb1-81d8-cf299ad60b43
+6.4567004,3.2556941,,Point,LA,GRID,Soba Market Soba Abule Ado,LASAON02,Soba market,,Livestock Food Stuff,,,true,true,true,true,false,true,false,5,Other,ac6f6fba-861b-4341-9119-edc0becf6268
+6.5444367,3.2767667,,Point,LA,GRID,Egbe Modern Market,LASAMO18,Egbe market,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Monthly,acd10436-8190-4258-859f-640cbf836066
+6.4994233,3.3586283,,Point,LA,GRID,Shitta Roundabout Market,LASSUE23,Shitta,,Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,acf62f5a-4c09-4fb0-83bd-91c7556dff27
+6.4800383,3.338065,,Point,LA,GRID,Orisunmibare Ojora Royal Market,LASSUE19,Iganmu,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed Other,Timber,,true,true,true,true,true,true,true,7,Weekly,ae4d8f44-3c2f-414b-ba2b-7932c6b40465
+6.59106,3.60438,,Point,LA,GRID,Kwil Meat Palace Gbopa,LASIKU24,Gbopa village,,Other,Abattoir farms,,true,true,true,true,true,true,false,6,Weekly,aef4ffce-8a2b-40fd-8939-4c81f7d83584
+6.46248,3.38722,,Point,LA,OSGOF,Ita Onikoyi Market,LASLID14,Ita Onikoyi,BUA,,,,,,,,,,,,,af36a66e-8f5e-42b5-a0c1-25e972141cfe
+6.587378,3.3829274,,Point,LA,GRID,Ibnukonu Ultra Modern Market,LASKSE16,Binukonu ultra modern market,,Mixed,,,true,true,true,true,true,true,false,6,Weekly,af5be6bc-5651-48af-8cd9-6b4abe037ba5
+6.4538043,3.2518612,,Point,LA,GRID,Fh Market,LASAON01,Old ojo road satellite town,,Mixed,,,true,true,true,true,true,true,false,6,Other,af8dd959-315f-4fdb-b929-9bc1c76328bf
+6.4825617,3.3721667,,Point,LA,GRID,Ademuyiwa Market,LASLMD08,Ademuyiwa street,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,b0946784-4453-4115-9019-22caa4fc799a
+6.6439,3.71784,,Point,LA,OSGOF,Owu Market,LASEPE05,Owu,BUA,,,,,,,,,,,,,b0eb5c3f-746e-45a2-9980-4f1cd9c64a01
+6.4764932,3.019849,,Point,LA,GRID,Araromi Market 2,LASBDY08,Market size,,Mixed,,,true,true,true,true,true,true,false,6,Weekly,b0f2696a-7718-46e3-8e9f-8c102e4d99fb
+6.4384353,3.5170988,,Point,LA,GRID,Bakky Plaza,LASEOA04,Lekki,,Mixed,,,true,true,true,true,true,true,false,6,Weekly,b1145066-9c37-40b7-a1d4-4722e7e83a56
+6.5825683,3.9902417,,Point,LA,GRID,Oluwo Market,LASEPE11,Oluwo,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,b338928e-3c96-45ee-a012-ec671c3ae121
+6.6718703,3.6613742,,Point,LA,GRID,Imota Market,LASIKU18,"Oke Sabo Itokin road, Imota, Lagos",,Livestock,,,true,true,true,true,true,true,false,6,Other,b357df43-2411-4f06-992c-3d9681e50226
+6.443905,3.4287283,,Point,LA,GRID,Powa Bus Stop Market,LASEOA07,Powa shopping center,,Mixed,,,true,true,true,true,true,true,false,6,Weekly,b3eb599d-b6b4-4e6f-ae3e-ea9954009f96
+6.5337808,3.2797914,,Point,LA,GRID,Irepodun Market 224,LASAMO18,Ikotun,,Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,b4a2e21b-6af3-44dd-b96d-9665b2ea8c8e
+6.45882,3.38636,,Point,LA,OSGOF,Balogun Market,LASLID20,Balogun,BUA,,,,,,,,,,,,,b4f90441-ad89-45d2-8d11-1156cec9656f
+6.426585,2.805525,,Point,LA,GRID,Apa Building Material,LASBDY06,Apa,,Other,Building materials,,true,true,true,true,true,true,false,6,Weekly,b53b692e-2436-43a8-9cc1-9965d9db6b66
+6.4660133,3.1818567,,Point,LA,GRID,Akoberu Market,LASOJO10,Okoko,,Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Other,b5f1a80a-929b-47eb-8f94-e9c10f4d3b77
+6.4372514,3.468181,,Point,LA,GRID,Simb Lily Val Supermarket,LASEOA10,Lekki phase one,,Mixed,,,true,true,true,true,false,false,false,4,Other,b64c0f62-9040-4bd4-8aa5-def5d0e02c56
+6.53998,3.34469,,Point,LA,OSGOF,Enwerem Plaza,LASMUN19,Enwerem Plaza,BUA,,,,,,,,,,,,,b716a033-98e7-4ba6-9345-658269b04566
+6.4321283,3.4683533,,Point,LA,GRID,Penny Mall,LASEOA10,Marwa,,Clothing Food Stuff,,,true,true,true,true,true,true,false,6,Monthly,b73e3064-24c8-470a-884a-da1d0f5d7b87
+6.46252,3.32392,,Point,LA,OSGOF,Suru Alaba Market,LASATO14,Suru Alaba,BUA,,,,,,,,,,,,,b760c04e-3f68-44e8-98a8-ff44fe120995
+6.53922,3.55057,,Point,LA,OSGOF,Baiyekun Market,LASIKU19,Baiyekun,BUA,,,,,,,,,,,,,b80920d4-c60c-4696-8a8f-a6f94cb6bd89
+6.4975183,3.1705117,,Point,LA,GRID,Ifelodun Market,LASOJO05,Isashi,,Food Stuff,,,true,true,true,true,true,true,false,6,Other,b874b133-9b9e-44d0-b140-0e4f2e7f1d43
+6.4427852,3.516088,,Point,LA,GRID,Divine Grace Plaza,LASEOA04,Agiran road,,Other,Cosmetics,,true,true,true,true,true,true,true,7,Other,b91a87b0-97a2-450d-9009-c275a680308d
+6.4475309,3.5177636,,Point,LA,GRID,Phemos Mart,LASEOA04,Ajah,,Clothing Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Monthly,b99648a4-60d8-4b90-96c3-e8eca836b20d
+6.459345,3.1783483,,Point,LA,GRID,Sabo Alaba Market,LASOJO14,Ojo Alaba,,Clothing Electronic Spare Parts Mixed,,,true,true,true,true,true,true,false,6,Weekly,b9b021fe-d037-4ab5-b26c-56cbb08f3268
+6.5721783,3.3700167,,Point,LA,GRID,Mende Market,LASKSE13,Mende,,Mixed,,,true,true,true,true,true,true,true,7,Bi-Weekly,b9f78b78-858d-4e37-8a06-865148d2b666
+6.6387617,3.2595117,,Point,LA,GRID,Ajasa Modern Market,LASAMO07,Ajasa,,Mixed,,,true,true,true,true,true,true,true,7,Other,ba1ef487-51fc-4432-8812-8e66ee003fca
+6.663896,3.281354,,Point,LA,GRID,Fajol Shopping Plaza,LASAMO06,Market,,Clothing Electronic Spare Parts Mixed Other,Business centres,,true,true,true,true,true,true,false,6,Other,ba5d39ad-35c0-4b32-9a5f-dc287ce15b0a
+6.45949,3.23047,,Point,LA,OSGOF,Onireke Shopping Complex,LASOJO08,Onireke Shopping Complex,BUA,,,,,,,,,,,,,bb03ce89-5d2c-455d-a1a5-de31354f4187
+6.6091983,3.3273483,,Point,LA,GRID,Mangoro Market,LASAGG05,Adegbola street,,Livestock Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Other,bb1bcba1-4943-4f6e-a0b1-cf686aecca5a
+6.5351017,3.28998,,Point,LA,GRID,Ejigbo Modern Slaughter House,LASOIO03,Egbe,,Livestock,,,false,false,false,false,false,true,false,1,Weekly,bb382ff0-0a64-4cb2-ab8b-050d624a7d08
+6.4838317,3.329605,,Point,LA,GRID,Sanya Market,LASSUE12,Aguda,,Food Stuff,,,true,true,true,true,true,true,false,6,Weekly,bb818c9d-e214-41b5-9beb-120e41d5d199
+6.5015783,3.0277717,,Point,LA,GRID,Illogun Eremi,LASBDY13,Illogun,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,bba148bd-eef9-4fa5-b3a2-7e66844b376f
+6.5269883,3.3576891,,Point,LA,OSGOF,Awolowo Market,LASMUN06,Awolowo,BUA,,,,,,,,,,,,,bc1912c0-3761-469b-b609-241f0cc9f412
+6.48999,3.07216,,Point,LA,GRID,Ibiye Meat Market,LASBDY11,Ibiye,,Livestock Other,Pepper and vegetables,,true,true,true,true,true,true,false,6,Other,bd2caa31-067a-43c7-a780-6c1e1eb5e113
+6.544578,3.2641407,,Point,LA,GRID,Twins Super Market,LASAMO25,Ikotun,,Clothing Electronic Spare Parts Food Stuff,,,true,true,true,true,true,false,false,5,Weekly,be044cf0-f9da-4610-8d2b-8dd957956373
+6.5783301,3.2827691,,Point,LA,GRID,Pipeline Plank Market,LASAMO28,Isheri olofin,,Other,Plank market,,true,true,true,true,true,true,false,6,Other,be2b6e86-8a7a-4dcf-bbb3-89f5d33002d1
+6.5188117,3.3925117,,Point,LA,GRID,Unilag Shopping Mall,LASLMD02,University of Lagos,,Clothing Mixed,,,true,true,true,true,true,false,false,5,Other,be76c2dd-8eb9-4e82-81d9-183a783effcb
+6.46056,3.38887,,Point,LA,OSGOF,Oroyinyin Market,LASLID18,Oroyinyin,BUA,,,,,,,,,,,,,c01165c9-be5d-414c-96c1-f7ecf5e0b518
+6.5948183,3.28923,,Point,LA,GRID,Olugbede Model Market,LASAMO19,Egbeda,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,c1287741-dfa8-481b-871c-6f443235afc8
+6.53766,3.39217,,Point,LA,OSGOF,Abule Market,LASSMU03,Abule,BUA,,,,,,,,,,,,,c1355a15-c81b-4886-a74a-dadeb3b01358
+6.5215207,3.3296923,,Point,LA,GRID,Ilasamaja International Market,LASOIO13,Ilasamaja,,Mixed,,,true,true,true,true,true,true,true,7,Other,c1bc5ee0-597c-4358-81c6-57f0f15c736e
+6.4625588,3.3234003,,Point,LA,GRID,Ultra Modern Shopping Complex Suru Alaba,LASATO14,Suru Alaba,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed Other,"Textiles material, food produce, cosmetic, building material",,true,true,true,true,true,true,true,7,Weekly,c26b9d99-e8b0-4406-8b6c-5a531f3ca0ba
+6.4448866,3.3444182,,Point,LA,GRID,Adeolu Market,LASATO15,Olodi Apapa,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,c2d5ba82-647e-42fd-a505-4969aa96a305
+6.5794339,3.2818744,,Point,LA,GRID,New Life Motor Spare Part,LASAMO28,Isheri idimu,,Electronic Spare Parts,,,true,true,true,true,true,true,false,6,Other,c30eaefa-691d-458c-8702-71144dcdcd29
+6.4520728,3.4008899,,Point,LA,GRID,Araromi Sandgrouse Market,LASLID06,Araromi Sandgrouse Market,,Mixed,,,true,true,true,true,true,true,false,6,Weekly,c3c88885-79ff-40fc-b6fb-0a799782ee88
+6.6104425,3.3530392,,Point,LA,GRID,Alausa Shopping Mall,LASIKA07,Alade,,Clothing Electronic Spare Parts Mixed,,,true,true,true,true,true,true,false,6,Weekly,c50637bb-4815-4cb6-b356-0290acc2dafa
+6.5963317,3.3425878,,Point,LA,GRID,Ipodo Market,LASIKA16,Opebi,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,c529894f-242e-4a5f-9f01-9a00f45a8754
+6.53643,3.34164,,Point,LA,OSGOF,Jakande Market,LASMUN19,Jakande,BUA,,,,,,,,,,,,,c57413ce-c321-4582-b4fb-c1520d01e1b5
+6.58601,3.35645,,Point,LA,OSGOF,Adebola Shopping Mall,LASIKA06,Adebola Shopping Mall,BUA,,,,,,,,,,,,,c585cf1d-22a3-47d8-bc6e-4ca29c12abce
+6.53752,3.2532483,,Point,LA,GRID,Oja Oba Main Market,LASAMO01,Abaranje,,Food Stuff,,,true,true,true,true,true,true,false,6,Other,c636dcf8-d5b9-461d-abe9-0b6c941bf143
+6.4964883,3.33666,,Point,LA,GRID,Pako Market 376,LASSUE15,Pako-aguda,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Bi-Weekly,c711e6c7-5b55-4b6b-ad88-8c2b666c99b0
+6.6189383,3.5615233,,Point,LA,GRID,Eleshin Market,LASIKU29,Eleshin,,Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Monthly,c7f42a0d-d7fc-43ea-b62f-450ad749a04d
+6.5950775,3.2602391,,Point,LA,GRID,Olorunda Market,LASAMO13,Ipaja,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,c8257914-c7ee-43aa-a204-955d1aa490c1
+6.6698217,3.670535,,Point,LA,GRID,Obada Market,LASIKU14,Imota,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,false,false,true,true,true,false,false,3,Bi-Weekly,c8382ac0-958f-4ee5-b977-4c928648d685
+6.5985876,3.3425285,,Point,LA,GRID,Ikeja Underbridge Market,LASIKA17,Oba akran,,Clothing Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,c8cb2954-4858-41ea-9dfa-faf67672771a
+6.4421318,2.9493872,,Point,LA,GRID,Aradagun Market,LASBDY03,Aradagun,,Mixed,,,true,true,true,true,true,true,true,7,Other,c8f86ecc-3e7c-4ff4-b852-9f3255b7dd99
+6.4314163,2.8216825,,Point,LA,GRID,Apa Market,LASBDY06,Apa,,Mixed,,,true,true,true,true,true,true,false,6,Weekly,c97c7f5b-de49-4023-a96c-5a87ec5b285e
+6.4999,3.0937317,,Point,LA,GRID,Olohunda Market,LASBDY08,Olohunda,,Livestock Mixed,,,true,true,true,true,true,true,false,6,Weekly,ca0e189f-23b5-4e20-be98-a6160b9e159c
+6.6564733,3.3363517,,Point,LA,GRID,Irepodun Obawole Market,LASIOE12,Obawole,,Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,cb5aca6f-8de3-462c-9c72-9bf72ae39df0
+6.46226,3.39229,,Point,LA,OSGOF,Oba Adeniji Adele Market,LASLID10,Oba Adeniji Adele,BUA,,,,,,,,,,,,,cba77609-7063-4ece-ba6c-be505f83a732
+6.4321122,3.4668194,,Point,LA,GRID,Trimart,LASEOA10,Providence,,Clothing Food Stuff,,,true,true,true,true,true,true,false,6,Monthly,cc38c78e-6ba5-4962-a41b-6e94b64e15f8
+6.5502467,3.3314383,,Point,LA,GRID,Sammy Plaza,LASOIO04,Ajao estate,,Clothing,,,true,true,true,true,true,true,false,6,Other,cce4dc1e-148a-4142-950f-608dc34aa9f7
+6.4337483,3.4859433,,Point,LA,GRID,Melita,LASEOA10,Ikate,,Mixed,,,true,true,true,true,true,true,false,6,Monthly,ccfaec74-3a58-4004-bb79-6642fe1c195d
+6.674745,3.4808467,,Point,LA,GRID,Ebuwawa,LASIKU06,Agbede,,Clothing Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Bi-Weekly,cda57fd6-5653-40d9-b57e-e95669ad1de0
+6.45833,3.3884,,Point,LA,OSGOF,Agarawu Market,LASLID14,Agarawu,BUA,,,,,,,,,,,,,cda7d415-060a-4f47-b4d1-1b7b73196ea7
+6.4346067,2.900675,,Point,LA,GRID,Bizsam Shopping Complex,LASBDY18,Torikoh,,Other,Soft Drinks,,true,true,true,true,true,true,false,6,Weekly,cec6739b-ca74-42ad-900d-0ea1a023d0c5
+6.46402,3.39224,,Point,LA,OSGOF,Ojoo Oba Market,LASLID09,Ojoo Oba,BUA,,,,,,,,,,,,,cef4c960-d0a3-4b02-8552-905d7ec9b709
+6.46808,3.56349,,Point,LA,OSGOF,Aiyetoro Market,LASEOA03,Aiyetoro,BUA,,,,,,,,,,,,,cf35d6cd-adda-42a9-ad2e-1fee137e0679
+6.4561806,3.2556026,,Point,LA,OSGOF,Agric Building Material Association Complex,LASAON02,Agric Building Material Association Complex,BUA,,,,,,,,,,,,,cf8f4c75-2511-41e5-85fa-9cce9a05efc9
+6.59972,3.23899,,Point,LA,OSGOF,Ayobo,LASAMO14,Ayobo,BUA,,,,,,,,,,,,,d0c4bc4d-cd26-42d7-8e42-9b923d1dffc0
+6.5535767,3.3932983,,Point,LA,GRID,Saw mill Market,LASKSE06,Sawmill Ggbagada,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,d0e46e36-4a17-43be-b192-494913a62991
+6.4700204,3.5654173,,Point,LA,GRID,Olumegbon Palace,LASEOA03,Ajah,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,d1221b09-2a7b-470d-ad67-4ff232b3cb2e
+6.4971517,3.3887333,,Point,LA,GRID,Makoko Market,LASLMD12,Makoko road,,Clothing Livestock Food Stuff Mixed Other,Building materials,,true,true,true,true,true,true,true,7,Weekly,d12c0c0f-6c45-4221-a164-db7c088f0ef2
+6.45684,3.20559,,Point,LA,OSGOF,Ojo Central Market,LASOJO11,Ojo Central,BUA,,,,,,,,,,,,,d18691f9-ab07-4359-89e1-75a68478823c
+6.5623995,3.3357789,,Point,LA,GRID,Eliasau And Arewa Market,LASOIO16,Oshodi,,Mixed,,,true,true,true,true,true,true,true,7,Other,d1d17a2a-8cde-4212-8dfc-e893d012613f
+6.61545,3.5056,,Point,LA,OSGOF,Solomade Market,LASIKU17,Solomade,BUA,,,,,,,,,,,,,d1dd63f5-c8cb-42a9-b239-bf8bb68c056c
+6.46259,3.39303,,Point,LA,OSGOF,Ajewole Market,LASLID09,Ajewole,BUA,,,,,,,,,,,,,d21b73e2-e580-4c17-b808-a5bc9b55fd96
+6.4594383,3.1390333,,Point,LA,GRID,Shibiri Market,LASOJO03,Shibiri,,Clothing Food Stuff,,,true,true,true,true,true,true,false,6,Other,d34e8a7e-b5bc-4fe5-957d-bbc761775278
+6.4705962,3.1888306,,Point,LA,GRID,Okokomaiko Central Market,LASOJO10,Okokomaiko,,Clothing Livestock Electronic Spare Parts Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,d35efeae-470a-4c8a-b0b6-a8f51263c98b
+6.469575,3.7049317,,Point,LA,GRID,Royal Priesthood Supermarket,LASIUI04,Awoyaya Road,,Food Stuff,,,true,true,true,true,true,true,true,7,Other,d3e0c1b7-396f-4aaf-afea-30470291ba60
+6.63545,3.3011,,Point,LA,OSGOF,Oke Odo Market,LASAMO31,Oke Odo,BUA,,,,,,,,,,,,,d441e0ce-b29b-424e-a6d2-728fb2813972
+6.6211794,3.5027532,,Point,LA,GRID,Laketu Market,LASIKU26,Laketu Brt bus way,,Clothing Livestock Electronic Spare Parts Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,d45edc35-b197-48bf-8771-fcebafab1575
+6.464805,3.5589217,,Point,LA,GRID,Ikota Market 354,LASEOA03,Ikota market,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,d48749e6-6e66-4eb1-8436-3f601dbbcb25
+6.4749118,3.6050792,,Point,LA,GRID,Richland Mall,LASEOA18,"Its on epe express road, before, olokonla bus stop",,Mixed,,,true,true,true,true,true,true,false,6,Other,d547b0a7-ea4d-42f7-a3ff-3307b0c75a7b
+6.68755,3.2615,,Point,LA,OSGOF,Ajegunle Shopping Company,LASAMO11,Ajegunle Shopping Company,BUA,,,,,,,,,,,,,d558d874-d8ef-4c44-b74c-8b548c87eaf3
+6.4674087,3.3498694,,Point,LA,GRID,Muritala Market,LASATO12,Sari iganmu road,,Livestock Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,d559cb4a-2a05-4be0-ab2b-e912b56dec28
+6.5908867,3.2813633,,Point,LA,GRID,Odemuyiwa Market,LASAMO33,Power line street,,Food Stuff,,,true,true,true,true,true,true,false,6,Weekly,d5bb80d2-0aa6-4808-9b9f-d41c9a0bc3b9
+6.593287,3.3425372,,Point,LA,GRID,Ikeja Plaza,LASIKA16,Ikeja,,Clothing Electronic Spare Parts Mixed,,,true,true,true,true,true,true,false,6,Weekly,d5fc4068-31f8-42f5-b395-c8d0e7a92108
+6.51473,3.33453,,Point,LA,OSGOF,Volkswagen Spare Parts Market,LASMUN17,Volkswagen Spare Parts,BUA,,,,,,,,,,,,,d6ac924e-3c05-41fc-93cb-3584e5c5bc2a
+6.56506,3.34931,,Point,LA,OSGOF,Obanibashiri Mini Market,LASIKA12,Obanibashiri Mini,BUA,,,,,,,,,,,,,d6b60723-6254-40d5-80cb-292654832503
+6.4605537,3.3917905,,Point,LA,GRID,Bombata Jankara Market,LASLID10,Jankara,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Other,d7007c23-3bcb-4368-9035-c39f5d823185
+6.4667335,3.5620371,,Point,LA,GRID,Ilaje Market,LASEOA03,Nil,,Mixed,,,true,true,true,true,true,true,false,6,Other,d704be86-6ba8-4b3f-95b0-4d5386bdd07b
+6.5997417,3.2696217,,Point,LA,GRID,Triple Plus Supermarket,LASAMO16,Z,,Other,Provisions,,true,true,true,true,true,true,false,6,Weekly,d8c7347a-306e-41a3-98c0-8a7bfc1f1736
+6.5862341,3.3433135,,Point,LA,GRID,POWA Model Market,LASIKA06,Old secretariat,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,d91465ae-ba2d-4671-b50a-1064938d417c
+6.4683166,3.6610631,,Point,LA,GRID,Stella Plaza,LASEOA18,Majek second gate,,Mixed,,,true,true,true,true,true,true,false,6,Other,d9476a48-6d18-4118-af71-abffd68921ed
+6.451905,3.5566417,,Point,LA,GRID,Ikota Market 337,LASEOA08,Bola gas road,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,d992767c-e141-4c5f-8004-e2c326c862ea
+6.663095,3.2832433,,Point,LA,GRID,Ifesowspo Brothers Association Meat Market,LASAMO05,Merian,,Livestock Food Stuff,,,true,true,true,true,true,true,true,7,Other,dac1d2b7-f720-429e-9b19-5d869dd8eaa3
+6.4474768,3.4726255,,Point,LA,GRID,Brasas Place,LASEOA10,Peninsula,,Clothing Electronic Spare Parts Mixed,,,true,true,true,true,true,true,true,7,Weekly,db7aea7e-cdd4-4d6e-9f17-a7d54da2fd7a
+6.4822667,3.028955,,Point,LA,GRID,Agbokejoye Market,LASBDY11,Oko afo,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,db7f2034-c5f5-45b2-9227-42b8c6d10e76
+6.54366,3.34204,,Point,LA,OSGOF,Ladipo Spare Part Market,LASMUN19,Ladipo Spare Part,BUA,,,,,,,,,,,,,db97cb86-f10f-463c-9e33-a93f5d81b7b7
+6.6008583,3.2769283,,Point,LA,GRID,Josboyan Food Market,LASAMO21,Gowan estate,,Food Stuff,,,true,true,true,true,true,true,false,6,Weekly,dc95c343-8748-42d4-bb1e-fc18580840c5
+6.474,3.7756033,,Point,LA,GRID,Lapaz Mall,LASIUI05,Along Onasa Road,,Food Stuff,,,true,true,true,true,true,true,true,7,Weekly,dd135c71-27b9-4074-817d-44d5622c9032
+6.48526,2.9592617,,Point,LA,GRID,Plumbing Material Market,LASBDY13,Ikoga road,,Other,Plumbing material,,true,true,true,true,true,true,false,6,Weekly,ddfd1d3b-20c8-4101-bc5c-afd32d7282a2
+6.52656,3.35186,,Point,LA,OSGOF,Alasalatu Yam Flower Market,LASMUN11,Alasalatu Yam Flower,BUA,,,,,,,,,,,,,de1ccde4-3890-4063-b7f0-2e8481241d11
+6.4681792,3.3669633,,Point,LA,GRID,Rabiatu S Shopping Plaza,LASAPA08,Ijora Oloye,,Electronic Spare Parts,,,true,true,true,true,true,true,false,6,Weekly,de4b194d-d18a-437d-9166-a1dfa9ebdbf2
+6.45938,3.22823,,Point,LA,OSGOF,Gojere Shopping Centre,LASOJO08,Gojere Shopping Center,BUA,,,,,,,,,,,,,de854c2b-d2fd-4cfb-9bdc-250eecce737c
+6.4378855,3.3693053,,Point,LA,GRID,Karima Supermarket,LASAPA02,Burma road,,Mixed,,,true,true,true,true,true,true,false,6,Weekly,defe9800-f9ac-47cd-b126-90e46c0cd203
+6.52863,3.35366,,Point,LA,OSGOF,Mushin Street Market,LASMUN12,Mushin Street,BUA,,,,,,,,,,,,,df505eae-6707-4bc6-af39-76ee429adc34
+6.5349661,3.3953863,,Point,LA,GRID,Asogbon Market Ilaje,LASSMU10,Ilaje,,Mixed,,,true,true,true,true,true,true,false,6,Weekly,dfca20c0-6308-4be4-bf66-45c3652a5ff0
+6.4599598,3.2041313,,Point,LA,GRID,Iyana iba Market,LASOJO11,Iyana-iba,,Clothing Food Stuff,,,true,true,true,true,true,true,false,6,Other,e0d8499e-912f-498f-9520-c798b67b1c56
+6.51742,3.34426,,Point,LA,OSGOF,Odo Asimowu Market,LASMUN17,Odo Asimowu,BUA,,,,,,,,,,,,,e13942c0-01d9-423b-b409-e2e4f3b1f29a
+6.5712275,3.3662132,,Point,LA,GRID,Onigbongbo Market,LASIKA12,Onigbongbo,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,e1b289c1-988c-4add-b85e-13e1a1e28a98
+6.4542993,3.351257,,Point,LA,GRID,Alayabi Agba Market,LASAPA10,"Ajegunle
+Opposite Nosamu street",,Mixed,,,false,false,false,false,true,false,true,2,Other,e24fd7e8-25ec-4eed-9b1d-935ba76daea6
+6.6059484,3.3510684,,Point,LA,GRID,Ope oluwa Shopping Plaza,LASIKA04,Alade,,Clothing Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,e37c4716-8c0b-44b6-813e-e0a685a930fc
+6.4493,3.612205,,Point,LA,GRID,Ogombo Ultra Modern Market,LASEOA17,Nil,,Mixed,,,true,true,true,true,true,true,false,6,Other,e3c702b0-595f-48be-85ce-371757f9649e
+6.6053493,3.349777,,Point,LA,GRID,Old Alade Market,LASIKA03,Alade,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed,,,true,true,true,true,true,true,false,6,Weekly,e3e20fbc-f725-4f78-ae90-54ee097a251b
+6.61204,3.31128,,Point,LA,OSGOF,Dopemu Market,LASAGG10,Dopemu,BUA,,,,,,,,,,,,,e40ef2b1-a6d9-4b12-9364-3704b3d58077
+6.57119,3.27674,,Point,LA,OSGOF,Ishri Market,LASAMO28,Ishri,BUA,,,,,,,,,,,,,e49c0839-6d7e-46b9-a92a-8efc4dd53ccc
+6.62969,3.31032,,Point,LA,OSGOF,Orile Agege Market,LASAGG08,Orile Agege,BUA,,,,,,,,,,,,,e4a8db1c-0f46-4e43-94fc-e7af8af1c243
+6.506544,3.3106334,,Point,LA,OSGOF,Afenifere Market,LASOIO18,Afenifere,BUA,,,,,,,,,,,,,e56e3986-0153-454a-9f1d-2fa53b3e8917
+6.4414966,3.3112749,,Point,LA,GRID,Karimu Market,LASAON11,Kirikiri,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,e571413e-66a5-45a5-969c-10946dfe3816
+6.6264717,3.4842467,,Point,LA,GRID,Owutu Market,LASIKU28,Owutu market,,Mixed,,,true,true,true,true,true,true,true,7,Other,e5a99e7e-a9e1-498d-bade-74adbea52ab0
+6.46806,3.33055,,Point,LA,OSGOF,Odunade Market,LASATO06,Odunade,BUA,,,,,,,,,,,,,e5f2c46a-e526-4908-b473-5a0643e7658a
+6.5939308,3.3402859,,Point,LA,GRID,Computer Village,LASIKA05,Ogunbiyi,,Clothing Electronic Spare Parts Mixed,,,true,true,true,true,true,true,false,6,Weekly,e5ff7925-6721-4c00-bd89-25e263ecf761
+6.4800767,3.3472617,,Point,LA,GRID,Tafa Bello Market,LASSUE22,Orile,,Other,Building materials,,true,true,true,true,true,true,false,6,Weekly,e694edad-dd2e-4888-8526-fa923429f5fc
+6.4913183,2.9577733,,Point,LA,GRID,Pots Market,LASBDY13,Along Ikoga road,,Food Stuff,,,true,true,true,true,true,true,false,6,Other,e6b062f2-de96-45a9-add4-8458f2797d47
+6.5168933,3.3818967,,Point,LA,GRID,Citydia,LASLMD15,Unilag road,,Mixed,,,true,true,true,true,true,true,true,7,Other,e729d83d-1b96-4d73-ad0e-42966816ec3b
+6.6109433,3.34502,,Point,LA,GRID,Centre Plus Mall,LASIKA17,Adeniyi Jones,,Mixed,,,true,true,true,true,true,true,false,6,Other,e8852ccb-b3fe-447b-880b-28bfc9bfc67e
+6.536925,3.3526883,,Point,LA,GRID,Amu Plank Market,LASMUN12,Olorunshogo Mushin,,Other,"Planks, Kitchen equipments, paints, Bathroom, building materials and equipments ",,true,true,true,true,true,true,true,7,Weekly,e8d504f5-99b9-49aa-8a48-1ef48d96f349
+6.421025,2.70677,,Point,LA,GRID,Owode Market,LASBDY10,Owode,,Clothing Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Other,e8f2092b-774c-4d4b-91fd-a91305be0bc9
+6.6343645,3.2560564,,Point,LA,GRID,Best Price Supermart,LASAMO06,Command Bus Stop,,Clothing Electronic Spare Parts Food Stuff,,,true,true,true,true,true,true,false,6,Weekly,e91ea418-1777-472b-a09c-c6981f3bef59
+6.4477914,3.3481114,,Point,LA,GRID,Olodi Apapa Market,LASATO13,Olodi Apapa,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,e924a9a5-6c1f-4c92-82bc-05dd952bcafc
+6.4689162,3.3613889,,Point,LA,GRID,Ijora Badia Police Station Market,LASAPA06,Better life ijora badia police station,,Food Stuff Other,Fruits,,true,true,true,true,true,true,false,6,Weekly,eaa23793-d932-476f-87ea-12e68874ca49
+6.4983261,3.0110238,,Point,LA,GRID,Iyesi Plank Market,LASBDY13,Iyesi,,Other,"Planks,asbestos  other building materials.",,true,true,true,true,true,true,false,6,Other,eaed4f4f-dbc5-4d39-91f6-60ed851a1799
+6.55649,3.34954,,Point,LA,OSGOF,Oshodi Road Market,LASOIO01,Oshodi Road,BUA,,,,,,,,,,,,,eb389839-6eec-438a-ba8c-a541afcfec91
+6.5408728,3.2985389,,Point,LA,GRID,Iyana Ejigbo Market,LASOIO03,Ejigbo,,Mixed,,,true,true,true,true,true,true,true,7,Other,eba0ba5c-5550-4343-a791-3930044fe5ad
+6.5927457,3.3089251,,Point,LA,GRID,Ilupeju Mini Market,LASIKA13,Shasha,,Food Stuff,,,true,false,true,false,true,false,false,3,Other,eba679aa-a7dd-4702-aed0-157b1c617b39
+6.6014776,3.244853,,Point,LA,GRID,Kunlop Plaza,LASAMO14,Amole,,Clothing Food Stuff Mixed Other,Business center,,true,true,true,true,true,true,true,7,Other,ec02a177-a971-49b2-9638-ff705257e5d8
+6.544395,3.5237017,,Point,LA,GRID,Ibukun Oluwa Plank Market,LASIKU01,Igbomogun Oreta Road Igbogbo Lagos,,Other,"Building materials, soft drinks",,true,true,true,true,true,true,false,6,Other,ec5d20bd-b05a-4782-868c-cd3a09168158
+6.4863047,3.3622194,,Point,LA,GRID,Abibat Mogaji Market,LASSUE11,Surulere,,Clothing Livestock Electronic Spare Parts,,,true,true,true,true,true,true,false,6,Weekly,ecff3ea6-bba5-4592-94bb-eb44be96eeed
+6.4824184,3.1723967,,Point,LA,GRID,Isashi Plank Market,LASOJO01,Isashi,,Other,Plank,,true,true,true,true,true,true,false,6,Other,ed045298-e3ef-47b0-90db-e0b47929b268
+6.5075258,3.3254139,,Point,LA,OSGOF,Odo Eran Market,LASMUN13,Odo Eran,BUA,,,,,,,,,,,,,ed1e3f3d-14b6-4971-b769-78963521fb20
+6.4744417,3.6205417,,Point,LA,GRID,Haret,LASEOA18,Sangotedo,,Clothing Electronic Spare Parts Mixed,,,true,true,true,true,true,true,false,6,Monthly,ede7d2cb-297b-4d50-a6cb-69d576e9e20a
+6.6630481,3.591691,,Point,LA,GRID,Beautiful Feet Plaza,LASIKU18,Adamo,,Clothing Electronic Spare Parts Food Stuff Other,Business offices,,true,true,true,true,true,true,true,7,Other,edec7d97-6df4-4883-95a9-0a155377126d
+6.5965439,3.3383552,,Point,LA,GRID,Asset Corps Shopping Complex,LASIKA05,Obafemi Awolowo Road,,Mixed,,,true,true,true,true,true,true,false,6,Other,ee980c5e-a55c-4ff4-941f-3a4a36cdc674
+6.50832,3.35271,,Point,LA,OSGOF,Quarter Jack Market,LASSUE06,Quarter Jack,BUA,,,,,,,,,,,,,eeddb8e1-e559-4fa1-a1b9-f11aafb24af0
+6.6778753,3.9853537,,Point,LA,OSGOF,Mojoda Market,LASEPE13,Mojoda,BUA,,,,,,,,,,,,,f00d48d3-8ed5-4497-99cd-05108fefe97e
+6.551867,3.240483,,Point,LA,OSGOF,Igando Multipurpose Market,LASAMO23,Igando Multipurpose,BUA,,,,,,,,,,,,,f0c9dd78-0738-411c-8592-e4319c7fde9e
+6.4766602,3.7585866,,Point,LA,GRID,Elemoro Royal Shopping Complex,LASIUI05,Bogije,,Clothing Livestock Electronic Spare Parts Food Stuff Mixed Other,Gas cylinder and other petty trading,,true,true,true,true,true,true,true,7,Weekly,f160d25e-911e-4824-ab78-72dcf83cf29c
+6.491,3.35648,,Point,LA,OSGOF,Adeniran Ogunsanya Shopping Center,LASSUE01,Adeniran Ogunsanya,BUA,,,,,,,,,,,,,f280c51e-bbfc-42cf-9510-c498e2ac0e4d
+6.54999,3.32868,,Point,LA,OSGOF,Estate Market,LASOIO04,Estate,BUA,,,,,,,,,,,,,f2f4cb3b-32f0-441c-b570-27157743ec5f
+6.4600717,3.19665,,Point,LA,GRID,Alaba Market 339,LASOJO11,Alaba international Market,,Electronic Spare Parts Mixed,,,true,true,true,true,true,true,false,6,Other,f3e294ad-24b9-457e-90e2-ce3c8eac00f7
+6.5179033,3.2567317,,Point,LA,GRID,Ijegun Market 289,LASAMO24,Ijegun,,Mixed,,,true,true,true,true,true,true,true,7,Other,f42b4283-1ea1-47ef-8626-1717e0f5e91e
+6.46761,3.36795,,Point,LA,OSGOF,7up Market,LASAPA08,7up,BUA,,,,,,,,,,,,,f4f2a606-36b2-4b21-b1e0-af26053bfff8
+6.5469648,3.2639958,,Point,LA,GRID,Pako Market 358,LASAMO25,Igando Road,,Other,Wood,,true,true,true,true,true,true,true,7,Other,f556dde2-b1d0-436b-aecb-8c43b5a9e871
+6.439709,2.9568367,,Point,LA,GRID,Ajagamibo Market,LASBDY04,Aradagun,,Mixed,,,true,true,true,true,true,true,true,7,Weekly,f5838e33-fd0b-441e-9998-0362dc2cd47d
+6.5037883,3.306665,,Point,LA,GRID,Market Square,LASOIO18,Ago palace way,,Mixed,,,true,true,true,true,true,true,true,7,Other,f7be5af3-5e23-44ed-9fb3-e46284b8d414
+6.46656,3.33821,,Point,LA,OSGOF,Mosafejo Market,LASATO06,Mosafejo,BUA,,,,,,,,,,,,,f88646d0-40bb-4abf-b50c-d64c8a7c6cf0
+6.4411833,2.92012,,Point,LA,GRID,Ayelaju Market,LASBDY03,Ibereko,,Livestock Food Stuff,,,true,true,true,true,true,true,false,6,Weekly,f8e2bf8c-c493-46c5-a254-f17a08899e55
+6.48421,3.1888,,Point,LA,OSGOF,Igbo Elerin Central,LASOJO12,Igbo Elerin Central,BUA,,,,,,,,,,,,,fb67e045-09a4-4844-92f3-f103c6586c7a
+6.47207,3.8170883,,Point,LA,GRID,Baba Adisa Market,LASIUI02,Baba adisa market,,Clothing Livestock Food Stuff Mixed,,,true,true,true,true,true,true,true,7,Weekly,fb6bcb84-89a0-4bd7-a67d-7c1b982fe5ec
+6.46294,3.17154,,Point,LA,OSGOF,Sabo Oniba Center Market,LASOJO14,Sabo Oniba Center,BUA,,,,,,,,,,,,,fd083044-5da7-4935-9b75-2ba38a19353a
+6.6054083,3.319735,,Point,LA,GRID,Egba Market,LASIKA13,Egba,,Livestock Food Stuff,,,true,true,true,true,true,true,false,6,Other,fd302244-d195-452c-a7b1-616ee93930a0
+6.587115,3.3809183,,Point,LA,GRID,Chemicals Markets,LASKSE16,Ggadebo street,,Mixed,,,true,true,true,true,true,true,false,6,Weekly,fd9f360e-54d9-4342-b136-13058b4913da
+6.449245,3.5500467,,Point,LA,GRID,Bl Supermarket,LASEOA04,"Along Ogunlana, Ibeju Lekki",,Mixed,,,true,true,true,true,true,true,true,7,Weekly,fdaa60e9-c9b6-4146-9443-6504f8d2a53f
+6.4765808,3.7569023,,Point,LA,GRID,Akord Shopping Mall,LASIUI05,Bogije,,Clothing Food Stuff Other,Dental clinic and Uba Pharmacy & Supermarket,,true,true,true,true,true,true,false,6,Weekly,fe45748f-0d63-4b07-9dee-57197c574460
+6.4748938,3.7507522,,Point,LA,GRID,Success Plaza,LASIUI05,Elemoro,,Clothing Electronic Spare Parts Food Stuff,,,true,true,true,true,true,true,false,6,Weekly,fe75960a-611f-4381-ac9b-8664dbe59653
+6.4533806,3.3508891,,Point,LA,GRID,Ayeke Market,LASAPA10,Bale Alayabiagba,,Mixed,,,false,false,false,false,true,false,true,2,Other,ff8b2ce2-703d-4496-81d8-5ebbb54c8507
+6.4695603,3.3506332,,Point,LA,GRID,Ladipo Plank Market,LASATO12,Sari lganmu,,Other,Plank,,true,true,true,true,true,true,false,6,Weekly,ffcb6710-c4a1-4abc-ae87-3c82c2d1c5a9

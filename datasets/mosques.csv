@@ -1,0 +1,567 @@
+latitude,longitude,altitude,geometry,state_code,source,name,ward_code,poi_type,global_id
+6.58163,3.3409,,Point,LA,OSGOF,Ikawo Kolaso Mosque,LASOIO20,Mosque,001c1ad2-3c1d-48b0-b67c-1edaa7762841
+6.46541,3.33473,,Point,LA,OSGOF,Ifelodun Mosque Alaba,LASATO06,Mosque,009f1fb6-94a2-4c52-b93e-70d6cb329364
+6.41676,3.31395,,Point,LA,OSGOF,Igbo Isu Central Mosque,LASAON09,Mosque,011c12f0-ada0-464c-bfd4-9fd4f8f97f76
+6.54389,3.37999,,Point,LA,OSGOF,Maharufdeen Central Mosque,LASSMU06,Mosque,0200322e-116d-47f3-970c-fe479b09c7f5
+6.40346,3.09423,,Point,LA,OSGOF,Igbo Oja Nla Central Mosque,LASOJO15,Mosque,0202a9e0-be2e-4a81-92ec-ce2caa887823
+6.63564,3.37464,,Point,LA,OSGOF,Olowora Central Mosque,LASKSE12,Mosque,02edc3e4-1c7d-4edb-a90f-9babc704e93d
+6.55232,3.33089,,Point,LA,OSGOF,Wulemotu Agbo Central Mosque,LASOIO15,Mosque,031c3dbe-5702-4037-8f1e-c880a5aa6dd2
+6.52154,3.36688,,Point,LA,OSGOF,Ansa Ud Deen Mosque,LASMUN02,Mosque,045b5a85-63ab-4b94-9fdf-c9e0cf08e64c
+6.52637,3.34169,,Point,LA,OSGOF,Anwarul Islam Central Mosque,LASMUN01,Mosque,0506303f-37ca-44fd-8278-1c4f20e13c7f
+6.60653,3.39497,,Point,LA,OSGOF,Erunkan Central Mosque,LASKSE09,Mosque,052ccc52-7cec-44be-9803-4ad4a0f5c678
+6.40342,3.13118,,Point,LA,OSGOF,Olomometa Central Mosque,LASOJO15,Mosque,057f0c21-bd08-4d6c-90e1-7f53fc8df046
+6.41785,3.23761,,Point,LA,OSGOF,Ikeanabi Mosque,LASAON05,Mosque,05f291b0-e0af-42c9-aec1-1534260e4ec8
+6.60573,3.39773,,Point,LA,OSGOF,Aliwo Central Mosque,LASKSE09,Mosque,072e08a8-c65e-45bf-9995-fe958d67939d
+6.63112,3.31822,,Point,LA,OSGOF,Amodu Mosque,LASAGG12,Mosque,07626ce8-5b9c-4d1a-be94-8109d19d5ed4
+6.64336,3.71316,,Point,LA,OSGOF,Oluwakemi Rotibi Mosque,LASEPE02,Mosque,07e6411a-e49e-4e0b-8233-2408c0b54a0b
+6.49762,3.32629,,Point,LA,OSGOF,Ijesha Central Mosque,LASSUE17,Mosque,0859a1ab-9001-4b43-aaea-cccfa3ab06db
+6.42734,3.23407,,Point,LA,OSGOF,Irede Central Mosque,LASAON05,Mosque,08fda101-5063-43a3-b3f4-74672bdaff01
+6.55784,3.3352,,Point,LA,OSGOF,Ansar Ud Deen Mosque Ogunoloko,LASOIO15,Mosque,096f0563-6d43-43ab-b60c-2d3ca793a947
+6.61679,3.39751,,Point,LA,OSGOF,Agiliti Central Mosque,LASKSE21,Mosque,0a977fa8-d83a-4500-8574-db42f37ab9a0
+6.45926,3.38163,,Point,LA,OSGOF,Nawair Ud Deen Central Mosque,LASLID15,Mosque,0ccd9935-508e-4f8c-b8f4-28bfebca62c3
+6.62619,3.31188,,Point,LA,OSGOF,Sherifat Agbede Mosque,LASAGG04,Mosque,0cd75f04-6f5c-443c-926a-4ad5a9aa7d05
+6.48832,3.36174,,Point,LA,OSGOF,Iponri Housing Estate Mosque,LASSUE01,Mosque,0d37829f-25f5-48bd-9d5b-717c24df8033
+6.5203,3.33388,,Point,LA,OSGOF,Idera Oluwa Mosque,LASOIO13,Mosque,0d8933dd-ac87-4ab4-bed5-ddb8e7446ae9
+6.47208,3.33895,,Point,LA,OSGOF,Onilewura Mosque,LASATO11,Mosque,0d8e0d4d-212e-4b54-8290-68e940541c32
+6.58737,3.39923,,Point,LA,OSGOF,Alapere Central Mosque,LASKSE03,Mosque,0dd32f05-8c4b-4f47-8eb4-9c0a9106ef70
+6.61074,3.25524,,Point,LA,OSGOF,Ipaja Central Mosque,LASAMO26,Mosque,0f1869f0-7b65-495a-9a8f-0b601032317b
+6.4794,3.38759,,Point,LA,OSGOF,Owolara Memorial Mosque,LASLMD17,Mosque,0fa5edfd-2dde-4216-87cd-6108b95a46aa
+6.46204,3.34525,,Point,LA,OSGOF,Aiyetoro Mosque,LASATO01,Mosque,10043a2e-8979-47c5-9aed-d936a6e82cd5
+6.45844,3.3842,,Point,LA,OSGOF,Fourah Bay Mosque,LASLID05,Mosque,127e1774-3926-4af3-92c4-897b17e8835a
+6.54394,3.27866,,Point,LA,OSGOF,Egbe Central Mosque,LASAMO18,Mosque,138f49d4-304d-45df-8a6c-538866a01a1d
+6.62319,3.2813,,Point,LA,OSGOF,Aboru Central Mosque,LASAMO04,Mosque,148647b6-b729-4f42-a5e0-e679f5b0831a
+6.63567,3.32381,,Point,LA,OSGOF,Abm Mosque,LASIOE02,Mosque,14cd438b-e9e7-417a-88b2-a439e9826220
+6.46314,3.17019,,Point,LA,OSGOF,Ilemba Hausa Central Mosque,LASOJO14,Mosque,14ec88df-9d1c-4dca-9904-d9b0cba509c8
+6.537,3.38857,,Point,LA,OSGOF,Saitmate Guest House Mosque,LASSMU01,Mosque,153f6781-83ca-43b3-80e6-9ec908f74b22
+6.47354,3.38012,,Point,LA,OSGOF,Opeloyeru Mosque,LASLMD16,Mosque,15c23beb-d967-431d-9282-316a95177dd3
+6.41848,3.20152,,Point,LA,OSGOF,Iyagbe Central Mosque,LASAON05,Mosque,163e4d20-5214-4610-8552-315468e3e410
+6.62248,3.31825,,Point,LA,OSGOF,Hausa Central Mosque Moricas,LASAGG02,Mosque,16aeb433-a180-4bc3-985a-cbfd18c47e4b
+6.50281,3.78266,,Point,LA,OSGOF,Opeloyeru Central Mosque,LASEPE12,Mosque,16de0308-9295-44d5-b5fc-25f24e123736
+6.53036,3.37702,,Point,LA,OSGOF,Ibukum Oluwa Mosque,LASSMU11,Mosque,16fe3c96-c617-46b2-a388-78eecaf35b82
+6.46134,3.38978,,Point,LA,OSGOF,Zumurat Hujat Mosque,LASLID10,Mosque,1732bb32-67cd-43c9-9248-a961ee1f3c87
+6.63238,3.36392,,Point,LA,OSGOF,Omole Mosque,LASIKA02,Mosque,18734b53-0af4-4f3c-9542-ec9168d1c656
+6.4051,3.10144,,Point,LA,OSGOF,Igbooja Kekere S B Central Mosque,LASOJO15,Mosque,18d8fad0-2b83-4782-a5cb-7f90252bcbcf
+6.46627,3.36136,,Point,LA,OSGOF,Ajumoni Central Mosque Badia,LASAPA06,Mosque,1ae238f0-eb00-4e7d-bbe9-b68924c822fe
+6.47924,3.34177,,Point,LA,OSGOF,Temitayo Mosque,LASSUE07,Mosque,1b35ebd0-41eb-4d58-9a90-f66c6e3c99e6
+6.56231,3.33683,,Point,LA,OSGOF,Mafoluku Mosque 1,LASOIO16,Mosque,1c1e9244-0bc9-47b8-808d-4cd36aed7fa5
+6.54511,3.37944,,Point,LA,OSGOF,Alabukun Mosque,LASSMU03,Mosque,1c489d16-a489-48eb-ade7-63f8f454be35
+6.4658,3.33972,,Point,LA,OSGOF,Mosafejo Mosque,LASATO03,Mosque,1c6ac95f-b5e0-4570-8092-4dadf651ff0a
+6.49647,3.3879,,Point,LA,OSGOF,Olaiya Central Mosque,LASLMD12,Mosque,1c9a3c37-b69d-442e-80cf-7acb1ff1af96
+6.55892,3.34692,,Point,LA,OSGOF,Ganikale Sawiat Mosque,LASOIO11,Mosque,1d13e756-b418-4515-8d2c-3b7c72c51353
+6.52829,3.36505,,Point,LA,OSGOF,Soyege Central Mosque,LASMUN10,Mosque,1d31f0cf-266e-452b-afdd-4452cb4e0aed
+6.65934,3.29204,,Point,LA,OSGOF,Sawiya Central Mosque,LASAMO05,Mosque,1d380531-d16f-46ca-bfb9-599cf91fa717
+6.46592,3.17331,,Point,LA,OSGOF,Abule Aka Central Mosque,LASOJO10,Mosque,1e0d96fa-c3d3-4d16-a4e1-af4e83efb6a6
+6.53725,3.29567,,Point,LA,OSGOF,Ansar Ud Deen Mosque Ailegun,LASOIO03,Mosque,1ee9a419-7d6b-4009-ab49-58574bc94697
+6.53226,3.33937,,Point,LA,OSGOF,Adenekan Central Mosque,LASMUN19,Mosque,1ef88e92-9a15-4779-a8bf-4770a366ef30
+6.61613,3.30953,,Point,LA,OSGOF,Aduragba Mosque,LASAGG10,Mosque,1f1421b4-71e4-4d64-bc9d-f4bb0a943a1e
+6.63619,3.8778,,Point,LA,OSGOF,Ketu Central Mosque 3,LASEPE07,Mosque,1f23853c-ed49-405a-931b-2ae68121f539
+6.48773,3.90669,,Point,LA,OSGOF,Iba Oloja Central Mosque,LASIUI01,Mosque,1f452056-af16-4e76-a52c-56ed1696d490
+6.43553,2.87927,,Point,LA,OSGOF,Ajara Seje Ajigbare Mosque,LASBDY03,Mosque,1f52d960-a8d4-4f91-8318-1cbc6322c797
+6.55542,3.33221,,Point,LA,OSGOF,Tawakaltu Mosque,LASOIO15,Mosque,1f82cf08-bed2-412a-814f-6882c5a751b5
+6.55974,3.29874,,Point,LA,OSGOF,Morcas Ud Ulum Central Mosque,LASOIO02,Mosque,205ec354-61da-4f7b-9372-35245b86014d
+6.53876,3.31535,,Point,LA,OSGOF,Ilamoshe Central Mosque,LASOIO12,Mosque,2141ff11-19b8-43bd-bea1-b42b846cd35a
+6.62743,3.30929,,Point,LA,OSGOF,Anu Olwa Mosque,LASAGG04,Mosque,21c36452-bb43-49b8-8ea9-1cf13dec7898
+6.42249,3.1068,,Point,LA,OSGOF,Oko Ogbo Central Mosque,LASBDY15,Mosque,22032cd9-2616-4afd-90b9-667f53745531
+6.55162,3.2597,,Point,LA,OSGOF,Abdulkareem Memorial Mosque,LASAMO25,Mosque,22a0caf3-43fc-44bc-9c1b-c93c30b3fd36
+6.53008,3.24361,,Point,LA,OSGOF,Abaranje Central Mosque,LASAMO01,Mosque,22f10301-b53e-480a-a167-f4ef3546a1e5
+6.50213,3.34323,,Point,LA,OSGOF,Albarika Mosque Ikate,LASSUE08,Mosque,23152ca5-b172-4a8d-9515-f27ba67ee0c7
+6.57901,3.53289,,Point,LA,OSGOF,Selewu Mosque,LASIKU01,Mosque,23ce6ec6-2e37-49a0-bdc0-9e7e8b97e825
+6.65684,3.79517,,Point,LA,OSGOF,Itoikin Central Mosque,LASEPE09,Mosque,23e691cf-3d32-4d89-ba51-e7b386ee367c
+6.56142,3.33109,,Point,LA,OSGOF,Fiwakesin Mosque,LASOIO19,Mosque,244ad3ac-d5d5-4442-a48c-fd2bc6733a42
+6.52354,3.38994,,Point,LA,OSGOF,Ifelodun Mosque Abule Ijesha,LASLMD02,Mosque,24caeed9-bcee-4c22-ab8e-85debb4d0a02
+6.60486,3.34582,,Point,LA,OSGOF,Tawakalitu Mosque,LASIKA17,Mosque,25172dd9-5aa4-4124-9de5-4dff28e7ab61
+6.51411,3.20044,,Point,LA,OSGOF,Iba Central Mosque,LASOJO04,Mosque,25421c4b-6c6d-40a5-a183-e4d2492dd5ec
+6.5317,3.38327,,Point,LA,OSGOF,Istujaba Mosque,LASSMU04,Mosque,2570283d-658f-42a2-97fd-90509cd66b32
+6.66065,3.29189,,Point,LA,OSGOF,Hamadiya Mosque,LASIOE07,Mosque,265a00d3-638d-4014-adff-213d46b45d36
+6.55422,3.3336,,Point,LA,OSGOF,Opeloyero Quranic Mosque,LASOIO15,Mosque,26908c00-91f5-4327-9526-824de3038032
+6.46734,3.33409,,Point,LA,OSGOF,Prince Abdulazeez Mosque,LASATO06,Mosque,26a3b33b-c39f-43d2-981f-2602ca7273eb
+6.42691,3.61754,,Point,LA,OSGOF,Okun Mopo Akinlade Central Mosque,LASEOA17,Mosque,27bbdd3d-8ec5-48e6-a307-06e03920922c
+6.51912,3.34866,,Point,LA,OSGOF,Idi Araba Muslim Community Mosque,LASMUN11,Mosque,2866fbf0-4586-4aea-a8eb-0ff413e156bc
+6.46423,3.33803,,Point,LA,OSGOF,Anjorin Aduragbemi Mosque,LASATO03,Mosque,286ed029-29f4-4c87-bfdb-f44b9af8a96a
+6.46439,3.35213,,Point,LA,OSGOF,Oridilu Mosque 1,LASATO05,Mosque,2881e6d5-1f92-4bd5-896a-3deaaa3df947
+6.56041,3.34363,,Point,LA,OSGOF,Oshodi Central Mosque,LASOIO11,Mosque,29abe251-d722-4959-9f80-e6c54a0c95d2
+6.52356,3.36414,,Point,LA,OSGOF,Amadiya Mosque,LASMUN02,Mosque,29fec2c3-48c9-40b8-bfc6-518355bf366f
+6.60063,3.33764,,Point,LA,OSGOF,Anifowose Mosque,LASIKA05,Mosque,2af50949-9e8d-415c-81dc-2f70f839f388
+6.463823,3.342483,,Point,LA,eHA_Polio,Akorede Mosque,LASATO05,Mosque,2b2a5ff2-10e3-4b21-9960-a4da340616bf
+6.45298,3.39701,,Point,LA,OSGOF,Jama At Ul Islamiya Mosque,LASLID16,Mosque,2b40b857-3095-48bb-9576-e3a413c2d240
+6.539042,3.22292,,Point,LA,eHA_Polio,Odofin Mosque,LASAMO08,Mosque,2b4f6e2b-a62e-42f5-85af-2c8d2e304eb6
+6.4926,3.58227,,Point,LA,OSGOF,Central Mosque Oke Ira Kereke,LASEOA02,Mosque,2bf17c3d-091a-48d2-b499-94c8a6614e79
+6.45482,3.33223,,Point,LA,OSGOF,Awodi Ora Mosque,LASATO07,Mosque,2c596309-631f-4b32-8e92-56cfba82a123
+6.68323,3.51193,,Point,LA,OSGOF,Odo Kekere Central Mosque,LASIKU23,Mosque,2cdf3d39-6341-45db-9306-256e8701e4cc
+6.52052,3.33267,,Point,LA,OSGOF,Isaha Deen Mosque,LASOIO13,Mosque,2ce22dca-bf47-44aa-9602-d5f3db6460a3
+6.56586,3.59438,,Point,LA,OSGOF,Alasalatu Mosque,LASIKU25,Mosque,2df8cec4-1f8a-4647-b1b9-1103697e0df9
+6.52699,3.36156,,Point,LA,OSGOF,Odi Olowo Central Mosque,LASMUN06,Mosque,2e6adeac-add6-417d-8e3c-3c0d2ef13206
+6.60678,3.39639,,Point,LA,OSGOF,Erukan Mosque,LASKSE09,Mosque,2f0e934f-2eda-425f-8f2b-776e5f07b9ef
+6.55375,3.33872,,Point,LA,OSGOF,Opeloyeru Oloro Mosque,LASOIO01,Mosque,2f1931c9-87dc-4fd7-92a7-203c78f94ca8
+6.40507,3.157,,Point,LA,OSGOF,Agaja Central Mosque,LASOJO15,Mosque,30c067e7-51fc-403e-809c-36593329fe52
+6.61312,3.89666,,Point,LA,OSGOF,Ejirin Central Mosque,LASEPE07,Mosque,30cf7a7f-8fe5-41a5-a322-b7791cecf31e
+6.52886,3.32692,,Point,LA,OSGOF,Alhaji Hassan Akanbi Mosque,LASOIO05,Mosque,30d42711-e38c-4dcc-943f-42f9e3bba5e2
+6.63157,3.31321,,Point,LA,OSGOF,Olorungbebe Mosque 3,LASAGG12,Mosque,3196d40f-c5db-4c07-b0c8-072d48e3f976
+6.45271,3.39994,,Point,LA,OSGOF,Abu Court Quranic Mosque,LASLID06,Mosque,31bc01b3-a6c5-466b-a989-9980d938df07
+6.62969,3.33788,,Point,LA,OSGOF,Aranseolohun Center Mosque,LASIOE10,Mosque,321ffe8e-11f5-4436-b489-1ea2b77a211c
+6.53189,3.35047,,Point,LA,OSGOF,Ajumonire Mosque,LASMUN12,Mosque,3235a6a6-b671-4016-9922-54b1c650a91b
+6.60387,3.40233,,Point,LA,OSGOF,Owode Orile Mosque,LASKSE03,Mosque,32a23e91-5a8b-4945-ad97-9a2d5eb2c965
+6.45612,3.36055,,Point,LA,OSGOF,Mobil Road Mosque,LASAPA09,Mosque,335008d0-4cc4-411c-9d98-b8bc8d32b2d8
+6.53646,3.38702,,Point,LA,OSGOF,Orile Bariga Central Mosque,LASSMU01,Mosque,33603e0c-5c0d-4580-8ebe-211892357d87
+6.52707,3.35162,,Point,LA,OSGOF,Nurudeen Mosque Alasalatu,LASMUN11,Mosque,33da7c3f-7bc7-4756-ac46-d92742078a36
+6.45502,3.35209,,Point,LA,OSGOF,Alayabiagba Mosque 2,LASATO08,Mosque,344e69eb-c30d-4648-8504-029b4f2204ae
+6.51113,3.3373,,Point,LA,OSGOF,Itire Central Mosque,LASMUN17,Mosque,349aa871-686e-4c0a-ab61-820c02753bab
+6.63593,3.33801,,Point,LA,OSGOF,Yahaya Ismalla Mosque,LASIOE09,Mosque,34f05258-21d2-4a74-b00a-5011c8f4c8e6
+6.49623,3.11353,,Point,LA,OSGOF,Oto Awori Central Mosque,LASOJO13,Mosque,3540df35-fb90-4e18-a78c-6d25f6b7e61a
+6.57982,3.97356,,Point,LA,OSGOF,Ansar Ud Deen Central Mosque,LASEPE03,Mosque,357e82a1-c8df-41ac-9753-f116f87bbdc2
+6.62035,3.39584,,Point,LA,OSGOF,Olakunlehin Mosque,LASKSE21,Mosque,36cb4f64-09dc-4dad-a805-d378c545847b
+6.50924,3.32996,,Point,LA,OSGOF,Mahadial Azeez Memorial Mosque,LASMUN14,Mosque,36e86802-60fc-4e52-9c88-367aeb1cb2ce
+6.53744,3.37301,,Point,LA,OSGOF,Ifedayo Mosque,LASSMU09,Mosque,36e8eccc-2483-48a9-9a89-81e84b93c565
+6.44553,3.13983,,Point,LA,OSGOF,Imolodini Central Mosque,LASOJO02,Mosque,37043f01-405e-456a-8472-697e93380c76
+6.44244,3.33545,,Point,LA,OSGOF,Iya Mecca Central Mosque,LASATO04,Mosque,37ade2dd-59b0-4f6b-99b1-3597b30b0e7c
+6.41821,3.23553,,Point,LA,OSGOF,Ikaare Central Mosque,LASAON05,Mosque,37ce85a0-3c9a-484e-acc8-798d82060cdc
+6.44331,3.33713,,Point,LA,OSGOF,Alakoto Mosque 3,LASATO04,Mosque,385ded59-1fd0-4ae5-bd44-727bc3494667
+6.52017,3.33262,,Point,LA,OSGOF,Shams Ud Deen Mosque,LASOIO13,Mosque,386f92dd-c717-47cd-9cde-313e8f0050f2
+6.55305,3.29499,,Point,LA,OSGOF,Faith Convalescent Mosque,LASOIO10,Mosque,38771d05-4c96-432e-b831-2647fb4e1f28
+6.52752,3.38534,,Point,LA,OSGOF,Akoka Central Mosque,LASSMU07,Mosque,388d0bb6-fdb0-42c4-a926-e325bdbd3830
+6.49958,3.3334,,Point,LA,OSGOF,Aranshe Oluwa Mosque,LASSUE21,Mosque,38c32909-e226-4f7b-ae9c-736e8578352e
+6.61091,3.34377,,Point,LA,OSGOF,Abule Oloti Mosque,LASIKA17,Mosque,39043518-76fc-49fb-a283-f0c468f9064a
+6.47778,3.34557,,Point,LA,OSGOF,Afenifere Central Mosque,LASAPA03,Mosque,394cff5e-0881-4095-a51b-cec808607614
+6.4278,3.2346,,Point,LA,OSGOF,Surulere Mosque Irede Oriade,LASAON05,Mosque,39903c83-e675-43d3-b14d-90a03032f10a
+6.47494,3.32829,,Point,LA,OSGOF,Ashabi Olarenwaju Mosque,LASSUE09,Mosque,3a06c62f-efe2-48f7-b2ec-3ebb2d29498d
+6.61793,3.33344,,Point,LA,OSGOF,Ajegunle Ogba Mosque,LASAGG06,Mosque,3a4716a4-d940-4bcd-b2eb-29dc2154da78
+6.55682,3.40036,,Point,LA,OSGOF,Busari Lawal Mosque,LASKSE17,Mosque,3a4745cc-3fcd-49b2-8fa6-501311913357
+6.44715,3.34842,,Point,LA,OSGOF,Olodi Apapa Mosque 2,LASATO16,Mosque,3a7f6dc7-5021-49a6-bdc6-a6cfad8bd8c8
+6.46955,3.34327,,Point,LA,OSGOF,Opeloyeru Mosque Amukoko,LASATO11,Mosque,3b066121-9b62-4444-853d-2a4f23b051b8
+6.43515,3.48622,,Point,LA,OSGOF,Ikate Mosque,LASEOA10,Mosque,3b45fdac-adf2-45da-a1d7-a8e4983fafd3
+6.63776,3.34138,,Point,LA,OSGOF,Olorunsogo Mosque,LASIOE09,Mosque,3b548956-5762-41d1-83b6-0a643ab79ad1
+6.42777,3.16164,,Point,LA,OSGOF,Ifeiwakesin Central Mosque,LASOJO09,Mosque,3b686b1b-86ec-47c6-9c27-01c59dfa8a9c
+6.45899,3.38341,,Point,LA,OSGOF,Iya Alaso Oke Mosque,LASLID14,Mosque,3bcc552d-ce2e-4830-a397-b7441ddc886e
+6.60672,3.32008,,Point,LA,OSGOF,Onilekere Central Miosque Mosque,LASIKA13,Mosque,3c0c2ec5-0301-468c-9963-5e740a62ee10
+6.65281,3.27212,,Point,LA,OSGOF,Jibdal Mosque,LASAMO06,Mosque,3c0d3e4d-2019-4e3e-b8e1-f822b07488cc
+6.57939,3.27913,,Point,LA,OSGOF,Nawaie Deen Society Mosque,LASAMO28,Mosque,3e3888c9-eefc-4dcc-90a7-a965577ea561
+6.66032,3.30087,,Point,LA,OSGOF,Ilupeju Titun Central Mosque,LASIOE01,Mosque,3ecc0887-00dc-4821-adcf-492658018bc8
+6.40428,3.02839,,Point,LA,OSGOF,Dadiluwi Central Moqsue Mosque,LASOJO15,Mosque,3f069860-f30f-4ddf-9253-764ea8a1fb7a
+6.64476,3.71641,,Point,LA,OSGOF,Owu Central Mosque,LASEPE02,Mosque,3f5feba4-f5e9-4a31-a241-5f3f645024c3
+6.46733,3.35151,,Point,LA,OSGOF,Mobolorunsowo Central Mosque,LASAPA07,Mosque,3fa7e253-1ffa-46c7-bc2d-c99f1dbd5440
+6.46013,3.19448,,Point,LA,OSGOF,Alaba Rango Intil Mosque,LASOJO11,Mosque,4132eadb-492e-41bf-a586-7cd12df482ca
+6.42271,3.14437,,Point,LA,OSGOF,Origele Central Mosque,LASOJO09,Mosque,4255b4a8-85ae-4030-b650-d5c91319a863
+6.5139,3.32822,,Point,LA,OSGOF,Alahu Mosque,LASOIO13,Mosque,42dfaa0c-d42c-4bc2-9955-a038f0a64c55
+6.49099,3.36,,Point,LA,OSGOF,Anwar Al Islam Mission Mosque,LASSUE01,Mosque,43ab1092-569e-41fd-a939-94bbf0e9afa4
+6.48346,3.34315,,Point,LA,OSGOF,Aduranigba Central Mosque,LASSUE22,Mosque,43c1cd5f-fc4e-421a-85e1-62c9e89c3ed7
+6.52473,3.38308,,Point,LA,OSGOF,Sanusi Central Mosque,LASSMU07,Mosque,442c2299-436c-40e9-b0f8-3b58911a3340
+6.48315,3.38707,,Point,LA,OSGOF,Anwar Ud Deen Central Mosque,LASLMD07,Mosque,45a4afb0-ef81-4dd7-ae28-b0640edb1716
+6.62925,3.31048,,Point,LA,OSGOF,Orile Agege Central Mosque,LASAGG07,Mosque,45aa0d5b-fb95-4452-bf07-5820b80008ee
+6.45648,3.36407,,Point,LA,OSGOF,Marine Beach Mosque,LASAPA09,Mosque,45f49c22-f90c-4fb0-b7b7-28f17af3a7bc
+6.62917,3.34134,,Point,LA,OSGOF,Area G Central Mosque,LASIKA07,Mosque,46322e22-9329-42cb-9844-be6b541ad6eb
+6.54595,3.39417,,Point,LA,OSGOF,Aibarila Mosque,LASSMU03,Mosque,466b29ec-9299-4e53-ae46-941c061bb4ee
+6.45569,3.39006,,Point,LA,OSGOF,Ansarul Islam Society Of Nigeria Mosque,LASLID02,Mosque,46d6dfd9-4d3f-4148-8692-511b63ebd312
+6.60697,3.98678,,Point,LA,OSGOF,Adebowale Central Mosque,LASEPE14,Mosque,473aa0ea-2625-43ec-9bb7-a96e429b1ce0
+6.42448,3.29219,,Point,LA,OSGOF,Imore Central Mosque,LASAON06,Mosque,4840a7b4-bc86-493c-aabd-164a8b689709
+6.49936,3.3583,,Point,LA,OSGOF,Abdul Wahab Folawiyo Mosque,LASSUE23,Mosque,48bdf9e9-ac35-4400-925f-75a372e05205
+6.45593,3.352,,Point,LA,OSGOF,Alayabiagba Mosque 1,LASATO08,Mosque,48c523c2-16ee-4a54-b1a9-fd0c183e034e
+6.45606,3.39247,,Point,LA,OSGOF,Faji Mosque,LASLID03,Mosque,49db94e8-fc43-4db4-9fcc-4b00a8346baa
+6.411,3.31343,,Point,LA,OSGOF,Okun Glass Central Mosque,LASAON09,Mosque,4a1dea59-7924-4a6c-95ce-975937e32906
+6.47874,3.17388,,Point,LA,OSGOF,Mebamu Central Mosque,LASOJO01,Mosque,4aeb9a34-4052-4b1a-babc-ffc2bdcf760b
+6.45779,3.28679,,Point,LA,OSGOF,Ifelodun Central Mosque,LASAON03,Mosque,4b3fc7d8-45ee-4c2c-afdb-27365bf9c26d
+6.44564,3.34025,,Point,LA,OSGOF,Alakoto Mosque 2,LASATO15,Mosque,4b61da87-731c-4043-be85-2cd78d7165e6
+6.46116,3.15151,,Point,LA,OSGOF,Alhaji Gatar Central Mosque,LASOJO03,Mosque,4bba2389-9c20-4317-a000-5280dc5f6fd2
+6.66903,3.27601,,Point,LA,OSGOF,A U D Mosque,LASIOE08,Mosque,4c44bd4b-6322-492b-b58d-7d29a6b11db4
+6.47043,3.35854,,Point,LA,OSGOF,Asarudeen Mosque,LASAPA11,Mosque,4c576e31-0581-4841-a47e-bf5c58d420df
+6.44537,3.34276,,Point,LA,OSGOF,Tolu Mosque 3,LASATO15,Mosque,4cb57535-2f05-45ca-9fbb-128ffbce3c38
+6.44026,3.79388,,Point,LA,OSGOF,Central Mosque Okun Alade,LASIUI10,Mosque,4cbd63c3-0526-48bb-bc84-9351da26c3a5
+6.44701,3.60898,,Point,LA,OSGOF,Anuoluwa Mosque,LASEOA17,Mosque,4ced0f1b-1560-484f-9072-1afbb7690c67
+6.46325,3.03604,,Point,LA,OSGOF,Obele Central Mosque,LASBDY08,Mosque,4d54a991-aaf1-428f-ad48-e356e2aa5111
+6.654345,4.085991,,Point,LA,eHA_Polio,Iju Central Mosque,LASEPE10,Mosque,4d9a88f2-ead2-45e7-ad2d-e5678f885a31
+6.49458,3.38801,,Point,LA,OSGOF,Oloruntoba Mosque,LASLMD12,Mosque,4db0ffb1-bed9-4d25-8cff-5d2c841230de
+6.62203,3.30188,,Point,LA,OSGOF,Opeloyeru Mosque Alaagba,LASAGG04,Mosque,4e7d4edb-e46e-4c1a-966a-c54eeaf70e51
+6.55651,3.34668,,Point,LA,OSGOF,Ismuf Central Mosque,LASOIO11,Mosque,4e8bac64-17eb-4f7a-a296-9baf5f60b2a3
+6.53414,3.38705,,Point,LA,OSGOF,Araromi Mosque Bariga,LASSMU14,Mosque,4ec28d3d-10cc-42d8-84cd-2dca2cfe8188
+6.55246,3.29607,,Point,LA,OSGOF,Dar Ul Hulumil Central Mosque,LASOIO10,Mosque,4eeb4bad-46ec-4cf6-959e-00d7bdc6643a
+6.62434,3.31545,,Point,LA,OSGOF,Asalam Mosque,LASAGG02,Mosque,4ef1ae5a-61eb-406c-939a-8718bdc118a7
+6.47617,3.38067,,Point,LA,OSGOF,Enuanualai Mosque,LASLMD16,Mosque,4f2f1407-e7cd-4863-8c10-98f3de58ba50
+6.49061,3.15605,,Point,LA,OSGOF,Ketu Central Mosque 2,LASOJO13,Mosque,4faddcff-6773-4062-ac73-60e757a0e321
+6.43522,3.39286,,Point,LA,OSGOF,Friday Mosque Takway Bay,LASAPA02,Mosque,50af88a9-14f4-4059-bdbe-0113f48cfe22
+6.51281,3.34645,,Point,LA,OSGOF,Oluwa Nipe Koyeni Mosque,LASMUN17,Mosque,50ede2a2-40f6-4027-8eee-55a8bcb1db90
+6.48182,3.38106,,Point,LA,OSGOF,Ansar Ud Deen Mosque Ebute Metta,LASLMD13,Mosque,510b98c6-6287-48bc-82df-7ffba74e1e6b
+6.45987,3.3824,,Point,LA,OSGOF,Idita Mosque,LASLID15,Mosque,51a17dd4-c5ea-4b4d-9cce-877182b39015
+6.50066,3.38868,,Point,LA,OSGOF,Olalekan Olorunsogo Mosque,LASLMD12,Mosque,51a52eb1-ce0f-4a6d-a738-3be2da21079a
+6.40882,3.38123,,Point,LA,OSGOF,Oloruntosin Mosque Abagbo,LASAPA02,Mosque,51d04fa0-901e-41b1-827b-08eebebeaf9d
+6.53417,3.37742,,Point,LA,OSGOF,Okesuna Central Mosque,LASSMU11,Mosque,521b34e9-b7e6-484a-a68a-73ca6af84d3e
+6.47721,3.34862,,Point,LA,OSGOF,Opefoluwa Central Mosque,LASAPA12,Mosque,52f1a6ce-a125-41a4-a24f-986d6d74f57d
+6.59261,3.40066,,Point,LA,OSGOF,Awakesin Mosque,LASKSE03,Mosque,53e65dac-c31d-4ecb-a7bd-7ef53ce41a18
+6.52435,3.29302,,Point,LA,OSGOF,Rahmotullah Mosque,LASOIO17,Mosque,53f590de-cc25-4ac4-93ae-a2d4b07a3198
+6.61032,3.28499,,Point,LA,OSGOF,Community Mosque Sagari,LASAMO29,Mosque,549644f7-cfc4-4185-84a3-71ece359d581
+6.49924,3.39521,,Point,LA,OSGOF,Ogooluwa Mosque,LASLMD02,Mosque,549a2d64-3e0b-456a-9815-8e5e912c0ed5
+6.49479,3.3265,,Point,LA,OSGOF,Oloro Mosque Ijeshatedo,LASSUE02,Mosque,553f5bb1-69f5-48af-a0ea-463426512d75
+6.68492,3.26037,,Point,LA,OSGOF,Alkaothar Islamic Mosque,LASAMO11,Mosque,55cb2fa7-c5a6-40cd-a9e4-080dcee6e8e8
+6.61122,3.35587,,Point,LA,OSGOF,Alausa Central Mosque,LASIKA04,Mosque,55d1853d-8d61-4016-bc15-5414a35fdd29
+6.53794,3.37467,,Point,LA,OSGOF,Idera Mosque,LASSMU13,Mosque,57243966-1766-4643-a43b-e76c39d6a82b
+6.53293,3.39619,,Point,LA,OSGOF,Ja Maat Ansharu Nuru Islamiyat Mosque,LASSMU10,Mosque,581015b2-69ba-422b-a875-27fde2882ddf
+6.52271,3.33249,,Point,LA,OSGOF,Araromi Mosque Ilasamaja,LASOIO13,Mosque,582291a4-8a5f-432c-a1f7-88ecce138164
+6.5296,3.32689,,Point,LA,OSGOF,Jamma'at Ul Islamiyya Mosque,LASOIO05,Mosque,585ce94b-3285-4b8e-8a1a-1356566fc4ee
+6.47001,3.35823,,Point,LA,OSGOF,Ifelodun Mosque Badia,LASAPA11,Mosque,58b9bfb4-c2b2-4da6-acc2-6aca52fdcdd3
+6.44023,3.12652,,Point,LA,OSGOF,Ishagira Central Mosque,LASOJO02,Mosque,58f9f8d2-9155-46a1-a702-fabdc44da24d
+6.55793,3.34688,,Point,LA,OSGOF,Aduramgba Central Mosque,LASOIO11,Mosque,59740aa8-3191-4b89-a886-7cbd786df654
+6.46471,3.32849,,Point,LA,OSGOF,Araromi Mosque Alaba,LASATO14,Mosque,5998be1c-6740-4b08-a279-3ed9493ab9a2
+6.54843,3.37015,,Point,LA,OSGOF,Olumakmi Obanikoro Mosque,LASSMU15,Mosque,5a6450eb-902c-40af-8105-d523a4833800
+6.52377,3.35869,,Point,LA,OSGOF,Sababu Deen Mosque,LASMUN04,Mosque,5aabf68c-2ad9-4a41-aa77-48db427c8375
+6.52943,3.31953,,Point,LA,OSGOF,Ike Oluwa Mosque,LASOIO05,Mosque,5acdade5-1fa8-4720-a6a1-e06d9b402558
+6.61169,3.32283,,Point,LA,OSGOF,Oniloro Mosque,LASAGG05,Mosque,5b69fdae-26a6-458d-8d93-3d9e1fa8d122
+6.46686,3.34047,,Point,LA,OSGOF,Turner Mosque,LASATO05,Mosque,5b6fd86b-aa69-47db-b36b-12f4ce920396
+6.61726,3.32002,,Point,LA,OSGOF,Olorunkemi Mosque Oniwaya,LASAGG02,Mosque,5c022bd3-b9af-44a0-b7de-ba65b6330efc
+6.4124,3.36434,,Point,LA,OSGOF,Muhammadiya Mosque Oko Ata Community,LASAPA02,Mosque,5c489dbc-2393-4ad2-8640-42b987b470b5
+6.48302,3.34171,,Point,LA,OSGOF,Ifelodun Mosque Orile Iganmu,LASSUE19,Mosque,5d212509-95ee-471a-a867-e16009c33b20
+6.55763,3.33104,,Point,LA,OSGOF,Central Mosque Makinde,LASOIO15,Mosque,5e0471e1-a824-4dbe-aca2-ce2bba0c677d
+6.53216,3.38137,,Point,LA,OSGOF,Albarka Central Mosque,LASSMU11,Mosque,5e47338d-d43c-4ece-9be2-51896b5442ed
+6.62372,3.32344,,Point,LA,OSGOF,Hausa Central Mosque Sango Agege,LASAGG01,Mosque,5f77f023-ea34-44de-b007-67d0243fba41
+6.46326,3.11311,,Point,LA,OSGOF,Alhaji Abanini Central Mosque,LASOJO03,Mosque,5f9a574c-b8bb-4db2-b2ec-eeb0735db395
+6.53587,3.37171,,Point,LA,OSGOF,Somolu Central Mosque,LASSMU12,Mosque,613596f5-de87-4801-a12f-3478d827acff
+6.52981,3.30326,,Point,LA,OSGOF,Modinat Ibrahim Nasse Mosque,LASOIO03,Mosque,6168ff89-6288-4bd4-8c92-b4f6eb7e0a9c
+6.46239,3.35692,,Point,LA,OSGOF,Alhaji Magbede Central Mosque,LASAPA01,Mosque,62062296-637f-4ecd-b09b-885d522337ce
+6.64398,3.32559,,Point,LA,OSGOF,Olorunkemi Mosque Ifako,LASIOE06,Mosque,62fdba63-50bc-438d-879b-690655a9839c
+6.57915,3.34141,,Point,LA,OSGOF,Maboju Street Mosque,LASOIO20,Mosque,63f3403c-633e-4b56-b274-904cfe77aa2c
+6.51743,3.34679,,Point,LA,OSGOF,Olanrewaju Fiwakesin Mosque,LASMUN11,Mosque,6492a047-1027-49ab-af3c-66d1fb864545
+6.41206,3.11386,,Point,LA,OSGOF,Ibode Central Mosque,LASOJO15,Mosque,649b130c-5d10-4b68-8c64-f1b38b73514c
+6.53549,3.3846,,Point,LA,OSGOF,Oluwakemi Towo Towo Mosque,LASSMU14,Mosque,65684c62-0ae0-4e1c-960d-ec189f293f2d
+6.53257,3.27884,,Point,LA,OSGOF,Agodo Central Mosque,LASAMO18,Mosque,65b554b6-0f30-4cbc-98c8-aaa740be484f
+6.54954,3.25919,,Point,LA,OSGOF,Olorun Tosin Central Mosque,LASAMO25,Mosque,6648e3ef-da93-4203-bd8a-438ca4372a9b
+6.47002,3.34658,,Point,LA,OSGOF,Amukoko Mosque 4,LASATO12,Mosque,664fb71a-59fb-4893-b91b-44b5633f75f9
+6.53004,3.35848,,Point,LA,OSGOF,Ansar U Deen Central Mosque,LASMUN03,Mosque,66a771d6-f104-4b7f-881e-47d9b3ce945f
+6.48898,3.58074,,Point,LA,OSGOF,Oke Ira Nla Central Mosque,LASEOA02,Mosque,687625e7-b21b-41ff-8238-0dba9ee26f9a
+6.54315,3.37818,,Point,LA,OSGOF,Alahu Lateef Mosque,LASSMU06,Mosque,692619bf-e30e-47aa-a23f-cbd23f1912ec
+6.5191,3.34992,,Point,LA,OSGOF,Idi Araba Central Mosque,LASMUN05,Mosque,69308dad-9545-4406-b00f-8ecda6ca7288
+6.6487,3.35743,,Point,LA,OSGOF,Ogo Oluwa Mosque,LASIKA08,Mosque,69548581-f8fe-49a3-a5a2-5999dc6e6ac4
+6.51416,3.32745,,Point,LA,OSGOF,Taoheed Central Mosque,LASOIO13,Mosque,699218af-6a2b-4c65-b56b-70117dec78b9
+6.44347,3.26078,,Point,LA,OSGOF,Ar Rahman Central Mosque,LASAON08,Mosque,69cc4e90-29e1-4a07-8a45-cd52aaec5458
+6.44616,3.32251,,Point,LA,OSGOF,Olodi Apapa Mosque 3,LASATO09,Mosque,69d54c9e-bc23-4e89-8259-8a0274376faf
+6.44476,3.32935,,Point,LA,OSGOF,Ibafon Mosque 3,LASATO09,Mosque,6a093ad9-83b9-4cac-a0c0-ad5f3fae0d74
+6.53135,3.3705,,Point,LA,OSGOF,Temidire Mosque Alade,LASSMU08,Mosque,6a2ce2a4-ae2f-49df-bf2a-c930aceb86ec
+6.45635,3.34064,,Point,LA,OSGOF,Onibaba Mosque 1,LASATO02,Mosque,6a5d8e7e-0cf8-419d-acb4-cfbcd67f6361
+6.60903,3.43497,,Point,LA,OSGOF,Odo Ogun Centre Mosque,LASKSE14,Mosque,6aabdb64-67f1-484d-b342-1ff2b1d91d24
+6.47475,3.17425,,Point,LA,OSGOF,Afromedia Central Mosque,LASOJO01,Mosque,6b3f9d64-44ba-4e1f-b30c-9d96a5f46ac1
+6.49884,3.24733,,Point,LA,OSGOF,Community Central Mosque Ijedodo,LASAMO24,Mosque,6b840405-47c4-4668-b8ed-84c14fe360a7
+6.52164,3.34945,,Point,LA,OSGOF,Second Idi Araba Central Mosque,LASMUN11,Mosque,6bc2a870-7ce6-4e3c-9534-17ee45c8b701
+6.42429,4.11957,,Point,LA,OSGOF,Shiribiwon Central Mosque,LASIUI11,Mosque,6c2196c4-e30c-4666-b379-fcd07b52d271
+6.67768,3.71292,,Point,LA,OSGOF,Odo Ayandelu Mosque,LASEPE05,Mosque,6c2dcd27-825f-4bb2-8514-c0a2b9555a99
+6.44955,3.34118,,Point,LA,OSGOF,Olodi Apapa Mosque 4,LASATO13,Mosque,6d2f6be4-00d0-4acd-9353-d7826ffad570
+6.46357,3.34204,,Point,LA,OSGOF,Amukoko Mosque 1,LASATO05,Mosque,6d408937-366f-4fed-9880-711068f3fb1c
+6.50312,3.35742,,Point,LA,OSGOF,Araromi Mosque Surulere,LASSUE23,Mosque,6d9c6479-4797-4398-9227-e82812de883a
+6.5256,3.36636,,Point,LA,OSGOF,Kajola Central Mosque,LASMUN02,Mosque,6de289aa-d173-4c54-a396-38357c833a3c
+6.57784,3.37059,,Point,LA,OSGOF,Wasimi Community Central Mosque,LASIKA18,Mosque,6df273a9-7687-4847-a94e-b3008d1caacd
+6.43443,3.5237,,Point,LA,OSGOF,Igbo Efon Central Mosque,LASEOA15,Mosque,6e1278b9-49b5-4e2d-a65d-540ef19d7f5c
+6.58766,3.23794,,Point,LA,OSGOF,Fiwakesin Central Mosque,LASAMO15,Mosque,6e350f87-8c92-48bc-ab3f-b05b947cf92f
+6.46654,3.28174,,Point,LA,OSGOF,Central Mosque Fisebillilai,LASAON14,Mosque,6e535511-385c-4f28-b58e-1c120d490307
+6.52389,3.36139,,Point,LA,OSGOF,Nawarudeen Mosque,LASMUN04,Mosque,6eb7d617-c954-4a4d-b184-f8cf2f8f5117
+6.4536,3.39636,,Point,LA,OSGOF,The Brazilian Mosque,LASLID16,Mosque,6f8a248c-d2e7-448d-a19b-fa256775727b
+6.46959,3.34622,,Point,LA,OSGOF,Amukoko Mosque 3,LASATO12,Mosque,6f918042-6dee-458e-9460-2de959e067ac
+6.48824,3.35163,,Point,LA,OSGOF,Iponri Estate Central Mosque,LASSUE11,Mosque,6f9b7265-ee52-40d4-a973-445f4fd579e1
+6.61984,3.30859,,Point,LA,OSGOF,Olorungbebe Mosque 2,LASAGG10,Mosque,70d7071c-6d81-4160-b0a3-0533175246ca
+6.51672,3.71586,,Point,LA,OSGOF,Ladeba Community Central Mosque,LASEPE12,Mosque,71266fae-3246-4c5a-aa79-7029cd1ebfea
+6.58067,3.40873,,Point,LA,OSGOF,Agboyi Central Mosque,LASKSE02,Mosque,71b8670f-8194-4475-9bb8-65591df24229
+6.52828,3.3178,,Point,LA,OSGOF,Pako Busstop Mosque,LASOIO14,Mosque,72575661-ee6b-41e8-b4bf-a1156b038c97
+6.44443,3.32976,,Point,LA,OSGOF,Ibafon Mosque 2,LASATO09,Mosque,72603b93-fa8a-4475-8391-a7b4749c0717
+6.53617,3.32694,,Point,LA,OSGOF,Ashiriabo Mosque,LASOIO06,Mosque,72a47ce4-fb5a-4774-9cf0-b6b27add271c
+6.57066,3.34423,,Point,LA,OSGOF,Opeloyeru Mosque Ladipo,LASOIO08,Mosque,72bdca18-0d68-4650-ab05-feb0a3535c4b
+6.45212,3.35022,,Point,LA,OSGOF,Olodi Apapa Mosque 1,LASATO16,Mosque,72c6b94a-279a-4152-b26f-191b27540567
+6.54401,3.39301,,Point,LA,OSGOF,Albarka Mosque 2,LASSMU03,Mosque,730f6397-091d-4ec4-aeef-48681891d371
+6.45557,3.39765,,Point,LA,OSGOF,Mumuni Oloko Mosque,LASLID16,Mosque,736f26eb-1595-45c8-8867-ae74f47a83bc
+6.50692,3.35654,,Point,LA,OSGOF,Oluwalowi Central Mosque,LASSUE06,Mosque,741ce4b0-d2d8-4cd6-ad79-6583f6700beb
+6.67707,3.98506,,Point,LA,OSGOF,Oke Magba Central Mosque,LASEPE15,Mosque,7443e5b2-347d-4afb-8120-1be8c5e53fdd
+6.52731,3.37584,,Point,LA,OSGOF,Asbiaro Central Mosque,LASLMD01,Mosque,744fe865-7f10-4fad-aaa6-37a6d366d4f9
+6.55234,3.30987,,Point,LA,OSGOF,Ogunde Street Mosque,LASOIO12,Mosque,74686304-eaf0-4e1a-b7d2-94cc8fa5b15f
+6.45341,3.15895,,Point,LA,OSGOF,Ike Oluwapo Mosque,LASOJO14,Mosque,749aea82-27a6-48c8-ac60-d043425f241b
+6.46733,3.3567,,Point,LA,OSGOF,Obale Central Mosque,LASAPA06,Mosque,74ed37bd-a51d-4496-a073-83fcc892f84c
+6.45387,3.21524,,Point,LA,OSGOF,Mfib International Central Mosque,LASOJO08,Mosque,75455a35-e258-41b2-aa9c-70dcf14663e6
+6.52774,3.32311,,Point,LA,OSGOF,Ahmadiyya Muslim Jamm'at Mosque,LASOIO14,Mosque,754f59ed-bba6-42e6-b509-53cc59f75a60
+6.45323,3.21197,,Point,LA,OSGOF,Ira Quarter Central Mosque,LASOJO08,Mosque,764afd28-d598-4e1e-81e6-4edb9117502b
+6.55649,3.34505,,Point,LA,OSGOF,Owoseni Mosque Orile Oshodi,LASOIO11,Mosque,765fd182-7a4e-4115-b076-5552e45d9552
+6.60953,3.35646,,Point,LA,OSGOF,Alausa Mosque,LASIKA04,Mosque,77065a1c-5e12-4bcc-8c67-1ab2646d23c0
+6.52886,3.35877,,Point,LA,OSGOF,Temidayo Central Mosque,LASMUN03,Mosque,77210145-85f7-4657-9713-bb6aac261fc9
+6.53727,3.39124,,Point,LA,OSGOF,Bosere Mosque Bariga,LASSMU03,Mosque,779c486d-3ab5-4f47-ba68-eb4b1f165dd1
+6.45621,3.38933,,Point,LA,OSGOF,Quranic Central Mosque,LASLID02,Mosque,78008c0d-2394-404b-b4a1-23c7be5a9b82
+6.46034,3.32777,,Point,LA,OSGOF,Layeni Central Mosque,LASATO14,Mosque,780d9c95-a069-4ea1-8aee-fe5e0644cb49
+6.51799,3.33826,,Point,LA,OSGOF,Albarika Central Mosque,LASMUN17,Mosque,781350fe-4130-4143-8a8a-89c6fe5ac301
+6.44494,3.41792,,Point,LA,OSGOF,Syrian Mosque,LASEOA16,Mosque,79257787-fdf8-4ffa-8f22-12a1dcc5b40e
+6.51546,3.36104,,Point,LA,OSGOF,Nasrul Lahi Faith Mosque,LASMUN05,Mosque,794b58bb-ff98-44bd-9b5d-e2870c39673d
+6.62284,3.32424,,Point,LA,OSGOF,Seriki Mosque,LASAGG13,Mosque,79532452-9f61-4c8f-b509-bfaacdbd94c8
+6.49601,3.33685,,Point,LA,OSGOF,Oluwakemi Mosque Aguda,LASSUE12,Mosque,79809052-7d57-41cb-9cea-e33986a5c799
+6.50811,3.32699,,Point,LA,OSGOF,Ansar Ud Deen Central Mosque Itire,LASMUN13,Mosque,79ea1b77-995f-455b-bdfb-03bdd6482fce
+6.5571,3.3285,,Point,LA,OSGOF,Mufis Mosque,LASOIO15,Mosque,7ab1529c-b5fa-4391-bc57-1ecc7ddaff28
+6.45315,3.51957,,Point,LA,OSGOF,Ojomu Central Mosque,LASEOA04,Mosque,7bab9c3f-5ace-42de-94a9-ebb1caefb2a3
+6.54546,3.26653,,Point,LA,OSGOF,Ikotun Central Mosque,LASAMO25,Mosque,7bc6a64e-2c9c-4ecf-95aa-c514ca825fa7
+6.62064,3.50384,,Point,LA,OSGOF,Oriwu Central Mosque,LASIKU20,Mosque,7c398ba9-f87c-4d61-b583-846796b3b620
+6.45898,3.2282,,Point,LA,OSGOF,Gojere Central Mosque,LASOJO08,Mosque,7cd3838e-baaf-4435-86b2-822fd7a0399c
+6.49712,3.38647,,Point,LA,OSGOF,Makoko Central Mosque,LASLMD12,Mosque,7d3283dc-9d65-40bd-bbfc-ffac7fb095e2
+6.63169,3.3128,,Point,LA,OSGOF,Olorungbebe Mosque 1,LASAGG12,Mosque,7d3fe3ab-9e71-4938-824d-cec3d5426377
+6.62789,3.31585,,Point,LA,OSGOF,Olorunkemi Mosque Magbon,LASAGG07,Mosque,7db9692a-da0e-4f6c-8842-f0aced604a7e
+6.62544,3.29989,,Point,LA,OSGOF,Ike Olwa Mosque Isale Odo,LASAGG04,Mosque,7f2d9696-9055-45dd-8cda-19dc48215b25
+6.618,3.33159,,Point,LA,OSGOF,Ifelodun Mosque Ajegunle,LASAGG13,Mosque,7f7a21c2-1535-45fb-8d49-b7f55a5fb602
+6.43845,3.47479,,Point,LA,OSGOF,Lekki Central Mosque,LASEOA10,Mosque,7ffd604d-f197-433f-8ff2-d138ade2ad69
+6.41988,3.14296,,Point,LA,OSGOF,Ojorin Central Mosque,LASOJO09,Mosque,81268e59-53f2-419a-b22a-7825b3bfbb12
+6.4413,3.33543,,Point,LA,OSGOF,Owoseni Mosque Ibafon,LASATO04,Mosque,81bd08cd-70e8-4866-8975-3090b810af5f
+6.57209,3.34333,,Point,LA,OSGOF,Jundullah L Islamiyya Mosque,LASOIO08,Mosque,820d77d8-3862-4c51-a08c-d2b18bb56444
+6.42539,3.63914,,Point,LA,OSGOF,Mopo Ijebu Central Mosque,LASIUI04,Mosque,820fd1a7-be75-40d6-bf81-655247f74b47
+6.6128,3.3146,,Point,LA,OSGOF,Dopemu Central Mosque,LASAGG02,Mosque,840a2882-e134-4e46-a1e6-1c911663fe91
+6.51777,3.34855,,Point,LA,OSGOF,Alhaji Bagudu Mosque,LASMUN11,Mosque,84225846-b068-41b4-9cb9-0cc410ae5e86
+6.46405,3.3439,,Point,LA,OSGOF,Nurudeen Mosque Amukoko,LASATO05,Mosque,844b2c56-5113-4042-806b-730bebd24fc4
+6.62255,3.32545,,Point,LA,OSGOF,Agege Central Mosque,LASAGG06,Mosque,85de335d-43ce-47a3-bff2-1878f2e09fe5
+6.428418,3.558926,,Point,LA,eHA_Polio,Anuoluwa Central Mosque,LASEOA08,Mosque,85de5784-f277-4026-93d4-c0150b1b80e6
+6.49835,3.97153,,Point,LA,OSGOF,Emu Community Central Mosque,LASIUI07,Mosque,86174ac4-f57c-4d24-b879-fa2e78402414
+6.46067,3.39033,,Point,LA,OSGOF,Ansqar Ul Islam Mosque,LASLID10,Mosque,863018a1-ea99-4a01-9672-8d85e9a236a7
+6.62135,3.25203,,Point,LA,OSGOF,Ikola Central Mosque,LASAMO07,Mosque,863a7537-50be-45b4-916c-06b82fe5875c
+6.44983,3.54841,,Point,LA,OSGOF,Ikota Central Mosque,LASEOA04,Mosque,8646463a-823e-48f4-9279-8a59f8f7db66
+6.4648,3.34637,,Point,LA,OSGOF,Amukoko Central Mosque,LASATO05,Mosque,87286638-c29e-40b0-b50c-77bf20886111
+6.54018,3.39278,,Point,LA,OSGOF,Jagunmolu Central Mosque,LASSMU16,Mosque,87990c73-8f2c-4ac3-8f0f-1ea08a0bbfdf
+6.62775,3.91455,,Point,LA,OSGOF,Sala Community Mosque,LASEPE09,Mosque,87bff341-335c-4322-8792-6ee5b7329023
+6.4816,3.3784,,Point,LA,OSGOF,Ololodana Mosque,LASLMD08,Mosque,88449bb1-efa8-4231-8d4a-337cf1445ed9
+6.61067,3.30403,,Point,LA,OSGOF,Oladiya Mosque,LASAMO12,Mosque,88a617d9-a7b7-48c6-aa6c-ebe92e46d923
+6.55419,3.30698,,Point,LA,OSGOF,Olorunkemi Mosque Ageke,LASOIO02,Mosque,89403366-8d25-4b88-8614-ca8c9563dcfb
+6.48427,3.38844,,Point,LA,OSGOF,Ibikunle Ojikutu Mem Central Mosque,LASLMD07,Mosque,89dbbde5-0ae7-40d3-83f1-490be941a111
+6.60804,3.39682,,Point,LA,OSGOF,Mile 12 Central Mosque,LASKSE20,Mosque,89e89912-d2a8-4254-97f7-b8e9439bdea0
+6.46467,3.35759,,Point,LA,OSGOF,Ojora Central Mosque,LASAPA01,Mosque,89f6f15f-1ecd-4cc2-a6bf-3cf981beac78
+6.46025,3.33555,,Point,LA,OSGOF,Oloro Mosque Layeni,LASATO03,Mosque,8a0a7fc7-0691-4cf3-8e47-322279cf09e7
+6.64028,3.34543,,Point,LA,OSGOF,Morkaz Onikewunla Mosque,LASIKA01,Mosque,8a0cef76-2ae5-4261-a90a-46aea0f20395
+6.45819,3.34217,,Point,LA,OSGOF,Onibaba Mosque 2,LASATO02,Mosque,8a674f58-d10c-4341-9a00-8c656453d351
+6.54602,3.39235,,Point,LA,OSGOF,Tawakalitu Central Mosque Gbagada Apelehin,LASSMU03,Mosque,8aa73d2d-8f5d-4a41-9464-95bd25995409
+6.5321,3.36287,,Point,LA,OSGOF,Amadiya Muslim Centenary Esin Mosque,LASMUN10,Mosque,8b6e9f77-0faa-4ce8-857c-ad164b361845
+6.61692,3.37475,,Point,LA,OSGOF,Oluwakemi Mosque Shangisha,LASKSE21,Mosque,8bd67cec-c5a2-474b-ba02-129b93e4a5ff
+6.5817,3.40807,,Point,LA,OSGOF,Agboyi 3 Central Mosque,LASKSE02,Mosque,8bf7570e-7626-40a3-a3c7-f133068abbaf
+6.62762,3.77309,,Point,LA,OSGOF,Orugbo Central Mosque,LASEPE17,Mosque,8bfe31cb-1189-4d22-978e-697859e7ccca
+6.61953,3.33068,,Point,LA,OSGOF,Ike Oluwa Mosque Ajegunle,LASAGG13,Mosque,8c7fd6b5-c5ae-4da7-abbe-9a26eed575a4
+6.62454,3.32469,,Point,LA,OSGOF,Markaz Sheih Mosque,LASAGG13,Mosque,8dd0bf33-f3a0-4b70-a3df-ad603269a33e
+6.65438,3.31544,,Point,LA,OSGOF,Allah Muhammed Mosque,LASIOE02,Mosque,8e3dbe3e-3acc-4fbf-8c12-9d4647fbbd6d
+6.45468,3.39663,,Point,LA,OSGOF,Eiyekorin Mosque,LASLID16,Mosque,8fb3445e-8567-40f7-942a-7605c2be664c
+6.52863,3.35464,,Point,LA,OSGOF,Mushin Central Mosque,LASMUN03,Mosque,8fb72cab-1126-440f-bb55-f7912de82398
+6.45714,3.39251,,Point,LA,OSGOF,Isale Gangan Mosque,LASLID03,Mosque,8fe4b66d-ba14-4a79-99a5-30d1fafc95f7
+6.67018,4.00478,,Point,LA,OSGOF,Ilara Central Mosque,LASEPE10,Mosque,90541c7e-79b9-4c75-b4b9-44ffd2819d5b
+6.62292,3.32544,,Point,LA,OSGOF,Al Ansar Mosque,LASAGG06,Mosque,90a6493b-b65c-4f6f-8d5b-0019729317a3
+6.45202,3.40053,,Point,LA,OSGOF,Ibukun Ola Oluwa Mosque,LASLID06,Mosque,91195606-748c-4ed5-a577-9685fd76b575
+6.47984,3.34079,,Point,LA,OSGOF,Orile Iganmu Central Mosque,LASSUE19,Mosque,913436b9-8663-4966-adf5-d675ee1bf3d3
+6.40859,3.3054,,Point,LA,OSGOF,Abule Elepa Central Mosque,LASAON06,Mosque,9142e6e2-81c5-41b0-bf70-76d09280bfbc
+6.61455,3.31166,,Point,LA,OSGOF,Opeloyeru Mosque Papa Ashafa,LASAGG10,Mosque,91859cc9-9df5-46b2-aaba-f265de5ba3b8
+6.54854,3.29749,,Point,LA,OSGOF,Opeloyeru Mosque Agbaka,LASOIO10,Mosque,92cb6114-a396-45ed-9167-2b24a9a1194f
+6.48421,3.37073,,Point,LA,OSGOF,Modrasat Teniwir Deen L Arobiy Mosque,LASLMD06,Mosque,931420b8-15eb-4685-9679-411528bce12a
+6.5934,3.28838,,Point,LA,OSGOF,Al Barudeen Central Mosque,LASAMO19,Mosque,9341b498-058e-4397-99d2-6a8b03221667
+6.60215,3.38929,,Point,LA,OSGOF,Irewolede Community Mosque,LASKSE19,Mosque,9372a398-ebb2-49df-8547-47a48d43cb37
+6.45525,3.3895,,Point,LA,OSGOF,Obadina Mosque,LASLID02,Mosque,9409e20f-8a7b-413e-b60f-3a8eea8d8357
+6.50439,3.32524,,Point,LA,OSGOF,Hasbunalahu Mosque,LASMUN13,Mosque,94418be7-830d-4a84-b47c-8e55fb35b18c
+6.46005,3.38686,,Point,LA,OSGOF,Ereko Mosque,LASLID14,Mosque,96254a8a-3a20-4e78-ae6a-156bcf990f48
+6.62567,3.31673,,Point,LA,OSGOF,Olorun Nisola Mosque,LASAGG07,Mosque,969de1bb-dc3a-45e0-acf0-131737a4820d
+6.59951,3.29248,,Point,LA,OSGOF,Egbeda Central Mosque,LASAMO10,Mosque,971ef5b0-81c2-4130-9f7b-0dfb5b98b029
+6.46416,3.31258,,Point,LA,OSGOF,Muslim Community Central Mosque,LASAON13,Mosque,9848ebbe-4d12-44f2-939a-2d8f92ff4fe6
+6.66525,3.30211,,Point,LA,OSGOF,Jamhiyat Nimotalahi Mosque,LASIOE01,Mosque,98cc2549-b9e8-4b3a-aec1-fa1af3e40b85
+6.53762,3.36383,,Point,LA,OSGOF,Alebiosun Central Mosque,LASMUN18,Mosque,994605fd-5136-4a28-8e72-4396ca01afa8
+6.45739,3.38773,,Point,LA,OSGOF,Lagos Central Mosque,LASLID14,Mosque,99b82490-0d1d-4f8e-8be5-1ec9ec57f51f
+6.46384,3.34258,,Point,LA,OSGOF,Akorede Mosque Amukoko,LASATO05,Mosque,99bb3841-6783-42fd-b4e1-bb1b92ad4898
+6.5361,3.36403,,Point,LA,OSGOF,Alhaji Qudus Adekunle Mosque,LASMUN18,Mosque,9b3ca3e5-6fec-4786-ae61-360106863c3b
+6.61737,3.50512,,Point,LA,OSGOF,Igbo Oluwo Mosque,LASIKU17,Mosque,9b4517cb-1831-4b49-8fbb-fff59dcd9def
+6.6232,3.98508,,Point,LA,OSGOF,Poka Central Mosque,LASEPE14,Mosque,9b5fb45f-8fbc-42b8-814d-2349c7010778
+6.45307,3.24542,,Point,LA,OSGOF,Ashogun Central Mosque,LASAON01,Mosque,9b6b222e-3147-4308-b4bf-fec85da00d03
+6.55142,3.33873,,Point,LA,OSGOF,Salaudeen Mosque,LASOIO01,Mosque,9c05d89a-6e82-432f-b509-8253a9659ead
+6.4666,3.33782,,Point,LA,OSGOF,Kamoruden Mosque,LASATO06,Mosque,9c67af17-5e54-499d-8243-84ccedf45c33
+6.54023,3.34606,,Point,LA,OSGOF,Husseiniyya Central Mosque,LASMUN19,Mosque,9c974364-64fe-4d43-b5c1-3bc55e649f89
+6.51274,3.32551,,Point,LA,OSGOF,Okasoso Oluhun Mosque,LASOIO13,Mosque,9d600fa0-26b2-495f-b4d6-2b8283c5ab77
+6.44491,3.22608,,Point,LA,OSGOF,Tedi Central Mosque,LASOJO08,Mosque,9d64704e-10d2-456d-8d20-6b750b453835
+6.41196,3.25507,,Point,LA,OSGOF,Ratibi Central Mosque,LASAON06,Mosque,9d71404c-a8c7-4914-a7da-678f58079d4d
+6.45638,3.34972,,Point,LA,OSGOF,Ajegunle Mosque 1,LASATO01,Mosque,9d95a340-09ed-4908-8a67-756aaa3c24b3
+6.53884,3.37079,,Point,LA,OSGOF,Olero Mosque,LASSMU09,Mosque,9dbd2675-3b55-4d55-9fae-ccbf7942042e
+6.44387,3.33879,,Point,LA,OSGOF,Alakoto Mosque 1,LASATO04,Mosque,9eaac625-a48d-4959-a01f-385df19fabd4
+6.56376,3.33189,,Point,LA,OSGOF,Mafoluku Mosque 2,LASOIO19,Mosque,9fc9ad6c-b390-46a7-900a-96334cb9f56f
+6.51045,3.2008,,Point,LA,OSGOF,Iba New Central Mosque,LASOJO04,Mosque,a049b3e2-f905-400b-8668-798e88db2a6a
+6.44668,3.37187,,Point,LA,OSGOF,Ajumoni Central Mosque Apapa,LASAPA04,Mosque,a089c024-4aeb-4623-8526-7ab1a42a1eba
+6.54516,3.30123,,Point,LA,OSGOF,Oluwanishiola Mosque,LASOIO10,Mosque,a0b5f7ec-a487-49a2-a21f-407166e93ce5
+6.43575,3.50977,,Point,LA,OSGOF,Zumuratul Mosque,LASEOA15,Mosque,a112297c-92ec-423b-bd10-7394b6330fd7
+6.44958,3.40685,,Point,LA,OSGOF,P And T Mosque,LASLID12,Mosque,a1a27ff6-6d1c-460c-881c-0048a2ae455e
+6.45935,3.33238,,Point,LA,OSGOF,Alao Lateef Mosque,LASATO14,Mosque,a1aa3162-6bce-4a3d-91f9-aeab39ddf10b
+6.46007,3.54914,,Point,LA,OSGOF,Central Mosque Vgc,LASEOA04,Mosque,a29c1537-2824-4998-b2d5-bd41a460fda1
+6.53357,3.38554,,Point,LA,OSGOF,Ifelodun Owode Mosque,LASSMU14,Mosque,a2b5f10b-69fa-4e34-8a98-7f63df377236
+6.41482,3.16944,,Point,LA,OSGOF,Erekun Central Mosque,LASOJO09,Mosque,a3d0ad27-df57-4639-afca-67ff5525aab9
+6.41121,3.08833,,Point,LA,OSGOF,Ojogun Central Mosque,LASBDY15,Mosque,a3d575ae-f6aa-46c8-8f96-739f4aa3ddd5
+6.53899,3.38543,,Point,LA,OSGOF,Okanlawon Mosque,LASSMU01,Mosque,a46a57ec-e27c-49d4-aaf7-6ca7a2497a21
+6.53013,3.30398,,Point,LA,OSGOF,Estate Mosque,LASOIO03,Mosque,a48fd45c-6c0e-43b0-89cc-20893ee67b2e
+6.46526,3.33485,,Point,LA,OSGOF,Alhaji Mudashiru Mosque,LASATO03,Mosque,a4f9df53-ca33-4078-9b7c-38f1c3e3d144
+6.41256,3.25604,,Point,LA,OSGOF,Surulere Mosque Ibeshe Town,LASAON06,Mosque,a6636baf-7236-42c3-92ea-7c9dd9a863e6
+6.52463,3.34938,,Point,LA,OSGOF,Agbabiaka Mosque,LASMUN01,Mosque,a6b05871-8c65-4697-a316-5f0fc95e832a
+6.66983,3.7368,,Point,LA,OSGOF,Central Mosque Otta,LASEPE05,Mosque,a71c124e-008b-43f7-ab34-b21595c641af
+6.46439,3.35344,,Point,LA,OSGOF,Oridilu Mosque 2,LASATO05,Mosque,a749dbc4-422b-4bf0-9963-099ab15da1e2
+6.52677,3.32511,,Point,LA,OSGOF,Ishagatedo Central Mosque,LASOIO14,Mosque,a8271ae8-ab68-45e3-a1b9-1fabf18b961b
+6.49236,3.66803,,Point,LA,OSGOF,Oko Abe Community Central Mosque,LASEPE12,Mosque,a92adfcc-a54a-4e56-9973-2eed8e3ce5c0
+6.5025,3.3335,,Point,LA,OSGOF,Salami Bashorun Central Mosque,LASSUE21,Mosque,a9457e1e-19d3-489c-913e-58f8023ffee7
+6.53098,3.35246,,Point,LA,OSGOF,Nusau Deen Central Mosque,LASMUN12,Mosque,a99461a5-fa94-4e39-8f37-05a983dc1965
+6.49344,3.37999,,Point,LA,OSGOF,Musbau Au Deen Mosque,LASLMD03,Mosque,a9a3e6b7-3ef2-4924-8871-163e2fad187f
+6.51701,3.34576,,Point,LA,OSGOF,Mohammed Yusuf Layeni Mosque,LASMUN11,Mosque,ac6dad7a-9f82-47e7-8d08-536b07704040
+6.52393,3.34902,,Point,LA,OSGOF,Tawakalitu Central Mosque Mushin,LASMUN11,Mosque,aceb7e66-7227-487b-95ae-c3194b9bdc4f
+6.55737,3.38612,,Point,LA,OSGOF,An Saru Deen Society Soluyi Mosque,LASKSE06,Mosque,ad0228e2-3fe5-43ce-ba33-7cf88567ff60
+6.46704,3.3662,,Point,LA,OSGOF,Ijora Oloye Mosque,LASAPA08,Mosque,ad14dd3e-62fa-4359-8797-5f86c6f7cc93
+6.41515,3.28226,,Point,LA,OSGOF,Ilashe Central Mosque,LASAON06,Mosque,ad3d523f-751c-4051-afe5-4699f9f08e90
+6.50942,3.33223,,Point,LA,OSGOF,Anwar Ul Islam Mosque,LASMUN14,Mosque,ae397488-de51-4063-af47-de173e529a2c
+6.46622,3.33433,,Point,LA,OSGOF,Oloruntoyin Mosque,LASATO06,Mosque,af320858-a90d-4b6b-987d-c68a3648c2a6
+6.51678,3.65624,,Point,LA,OSGOF,Ipeshu Communityy Central Mosque,LASEPE12,Mosque,af52b950-a2f7-40be-98eb-264091511a43
+6.55506,3.34193,,Point,LA,OSGOF,Fasasi Odebisi Mosque,LASOIO01,Mosque,b0940a8c-4a39-4a85-9645-adaef53d92b8
+6.48123,3.37945,,Point,LA,OSGOF,Shemore And Ilogbo Mosque,LASLMD08,Mosque,b143007f-5df2-48e7-a26d-c22900b3c221
+6.45512,3.15027,,Point,LA,OSGOF,Forign Seruke Central Mosque,LASOJO03,Mosque,b1f3791e-66cf-4a9b-aa5d-f91c010ba3d3
+6.43983,3.52171,,Point,LA,OSGOF,Idado Central Mosque,LASEOA04,Mosque,b2286a38-c873-47cd-86e4-31034738f565
+6.52082,3.36453,,Point,LA,OSGOF,Ansa Ud Deen Central Mosque,LASMUN02,Mosque,b2e146da-72dc-4cb5-bd73-a8d975833e02
+6.46444,3.12744,,Point,LA,OSGOF,Oke Agbo Central Mosque,LASOJO07,Mosque,b2f92639-92d8-4a89-9269-d01073be5c0e
+6.52932,3.33809,,Point,LA,OSGOF,Daleko Mosque,LASMUN01,Mosque,b31850c4-af15-410c-bb84-9420b2d1540b
+6.48582,3.19413,,Point,LA,OSGOF,Oluwakemi Central Mosque,LASOJO05,Mosque,b4008c65-b653-418c-9397-c58d5981e3f1
+6.55542,3.34822,,Point,LA,OSGOF,Oshodi Mosque,LASOIO01,Mosque,b4474c2d-c96b-4bb2-b98c-9db2a23aa0a6
+6.40815,3.13734,,Point,LA,OSGOF,Egira Central Mosque,LASOJO15,Mosque,b4697a1a-ce2f-49cc-9bd6-a4d7806421fd
+6.47029,3.3515,,Point,LA,OSGOF,Aranse Oluwa Mosque Badia,LASAPA07,Mosque,b481e74b-14b6-46e3-a0bc-1a9a02dc501b
+6.46875,3.34645,,Point,LA,OSGOF,Amukoko Mosque 2,LASATO12,Mosque,b4f3da28-589e-4760-be82-f974d58027a7
+6.48715,3.39031,,Point,LA,OSGOF,Araromi Mosque Okobaba Idiagbon Agoro,LASLMD14,Mosque,b518aa22-7e43-45fe-8df9-fe3025317dc8
+6.61912,3.31813,,Point,LA,OSGOF,Ibrahim Mosque,LASAGG02,Mosque,b57b32f9-3cc4-41f7-91d7-e70700ad498c
+6.61948,3.30043,,Point,LA,OSGOF,Idera Oluwa Central Mosque,LASAMO32,Mosque,b5f095d5-bf87-498a-b5ea-85eed17393ac
+6.55248,3.30638,,Point,LA,OSGOF,Cental Mosque Mewom,LASOIO02,Mosque,b656b59c-3f5d-445c-b15f-37b6fb1c3097
+6.60354,3.27176,,Point,LA,OSGOF,Baruwa Central Mosque,LASAMO16,Mosque,b6d8edfd-d217-4b32-9862-619b3e80a6ee
+6.46185,3.39233,,Point,LA,OSGOF,Idumagbo District Mosque,LASLID10,Mosque,b6f4fd33-0408-4786-9592-82e99baf49b1
+6.53381,3.3432,,Point,LA,OSGOF,Wahab Azeez Memorial Mosque,LASMUN19,Mosque,b86d4ad9-edaa-4510-80b6-421c84fcf8cd
+6.481,3.36992,,Point,LA,OSGOF,Barakatdeen Mosque,LASLMD08,Mosque,b990e312-07e3-49d3-8158-ef81e8d4d533
+6.59995,3.38624,,Point,LA,OSGOF,Ketu Central Mosque 1,LASKSE19,Mosque,b99de9db-9c4d-4b53-98a1-7676d25d73aa
+6.52466,3.3529,,Point,LA,OSGOF,Mulkudeen Suadau Mosque,LASMUN04,Mosque,ba427f27-ee84-4d73-b67f-7f56e7fa5eb2
+6.44118,3.33332,,Point,LA,OSGOF,Ibafon Mosque 1,LASATO09,Mosque,ba50274a-613c-4a01-a2e6-8d2952d4c3e0
+6.58667,3.98241,,Point,LA,OSGOF,Epe Central Mosque 1,LASEPE19,Mosque,ba60bc9b-ad61-40c9-8578-0d7108b55d3b
+6.51338,3.34167,,Point,LA,OSGOF,Anjola Oluwa Mosque,LASMUN17,Mosque,bae116d1-b0b5-441b-a110-c791befcae55
+6.41917,3.32855,,Point,LA,OSGOF,Mosjid Salman Mosque,LASAON09,Mosque,bb169d17-a9e3-4cc7-8632-e0d0fcce7dde
+6.55655,3.34134,,Point,LA,OSGOF,Orile Oshodi Central Mosque,LASOIO01,Mosque,bcd16579-5cd6-4368-a157-8f2072ac96b5
+6.44314,3.34386,,Point,LA,OSGOF,Tolu Mosque 2,LASATO15,Mosque,bd90cc34-c7b4-4a00-a6f5-2f6da42822e8
+6.50551,3.39132,,Point,LA,OSGOF,Olorunsogo Central Mosque Iwaya,LASLMD04,Mosque,bde06dfc-96d5-4d55-99a0-2a4580157b21
+6.53211,3.36712,,Point,LA,OSGOF,Osunolale Central Mosque,LASMUN10,Mosque,beb76fba-dfbd-498e-b1a6-c347d8285d71
+6.44186,3.83244,,Point,LA,OSGOF,Debojo Central Mosque,LASIUI10,Mosque,bf20e4ba-8d2a-4ea3-924e-987f3eda40a1
+6.47656,3.34689,,Point,LA,OSGOF,Bosere Mosque Sari Iganmu,LASAPA12,Mosque,bf709a84-b133-4e5c-940d-b1584eb5037f
+6.50304,3.5816,,Point,LA,OSGOF,Owode Central Mosque,LASEOA06,Mosque,c05d2e1b-3c80-481f-a9d4-f6ce561ad5ec
+6.61692,3.31131,,Point,LA,OSGOF,Ike Olwa Mosque Papa Ashafa,LASAGG10,Mosque,c0919af8-b2a4-47ed-82d8-4c662b0b0c7b
+6.4457,3.22057,,Point,LA,OSGOF,Awayewarere Jasmat Central Mosque,LASOJO08,Mosque,c117bfb2-fd20-41ad-ba48-21cb1bfb298b
+6.53007,3.32328,,Point,LA,OSGOF,Isolo Central Mosque,LASOIO05,Mosque,c120aec8-6978-4371-a17b-9983b35da71b
+6.45769,3.36388,,Point,LA,OSGOF,Allis Sunnah Mosque,LASAPA09,Mosque,c1d29e75-60d8-4d97-9a4b-45e01ff01e43
+6.45931,3.34084,,Point,LA,OSGOF,Oluwanisola Mosque,LASATO10,Mosque,c1dc2943-c9eb-4ddb-88f4-cf4901dcff18
+6.54031,3.39076,,Point,LA,OSGOF,Albarika Mosque Abule Okuta,LASSMU03,Mosque,c214cb73-a998-473b-8150-2757956a4410
+6.45062,3.40179,,Point,LA,OSGOF,Imamsalu Hadjionirakunmi Mosque,LASLID13,Mosque,c27ed081-355d-405b-b32c-80bbac835bd0
+6.53565,3.37588,,Point,LA,OSGOF,Araromi Mosque Shomolu,LASSMU13,Mosque,c38b5a28-1c51-4b20-87f5-405483d28e82
+6.51177,3.79177,,Point,LA,OSGOF,Araromi Toope Central Mosque,LASEPE12,Mosque,c4230240-24e2-402b-9538-bd86c8665943
+6.54694,3.3945,,Point,LA,OSGOF,Apelehin Central Mosque,LASSMU03,Mosque,c46cf93c-1a32-46ef-8397-2bfaec25a848
+6.51815,3.34023,,Point,LA,OSGOF,Abule Igbehin Central Mosque,LASMUN17,Mosque,c4807fdc-6565-4afd-8ad8-f4e1774c5a69
+6.51338,3.3475,,Point,LA,OSGOF,Tiwadire Central Mosque,LASMUN17,Mosque,c523e7e3-6217-4c45-b588-693926579fe0
+6.44178,3.51628,,Point,LA,OSGOF,Agungi Central Mosque,LASEOA04,Mosque,c5523627-f8be-4f62-93bb-4037353ccc4f
+6.5228,3.34026,,Point,LA,OSGOF,Alhaji Hafix Society Mosque,LASMUN01,Mosque,c5b9dd19-0022-4573-950a-14f05d2adcec
+6.50714,3.33551,,Point,LA,OSGOF,Oloruntosin Mosque Itire,LASSUE18,Mosque,c5d7b9b0-0895-45f3-8d35-bf4986d64245
+6.52722,3.30061,,Point,LA,OSGOF,Aranse Oluwa Mosque Oke Afa,LASOIO17,Mosque,c5e67404-7866-4ec6-9457-f63f31869dbe
+6.50906,3.77644,,Point,LA,OSGOF,Iwajoba Central Mosque,LASEPE12,Mosque,c7559083-cb0d-416b-8b70-559260af1279
+6.55491,3.34504,,Point,LA,OSGOF,Nawar Ud Deen Central Mosque,LASOIO01,Mosque,c776d1db-bfc1-4006-89c3-fd643f6893ba
+6.61809,3.32104,,Point,LA,OSGOF,Alhaji Muhdi Mosque,LASAGG11,Mosque,c855fc17-7b50-4d06-94ff-3582b7b02a22
+6.64499,3.71174,,Point,LA,OSGOF,Agowa Central Mosque,LASEPE01,Mosque,c8a31762-ebae-4ae4-9dcd-da90f94c48e7
+6.43133,3.50452,,Point,LA,OSGOF,Ifelodun Ratibi Mosque,LASEOA13,Mosque,c94d3f94-c17a-4af0-b642-a47d1a66de57
+6.4857,3.38993,,Point,LA,OSGOF,Aduralagba Central Mosque,LASLMD14,Mosque,c9a46c85-059f-4b9c-87bc-eff9a928a7c4
+6.58687,3.97896,,Point,LA,OSGOF,Epe Central Mosque 2,LASEPE04,Mosque,c9e481cf-a7d5-4501-b2be-27953e5990a1
+6.43975,3.88516,,Point,LA,OSGOF,Ilado Central Mosque,LASIUI09,Mosque,cb36f600-5b66-4863-b34e-241f4f40ce0a
+6.67145,3.29269,,Point,LA,OSGOF,Ope Olopin Mosque,LASIOE07,Mosque,cb803a1f-d84d-4f72-989b-9ca7bb009d0c
+6.55047,3.36325,,Point,LA,OSGOF,Imam Agusto Memorial Mosque,LASMUN09,Mosque,cc6d11a1-5920-4666-aa08-12c5d562034e
+6.41668,3.18308,,Point,LA,OSGOF,Adura Gba Central Mosque,LASOJO09,Mosque,ce1a4b05-c2c2-4231-8b64-778dd42a2eb9
+6.41152,3.11296,,Point,LA,OSGOF,Agonu Central Mosque,LASOJO15,Mosque,cee870f0-c52a-4f47-8a0a-6678b7c689a2
+6.5707,3.373,,Point,LA,OSGOF,Mende Central Mosque,LASKSE13,Mosque,ceee0e06-8028-44d1-b5d6-583b67c2c2fb
+6.52092,3.33933,,Point,LA,OSGOF,Ajayi Dahunsi Memorial Mosque,LASMUN07,Mosque,cf90c86e-15d1-4f6c-97a4-7079e831b69c
+6.42717,3.68195,,Point,LA,OSGOF,Mushiri Kogo Central Mosque,LASIUI04,Mosque,cfa24b00-5489-48ea-95f5-db6c08d4bd18
+6.41925,4.16183,,Point,LA,OSGOF,Idata Central Mosque,LASIUI12,Mosque,cffb1fee-8ebf-4e48-b7ee-d133c3442d61
+6.6007,3.33809,,Point,LA,OSGOF,Opeloyeru Mosque Anifowose,LASIKA05,Mosque,d0ab707c-d5b1-488a-8722-d6b6b83d4b4c
+6.45171,3.08895,,Point,LA,OSGOF,Ike Amobi Centre Mosque,LASBDY15,Mosque,d21cbf4a-8d4e-4b76-ae9b-795be4836ff9
+6.51254,3.32113,,Point,LA,OSGOF,Ansar Ud Deen Mosque Okota,LASOIO18,Mosque,d2577ed3-5771-4ec7-be66-4dc34ea0e9ca
+6.61441,3.50176,,Point,LA,OSGOF,Anwar Central Mosque,LASIKU05,Mosque,d33e3013-48eb-40d8-a186-067ff077a0cc
+6.44108,3.5122,,Point,LA,OSGOF,Osapa Central Mosque,LASEOA04,Mosque,d3ef704b-4940-4087-ac7f-fb56dbf3a953
+6.55234,3.29546,,Point,LA,OSGOF,Shams Ud Deen Al Mosque,LASOIO10,Mosque,d4292354-7af2-4397-93ef-2061cdf585c0
+6.42812,3.51321,,Point,LA,OSGOF,Aro Central Mosque,LASEOA15,Mosque,d5651deb-c232-4773-8555-e51534bb4a31
+6.45693,3.39141,,Point,LA,OSGOF,Ogunro Quaranic Mosque,LASLID18,Mosque,d56a6b6e-c4fd-457a-83aa-1488aa9ba4c4
+6.47961,3.33182,,Point,LA,OSGOF,Imam Memudu Mosque,LASSUE09,Mosque,d6093c9b-f44a-4a84-adc3-c020de4ae636
+6.63927,3.3557,,Point,LA,OSGOF,Akiode Mosque,LASIKA08,Mosque,d615db3c-9b86-4f62-ad45-bb95e09c3821
+6.44513,3.21437,,Point,LA,OSGOF,Muwo Central Mosque,LASOJO08,Mosque,d79e6075-7b02-4e7c-9771-bb17851d7e53
+6.46901,3.56283,,Point,LA,OSGOF,Ajah Central Mosque,LASEOA03,Mosque,d887cea1-23c0-4114-add3-e0b42dc3ce27
+6.50778,4.02355,,Point,LA,OSGOF,Yeguda Central Mosque,LASEPE16,Mosque,d897792c-c524-48e2-8aba-953fa4f32fb2
+6.5545,3.34133,,Point,LA,OSGOF,Nasiru Afariogun Mosque,LASOIO01,Mosque,d9028a45-70be-473e-b974-b53e4cd5320d
+6.45131,3.39939,,Point,LA,OSGOF,Ismail Babatunde Jose Moqsue Mosque,LASLID13,Mosque,d9292e7b-1374-4f4e-87ff-73e7b876266f
+6.66497,3.6718,,Point,LA,OSGOF,Anwar Ud Deen Mosque,LASIKU14,Mosque,da287e4c-2636-4b6e-9f58-9e7e3d4afb20
+6.42817,3.49459,,Point,LA,OSGOF,Abubakar Mosque,LASEOA13,Mosque,da536236-345d-4270-83ca-ad253aa0de3b
+6.53285,3.33014,,Point,LA,OSGOF,Estate Muslim Community Mosque,LASOIO06,Mosque,db23d813-ca39-4183-9ba3-95ab63f2571a
+6.607,3.27015,,Point,LA,OSGOF,Abesan Central Mosque,LASAMO02,Mosque,db879df5-aba4-4ba8-b98d-314c1e8f0697
+6.53838,3.35237,,Point,LA,OSGOF,Olorun Tosin Ajumobi Central Mosque,LASMUN12,Mosque,db8afbc9-ac60-4a70-b027-6caa8771e84a
+6.50834,3.39241,,Point,LA,OSGOF,Oluwa Losee Mosque,LASLMD18,Mosque,dba6461a-be3a-46c9-bf68-aaddb6334529
+6.49288,3.3558,,Point,LA,OSGOF,Orisa Street Mosque,LASSUE01,Mosque,dbad8623-0e6a-4bdb-81e2-8137d963da0e
+6.53026,3.32808,,Point,LA,OSGOF,Mosjid Salam Mosque,LASOIO06,Mosque,dbffaabc-95f2-45e5-81e0-4acd7ba0bc95
+6.5766,3.34307,,Point,LA,OSGOF,Shogunle Mosque,LASOIO20,Mosque,dc306bae-69cf-4520-9715-3549415158cc
+6.61703,3.31894,,Point,LA,OSGOF,Alhaji Sarumi Mosque,LASAGG02,Mosque,dc351666-4e6a-428e-acc6-40e910eb11fe
+6.55379,3.24609,,Point,LA,OSGOF,Igando Central Mosque,LASAMO23,Mosque,dc7f52b2-f801-4ed8-ac41-03cbbd5a44bf
+6.55964,3.33426,,Point,LA,OSGOF,Aranse Oluwa Central Mosque Ogunoloko,LASOIO16,Mosque,dcd5a78e-b010-40a3-9524-c7b4070ba275
+6.406,3.17308,,Point,LA,OSGOF,Alaguntan Oke Agbado Central Mosque,LASOJO15,Mosque,dd1c07f3-4d6b-4ae8-a178-59a63bf4c386
+6.44628,3.34755,,Point,LA,OSGOF,Tolu Mosque 1,LASATO16,Mosque,de403fda-4d8e-4df9-90e7-e5b1bfed1681
+6.53585,3.36325,,Point,LA,OSGOF,United Bank For Africa Mosque,LASMUN18,Mosque,deb144dd-6a6a-470a-895b-8f2cec076780
+6.47794,3.15339,,Point,LA,OSGOF,Adaloko Central Mosque,LASOJO07,Mosque,dedae9d6-94f4-4b4b-bcf1-e9d96ea02b79
+6.48679,3.19703,,Point,LA,OSGOF,Arabic School Mosque,LASOJO05,Mosque,deec4874-d0f0-4ee4-b00c-1be2fcc77e6f
+6.4979,3.58192,,Point,LA,OSGOF,Central Mosque Addo,LASEOA02,Mosque,df1da592-a0ef-4f49-8877-7f55fd4e5dd7
+6.41678,3.36564,,Point,LA,OSGOF,Muhammadiya Central Mosque,LASAPA02,Mosque,e0f66fb2-f997-4033-8f2a-eb6529f5e5f9
+6.5241,3.37972,,Point,LA,OSGOF,Abule Ijesha Mosque,LASLMD01,Mosque,e135967c-24fd-458e-94c4-89d2c89b8641
+6.62414,3.35278,,Point,LA,OSGOF,Agidigbi Central Mosque,LASIKA02,Mosque,e1d490da-40c3-4800-9225-e783d8b48abc
+6.59045,3.22891,,Point,LA,OSGOF,Bada Central Center Mosque,LASAMO15,Mosque,e1e07069-91fc-4c21-80d5-b4e203e48a0b
+6.49731,3.12246,,Point,LA,OSGOF,Ijanikan Central Mosque,LASOJO06,Mosque,e1f923e8-6776-446d-9143-25850c9a9df8
+6.68527,3.27427,,Point,LA,OSGOF,Asimou Animashaun Mosque,LASIOE03,Mosque,e22b856f-83d5-4953-86af-0b9e668b7788
+6.52647,3.35393,,Point,LA,OSGOF,Ajisebi Ara Mecca Mosque,LASMUN11,Mosque,e2ad563b-0941-459c-b4f9-5a70f7851a81
+6.53192,3.35858,,Point,LA,OSGOF,Adisatu Central Mosque,LASMUN03,Mosque,e365b2a1-5441-4a7d-9e3c-4c455627b62c
+6.6383,3.31702,,Point,LA,OSGOF,Ore Oluwa Mosque,LASAGG12,Mosque,e4561b64-d465-4894-8a6c-13d91a167f9d
+6.53997,3.35199,,Point,LA,OSGOF,Ifelodun Oduduwa Mosque,LASMUN12,Mosque,e47582c5-f8d6-465a-ab01-571dbbe80eb2
+6.66406,3.25099,,Point,LA,OSGOF,Ola Alani Mosque,LASAMO11,Mosque,e4c2de74-1fd3-4313-b260-d9ca91a61f9c
+6.66011,3.61993,,Point,LA,OSGOF,Isiu Central Mosque,LASIKU07,Mosque,e581674d-25ba-41da-a09d-94bd082f1232
+6.44723,3.40678,,Point,LA,OSGOF,Workers Jamat Mosque,LASLID04,Mosque,e5d162f3-1b6f-49ed-9cc4-605bc5469d3e
+6.47123,3.27315,,Point,LA,OSGOF,Ansar Ud Deen Society Central Mosque,LASAON10,Mosque,e71bff97-73ae-41c6-8505-263910c42108
+6.42284,3.52891,,Point,LA,OSGOF,Okun Alfa Central Mosque,LASEOA08,Mosque,e7a49df1-9118-4aa3-8922-44f1a6b7cf50
+6.47424,3.35008,,Point,LA,OSGOF,Sari Iganmu Central Mosque,LASAPA12,Mosque,e865c11a-48a6-462f-9f94-e1b729f10c02
+6.47018,3.35379,,Point,LA,OSGOF,Temidire Mosque Badia,LASAPA07,Mosque,e87e7f39-45fb-4f25-b7e1-74d34ac7d582
+6.43553,3.76407,,Point,LA,OSGOF,Central Mosque Solu Orunmija,LASIUI05,Mosque,e88a0adb-7145-443f-adda-f9fd432842d3
+6.46401,3.25544,,Point,LA,OSGOF,Soba Mosque,LASAON02,Mosque,e8a64a94-e798-4e76-b3e1-16666aabf7d8
+6.52491,3.3547,,Point,LA,OSGOF,Ansar Ud Deen Central Mosque Mushin,LASMUN04,Mosque,e9545a1a-f5d2-4caa-a5d9-c0e49d3aafa5
+6.50169,3.73231,,Point,LA,OSGOF,Community Central Mosque Abegede,LASEPE12,Mosque,e9c532ff-4b7a-4039-8851-960946380d46
+6.48032,3.34326,,Point,LA,OSGOF,Idera Central Mosque,LASSUE19,Mosque,eaadfbab-7fcb-465d-84a7-3d152d101d81
+6.4878,3.60709,,Point,LA,OSGOF,Ira Nla Central Mosque,LASEOA02,Mosque,eab2e53c-1dee-4e91-b6c2-5b7d89ca4eb8
+6.45165,3.08932,,Point,LA,OSGOF,Ilase Village Mosque,LASBDY15,Mosque,eba747b1-b99a-432d-a49b-6583c9568242
+6.47447,3.38056,,Point,LA,OSGOF,Istil Jabat Mosque,LASLMD16,Mosque,ec158e34-cc14-4fc3-808f-cb9b89c988f0
+6.54171,3.35673,,Point,LA,OSGOF,Muslim Praying Ground Mosque,LASMUN12,Mosque,ec22abd4-a09a-4916-b58f-4e9fb7a56ec4
+6.55201,3.33434,,Point,LA,OSGOF,Akorede Mosque Mafoluku,LASOIO15,Mosque,ec2b9587-e228-422f-aa2e-7cfc00b555e9
+6.53291,3.36409,,Point,LA,OSGOF,Esinlere Mosque,LASMUN10,Mosque,ecbb84e1-35b0-4343-8dff-19fed5fc3e54
+6.610572,3.263561,,Point,LA,eHA_Polio,Ahamadiya Mosque,LASAMO03,Mosque,ed5462c6-9491-4de3-8811-23a99d1242ef
+6.46274,3.38939,,Point,LA,OSGOF,Enu Owa Mosque,LASLID09,Mosque,ee541c93-c9b0-4f15-b712-69b72c654c48
+6.52394,3.33392,,Point,LA,OSGOF,Jimoh Oseni Close Mosque,LASOIO13,Mosque,ee5420e5-8d48-4212-ad9d-03557bd0b7e1
+6.50165,3.38192,,Point,LA,OSGOF,Sodiq Adewale Centeal Mosque,LASLMD05,Mosque,ee88f289-c4a1-4e23-816a-2aeace80d6d6
+6.5765,3.34196,,Point,LA,OSGOF,Onikewunla Mosque,LASOIO20,Mosque,ef1068ed-f4cb-4416-ad7e-3dfb382ee7f1
+6.47199,3.1427,,Point,LA,OSGOF,Aranse Oluwa Central Mosque Ilogbo Town,LASOJO07,Mosque,ef98cf6f-6099-4b48-b206-f509def0dd79
+6.48731,3.34609,,Point,LA,OSGOF,Masjid Yasin Mosque,LASSUE22,Mosque,f00f194f-1999-4f1e-8536-8173a2bd4cb3
+6.55346,3.47309,,Point,LA,OSGOF,Ebute Central Mosque 2,LASIKU13,Mosque,f0508c00-909c-4472-a30f-286f38746326
+6.43789,3.36783,,Point,LA,OSGOF,Jihad Central Mosque,LASAPA02,Mosque,f05340b2-cc0c-4bbc-9f1d-16d4fb1c4c5a
+6.40721,3.18368,,Point,LA,OSGOF,Igbolobi Central Mosque,LASOJO15,Mosque,f0b4a911-a2e8-4ac6-a987-2ec8cafc66a4
+6.54299,3.38425,,Point,LA,OSGOF,Siliudeen Aduramigba Mosque,LASSMU03,Mosque,f179c240-45b8-496e-b061-7d283c6f6e66
+6.46401,3.34497,,Point,LA,OSGOF,Allahu Lateef Mosque,LASATO05,Mosque,f187998d-dbd8-4a5d-abc8-1d18d957e9c5
+6.56286,3.34196,,Point,LA,OSGOF,Aye Gbesin Mosque,LASOIO16,Mosque,f25ac16d-292f-4d10-acd4-c06bef112363
+6.45847,3.20842,,Point,LA,OSGOF,Nasfat Central Mosque,LASOJO11,Mosque,f2ee694d-b9f6-48c5-9333-1d6be30afb54
+6.48077,3.33782,,Point,LA,OSGOF,Olarenwaju Mosque,LASSUE19,Mosque,f31ef353-9f85-4110-8499-4727b39f5cb5
+6.64916,3.34857,,Point,LA,OSGOF,Oke Iar Central Mosque,LASIKA10,Mosque,f336db7b-b48a-4ecc-bf9d-61b2d87cc039
+6.45523,3.35091,,Point,LA,OSGOF,Alayabiagba Mosque 3,LASATO01,Mosque,f3d3a397-a098-49fd-940a-0ac5d193d82e
+6.65005,3.34789,,Point,LA,OSGOF,Moboluwaduro Mosque,LASIKA10,Mosque,f44c5ff6-a4a7-4433-80db-a96ed46f0268
+6.45548,3.38965,,Point,LA,OSGOF,Durosoto Central Mosque,LASLID02,Mosque,f4d75be7-bdcc-47a8-9d46-82efa28c9f3b
+6.45967,3.3432,,Point,LA,OSGOF,Surajudeen Mosque,LASATO10,Mosque,f62e96a1-f2f9-4c9c-a186-925aa7ac4e1a
+6.57146,3.36383,,Point,LA,OSGOF,Onigbongbo Central Mosque,LASIKA12,Mosque,f64c5e06-bf6d-47a7-861b-bc19f7edad1f
+6.54714,3.29641,,Point,LA,OSGOF,Dera Anabi Mosque,LASOIO10,Mosque,f6f06a6f-2aef-42af-ad20-71960eaaa473
+6.50716,3.5801,,Point,LA,OSGOF,Mohammed Awal Mosque,LASEOA06,Mosque,f785c340-a76b-4681-85b2-65a9bb035cdc
+6.57754,3.34261,,Point,LA,OSGOF,Sarafudeen Mosque,LASOIO20,Mosque,f7a67ab5-93ad-4165-8ceb-2863841712ea
+6.62051,3.32013,,Point,LA,OSGOF,Alfa Nla Central Mosque,LASAGG02,Mosque,f7c53eed-9f5a-4af9-a318-5bb657745b1f
+6.62,3.29808,,Point,LA,OSGOF,Oki Central Mosque,LASAMO32,Mosque,f80c829b-7ef4-49b7-8f99-ea29bc7a08b5
+6.45588,3.34774,,Point,LA,OSGOF,Ajegunle Mosque 2,LASATO01,Mosque,f91a0332-9275-484c-8055-b20cf73a6849
+6.50987,3.6155,,Point,LA,OSGOF,Badore Central Mosque,LASEOA06,Mosque,f927ba0e-d35d-45a8-8428-ee1ea18cb1b0
+6.68691,3.26193,,Point,LA,OSGOF,Ajegunle Community Mosque,LASAMO11,Mosque,f9eb1c00-856d-4e28-81a9-8e55c25d37a9
+6.43127,3.51638,,Point,LA,OSGOF,Ologolo Central Mosque,LASEOA15,Mosque,fa6d3825-41d8-4bc0-a772-10b3045b4d3f
+6.60098,3.48868,,Point,LA,OSGOF,Ebute Central Mosque 1,LASIKU15,Mosque,fb0031e4-a375-4215-b8ce-fb90f1cf6304
+6.46734,3.56263,,Point,LA,OSGOF,Olomu Central Mosque,LASEOA03,Mosque,fb1c64c9-13cd-46cd-9f7e-b36f1575ecc9
+6.45841,3.35218,,Point,LA,OSGOF,Alayabiagba Mosque 4,LASATO08,Mosque,fb44b517-38eb-42e5-a2d4-bea14d6e2e07
+6.41042,3.30202,,Point,LA,OSGOF,Ilesha Central Mosque,LASAON06,Mosque,fb55fe30-87df-46ea-b2df-f355b02f4d8b
+6.45776,3.38768,,Point,LA,OSGOF,Lagoon Central Mosque,LASLID14,Mosque,fb664b74-1926-4984-8777-3e6ca67eef56
+6.6005,3.2422,,Point,LA,OSGOF,Megida Central Mosque,LASAMO15,Mosque,fc339d9f-9cd4-4204-b388-e7b297514be9
+6.54784,3.38022,,Point,LA,OSGOF,Gbagada Central Mosque,LASSMU03,Mosque,fce2168d-2d3b-47da-ac54-20220e7f2979
+6.49308,3.34424,,Point,LA,OSGOF,Anu Olwapo Mosque,LASSUE13,Mosque,fd08cf14-99b4-42bb-88ee-0c1907033ea6
+6.47423,3.33027,,Point,LA,OSGOF,Coker Central Mosque,LASSUE09,Mosque,fd3faebc-84f4-4241-9513-9a43e6a936a5
+6.41404,3.34282,,Point,LA,OSGOF,Ilado Odo Central Mosque,LASAON09,Mosque,fd430974-49cc-4cc0-a3a5-b8e38be523f0
+6.41855,3.33142,,Point,LA,OSGOF,Igbologun Central Mosque,LASAON09,Mosque,fda1e559-fa49-4759-be78-c70adfaadbdd
+6.61847,3.32078,,Point,LA,OSGOF,Ahmadiya Mosque,LASAGG02,Mosque,febcbcdc-4dd6-4c3c-9cb4-c71c57b94ee7
+6.60655,3.29418,,Point,LA,OSGOF,Ike Oluwa Mosque Alimosho,LASAMO10,Mosque,ff404d08-ea78-4021-930f-e2589763e9d1
+6.47157,3.18974,,Point,LA,OSGOF,Okokomaiko Central Mosque,LASOJO12,Mosque,ff902544-fc95-44c3-9a5f-181b44adf859
+6.53683,3.35343,,Point,LA,OSGOF,Olorunsogo Central Mosque,LASMUN12,Mosque,ffc0bf88-53c8-49ed-bf0d-5fec7c10db9e
+6.46285,3.16857,,Point,LA,OSGOF,Ajangbadi Hausa Central Mosque,LASOJO07,Mosque,ffe181e6-c8ee-448f-8f4b-7699528350c7

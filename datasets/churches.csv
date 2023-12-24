@@ -1,0 +1,1416 @@
+latitude,longitude,altitude,geometry,state_code,source,name,ward_code,poi_type,global_id
+6.57943,3.34186,,Point,LA,OSGOF,Gospel Apostolic Church Shogunle,LASOIO20,Church,0007b5bd-56f9-4a30-be9f-5e88c6e95151
+6.44097,3.14695,,Point,LA,OSGOF,S And C Church Of God Church Ese Ofin Riverine,LASOJO02,Church,002105aa-d9fd-4d1a-9f01-eeb7e0652f32
+6.43489,3.48553,,Point,LA,OSGOF,Redeemed Christian Church Of God Ikate,LASEOA10,Church,004addc1-5894-47a5-aba9-3778a6560011
+6.5573,3.34714,,Point,LA,OSGOF,Redeemed Christian Church Of God 1 Igbehin Adun,LASOIO11,Church,00599af1-b0ae-442e-b046-d27f1317e588
+6.61136,3.39815,,Point,LA,OSGOF,Deeper Life Bible Church Maidan,LASKSE20,Church,0075df28-1da5-4964-8711-286a0ada1935
+6.61408,3.38332,,Point,LA,OSGOF,Catholic Church Magodo,LASKSE21,Church,0098d5ac-8562-4141-a229-6d6021142dd6
+6.5821,3.40856,,Point,LA,OSGOF,Christ Apostolic Church Agboyi Iii,LASKSE02,Church,00f46a0d-5718-416e-800f-9f81a956862d
+6.50615,3.3363,,Point,LA,OSGOF,Voice Of Jesus Ministry Itire,LASSUE18,Church,0100bb36-3734-4f13-843d-95261ddbb27a
+6.57123,3.28654,,Point,LA,OSGOF,The Apostolic Church Idimu,LASAMO22,Church,01049187-3862-492f-831d-2c2303e316d9
+6.52957,3.36866,,Point,LA,OSGOF,Igbobifour Square Gospel Church Igbobi Fadeyi,LASSMU08,Church,01c0f198-a17f-4715-8e7c-ed48a84091b8
+6.59304,3.30534,,Point,LA,OSGOF,Peculiar People Ministry Shasha Ajegunle,LASAMO35,Church,01d116d6-0b9e-4105-9300-730674c49a67
+6.5624,3.34199,,Point,LA,OSGOF,Grace And Glory Oshodi,LASOIO16,Church,01e08c5c-e28c-4a5e-90ae-bd04c5d27b4c
+6.433256,3.503994,,Point,LA,eHA_Polio,Divine Church of Christ,LASEOA13,Church,021c04be-d7cb-4a82-8da7-21c98e7b9c16
+6.44103,3.34381,,Point,LA,OSGOF,Celestial Church Of Christ Tolu,LASATO15,Church,022d0881-06cd-471e-8413-9dafcdaa7471
+6.54108,3.31204,,Point,LA,OSGOF,Redeemed Christian Church Of God 2 Ilamoshe,LASOIO12,Church,02aa24af-b283-4b8d-8334-681e343e1923
+6.52554,3.29431,,Point,LA,OSGOF,Sabath Holy Ghost Ailegun,LASOIO03,Church,02aa5d97-1b21-4a6f-8323-4c3f4517fe54
+6.59241,3.3996,,Point,LA,OSGOF,Christ Disciples Globe Church Oshogun,LASKSE07,Church,02cdc116-86b2-4749-8316-e0496ff9e9b3
+6.4217,3.35912,,Point,LA,OSGOF,Episcopal Church Ituagan,LASAPA02,Church,02d75d7c-90d5-4ce8-9a1a-d4024a2656fd
+6.5019,3.38605,,Point,LA,OSGOF,Rock Of Salvation Pentecostal Makoko,LASLMD12,Church,02ddfcaf-ca87-412e-8208-7768cd1a3f54
+6.53928,3.37249,,Point,LA,OSGOF,Christian Mission Church For The Deaf,LASSMU09,Church,02e71bf8-7dd6-437f-b503-5c77ad769201
+6.50544,3.34488,,Point,LA,OSGOF,Lord's Chapel Ikate,LASSUE20,Church,032efe39-7338-43bf-acb7-d219640242e9
+6.4979,3.58444,,Point,LA,OSGOF,Celestial Church Of God Addo,LASEOA02,Church,032f773f-815a-44a3-a1dd-563059416266
+6.4458,3.33526,,Point,LA,OSGOF,Eternal Sacred Church Ibafon,LASATO04,Church,039faa1c-6ca3-488f-99f4-0cfed406b88c
+6.48981,3.15271,,Point,LA,OSGOF,Assemblies Of God Church Ketu,LASOJO13,Church,03e261f1-6631-49ee-bf1f-2d15b441a95e
+6.60782,3.42019,,Point,LA,OSGOF,Christ Apotolic Church Owode Ajegunle,LASKSE14,Church,042b16f5-6a8d-4ef1-9e58-ce2920b191f0
+6.53626,3.29452,,Point,LA,OSGOF,Mountain Of Fire Ailegun,LASOIO03,Church,044061cf-836c-4dfc-af89-85a8dce779fb
+6.52667,3.39961,,Point,LA,OSGOF,Life Foundation Church Akoka,LASSMU02,Church,049d88bb-1eaa-4775-891a-afe2a3b20e89
+6.417431,3.327784,,Point,LA,eHA_Polio,Immanuel Anglican Church,LASAON09,Church,049e0f73-c7b2-43ac-82c8-6f6fa3c0e3e0
+6.53551,3.36254,,Point,LA,OSGOF,Redeemed Christian Church Onipanu,LASMUN18,Church,04dd7351-4ba5-4ef7-85e2-201b21670311
+6.52995,3.37669,,Point,LA,OSGOF,Christ Redemption,LASSMU05,Church,04ddadd8-0777-461c-aedf-b90f073f1673
+6.45135,3.14365,,Point,LA,OSGOF,St John's Anglical Church Etegbin Riverine,LASOJO03,Church,051df9f3-111b-4109-9286-259ea5e12470
+6.59808,3.36689,,Point,LA,OSGOF,Day Star Christ Center,LASIKA15,Church,0547a7f2-84aa-43b8-84f5-89b80cbbcb5e
+6.50701,3.33971,,Point,LA,OSGOF,Jesus The Winner Outreach Ikate,LASSUE18,Church,05894014-6fae-42e4-a92a-efa3753c1c3a
+6.57056,3.34054,,Point,LA,OSGOF,Perfect Renewal Church Maboju,LASOIO08,Church,058cd7a6-16e2-4190-a549-d7ea9d54c6cf
+6.4555,3.3851,,Point,LA,OSGOF,St Pauls Church Balogun,LASLID20,Church,058e9775-63a5-41ba-9cce-d7a1afc67b16
+6.47372,3.34312,,Point,LA,OSGOF,St Joseph Chosen Sari Iganmu,LASAPA03,Church,05b38ef3-0967-41ed-8134-306b3ebe2d24
+6.5515,3.32305,,Point,LA,OSGOF,Christian Faith Assembly Ajao Estate,LASOIO04,Church,05e64205-8659-4e55-9930-f3aefec665b7
+6.60247,3.30882,,Point,LA,OSGOF,Destiny Revival Church Akowonjo,LASAMO34,Church,061900b0-7ec2-4677-a17d-725619dbd726
+6.59477,3.28105,,Point,LA,OSGOF,Redeemed Christian Church Of God City Changer,LASAMO33,Church,06ea1eef-fb2d-4b9e-85ff-c979ef27c926
+6.55534,3.34043,,Point,LA,OSGOF,Glory Christ Orile Oshodi,LASOIO01,Church,06ffed19-2aa0-4b1d-9f77-82907fa9d362
+6.54794,3.37023,,Point,LA,OSGOF,Sheperd Baptist Church Obanikoro,LASSMU15,Church,077344b2-e9a2-473b-b3bb-29481e5d92aa
+6.53575,3.34604,,Point,LA,OSGOF,Ogo Oluwa C And S Papa Ajao,LASMUN19,Church,07818f49-9e89-4191-a504-82841acec9ec
+6.50068,3.39187,,Point,LA,OSGOF,Cherubim And Seraphim Church Church Iwaya,LASLMD04,Church,07ecf12d-c756-4494-8277-75cdceb75bfe
+6.52909,3.2938,,Point,LA,OSGOF,Foursquare Church 1 Ailegun,LASOIO03,Church,087a40c2-23c7-40bc-afbd-2ed387c118a3
+6.55711,3.38669,,Point,LA,OSGOF,Redeemed Christian Church Of God Livingstone Assembly Soluyi,LASKSE06,Church,08ef3097-8adc-4988-9d92-690f3bcb22f4
+6.44399,3.33432,,Point,LA,OSGOF,Kingdom Hall Of Jehovah Witness Ibafon,LASATO09,Church,08f039e1-fc96-46f6-97e0-444ab754f448
+6.51817,3.34091,,Point,LA,OSGOF,Apostolic Church Oyinkan,LASMUN17,Church,096cb375-e9f6-4258-b00b-c09d469f7fac
+6.51727,3.33917,,Point,LA,OSGOF,K And S Agbanu Oke Ayo,LASMUN17,Church,096cc632-6201-404a-a46b-14aff3dab191
+6.61399,3.29496,,Point,LA,OSGOF,Seven Day Adventist Alimosho,LASAMO32,Church,0a06f922-e60f-48de-ace5-fc6ee88704d3
+6.57213,3.29637,,Point,LA,OSGOF,The King Heritage Church Idimu,LASOIO02,Church,0a2c46fb-96d4-4650-9e02-97cceb3fe225
+6.50874,3.32756,,Point,LA,OSGOF,Gospel Promoters Mission Itire,LASMUN13,Church,0a3e439d-aeba-4222-9cbd-9a6e05a4e29e
+6.44262,3.17113,,Point,LA,OSGOF,Redeemed Christian Church Of God Riverine,LASOJO09,Church,0a4af81c-cf72-402c-868d-2a8bb63f5b5b
+6.45145,3.0883,,Point,LA,OSGOF,K And S Celestial Church Ikotun Ase Ilaje Village,LASBDY15,Church,0b25e1a6-d193-4bed-9f6b-3bda5e942c59
+6.45679,3.36043,,Point,LA,OSGOF,Calvary Baptist Church Marine Beach,LASAPA09,Church,0b3e7cc2-d372-4c08-ad53-dc7644b93515
+6.45822,3.34775,,Point,LA,OSGOF,Anglican Church Aiyetoro,LASATO01,Church,0b4e433f-1c21-40d8-b180-67a8e4719ef3
+6.51826,3.34174,,Point,LA,OSGOF,Assemblies Of God Miracle Abule Igbehin,LASMUN17,Church,0b6a5ace-de9c-484b-a1d8-f0bbd0bab523
+6.6468,3.7685,,Point,LA,OSGOF,Celestial Church Of Christ Ileri Ayo Parish Ajebo,LASEPE17,Church,0b6cf527-ec53-490b-88fc-8a0b008530e6
+6.656084,4.085969,,Point,LA,eHA_Polio,Holy Land Church,LASEPE10,Church,0b70fc75-7a5d-480e-98da-bb2e091dafe2
+6.61667,3.25672,,Point,LA,OSGOF,Mountain Pf Perfection,LASAMO26,Church,0b798ac4-e1f8-42c4-905c-097f989a16c1
+6.62378,3.30339,,Point,LA,OSGOF,Christ Apostolic Church Alaagba,LASAGG04,Church,0b8771a1-27ba-4ac8-bc50-1ae1d3532caa
+6.49388,3.36121,,Point,LA,OSGOF,Redeemed Christian Church Of God Alaka,LASSUE01,Church,0b986c65-65af-473b-8080-47144681f30b
+6.50997,3.32025,,Point,LA,OSGOF,Redeemed Christian Church Of God 1 Okota,LASOIO18,Church,0b9b4d28-c3e5-46d9-94f8-cbdaba82310a
+6.62767,3.3096,,Point,LA,OSGOF,Celestial Church Of Christ Orile Agege,LASAGG04,Church,0bddd3fe-cea0-470b-bb8b-0eae866ee723
+6.55635,3.34902,,Point,LA,OSGOF,Ist Baptist Church Oshodi,LASOIO01,Church,0beaa413-2fa7-4cc2-b112-b1f6676ef148
+6.5296,3.31335,,Point,LA,OSGOF,C F A M Sanctuary,LASOIO17,Church,0c1709ea-5f16-4ec8-94fc-c59d104918fd
+6.641,3.35393,,Point,LA,OSGOF,Freedom Chapel Akiode,LASIKA08,Church,0c1a20df-b680-4ec7-86d7-1616fca2d716
+6.45869,3.34749,,Point,LA,OSGOF,Church Of God Aiyetoro,LASATO01,Church,0c361527-4429-4f57-89cc-349b27b86c77
+6.45619,3.36135,,Point,LA,OSGOF,Deeper Life Church Marine Beach,LASAPA09,Church,0c365f85-1a20-405b-bf5c-04e571121e4b
+6.59066,3.37412,,Point,LA,OSGOF,Celestial Church Of Christ Olusosun,LASIKA11,Church,0c8f1aaf-83b1-4836-805b-41da142e9173
+6.52489,3.39405,,Point,LA,OSGOF,Redeemed Christian Church Of God 1 Akoka,LASSMU02,Church,0ccb9d47-2c5e-4be9-9694-598f4f2d86f8
+6.46637,3.33272,,Point,LA,OSGOF,Holu Ghost Intervention Church Alaba,LASATO06,Church,0d265072-6af3-4261-8cbe-1c8d6e5b609d
+6.48281,3.38599,,Point,LA,OSGOF,Ecwa Church Oyingbo,LASLMD17,Church,0d36c904-15e2-42eb-9d04-5bb2f011933e
+6.53304,3.36497,,Point,LA,OSGOF,Onipanu Four Gospel Church Onipanu,LASMUN10,Church,0d3c6cf8-d9b2-4d54-9af3-822dfd9cdfd4
+6.50354,3.34272,,Point,LA,OSGOF,De Christs Conqueros Ministry Ikate,LASSUE08,Church,0d4ee7ed-2136-40c4-9901-7487a963a0f6
+6.60068,3.30804,,Point,LA,OSGOF,Redeemed Christian Church Of God City Of Refuge,LASAMO35,Church,0d4eea39-14a9-4c7c-a50f-c507be1409d9
+6.45818,3.229,,Point,LA,OSGOF,Christ Apostolic Church Owode,LASOJO08,Church,0d8c2789-6a77-4849-b69d-2a33fa2fe2be
+6.63128,3.31935,,Point,LA,OSGOF,Methodist Church Tabon Tabon,LASAGG12,Church,0d93afa9-1654-491d-a0ca-de7134155fd5
+6.44596,3.33245,,Point,LA,OSGOF,Zion Life Church Ibafon,LASATO09,Church,0dbabbed-9281-40f0-84c7-a03055198e73
+6.60555,3.26884,,Point,LA,OSGOF,St Ferdinard Catholic Church Abesan,LASAMO02,Church,0e19914f-21bc-4521-b7b1-12b37e7fb89a
+6.52693,3.35565,,Point,LA,OSGOF,Regina Mundi Catholic Church Baba Oloosa,LASMUN03,Church,0e1b066d-10a4-481c-9d02-7aafaa23a5e6
+6.58431,3.38438,,Point,LA,OSGOF,Sacred Heart Catholic Ojota,LASKSE16,Church,0e2c13fd-9bbb-4aa1-82ce-447933592083
+6.44923,3.40881,,Point,LA,OSGOF,Methodist Church Nigeria Obalende,LASEOA16,Church,0e2f251c-6a83-4c96-94fd-57d4a89e5c6a
+6.49693,3.33051,,Point,LA,OSGOF,The Church Of The Lord Ijeshatedo,LASSUE21,Church,0ef73b6f-732f-46bc-a475-7c866b86e0b2
+6.46444,3.38744,,Point,LA,OSGOF,Holytrinity Church Ebute Metta,LASLID08,Church,0f00e3d2-d1c0-4521-9e02-c7258f452d84
+6.40518,3.38342,,Point,LA,OSGOF,New Creature Anglican Church Light House,LASEOA19,Church,0f0c6d88-248f-450f-9b50-9822edfde1eb
+6.50446,3.37414,,Point,LA,OSGOF,Redeemed Christian Church Of God Yaba,LASLMD10,Church,0f12da3f-2a7c-467e-bc9e-b02b256b1ffe
+6.46067,3.35087,,Point,LA,OSGOF,God's Power Bible Missonary,LASATO01,Church,0f228e46-807b-4997-9854-b094573ce7fd
+6.45249,3.19343,,Point,LA,OSGOF,Christ Gospel Believer Ministry Mosafejo,LASOJO11,Church,0f532975-fd31-4a79-93ff-cd252ac26e9c
+6.65918,3.33276,,Point,LA,OSGOF,Cherubim And Seraphim Church Okeayo,LASIOE13,Church,0f58a762-9e8d-4d85-9a5e-5a69f0539ea2
+6.49293,3.3603,,Point,LA,OSGOF,Fountain Of Wisdom Church,LASSUE01,Church,0fb4e7a4-22be-44ce-bca4-64044b578a52
+6.46326,3.25715,,Point,LA,OSGOF,Christs Church Ado Soba,LASAON02,Church,0fd2859e-e59f-4ade-ac43-c2fe3e6a742b
+6.52295,3.35941,,Point,LA,OSGOF,Apostolic Church 2 Idi Oro,LASMUN04,Church,100e970e-f469-4a40-b703-9e1949e96f2d
+6.51441,3.26624,,Point,LA,OSGOF,Christ Apostolic Church Spring Of Life Ijegun,LASAMO27,Church,10310b25-4991-4367-a65d-866c6c7351c3
+6.4519,3.32367,,Point,LA,OSGOF,Eternal Sacred Church Awodi Ora,LASATO07,Church,1062f98d-78d6-4a68-a1f1-794d13603b2c
+6.59041,3.36051,,Point,LA,OSGOF,Redeemed Christian Church Of God Jubilee Center,LASIKA14,Church,106433be-1266-40de-b0bb-7bb6ac48962c
+6.50116,3.33305,,Point,LA,OSGOF,Christ Apostolic Church 1 Itire,LASSUE21,Church,1069e37d-db9a-4437-8816-b39d77a5c897
+6.67389,3.29649,,Point,LA,OSGOF,Oke Iye Christ Apostolic Churh,LASIOE07,Church,10a0938a-6480-47a3-bf25-b09f632deadd
+6.56603,3.34264,,Point,LA,OSGOF,Celestial Church Oshodi,LASOIO16,Church,10a4a33b-62bd-4254-9cb6-b76ba12a95f3
+6.63449,3.34226,,Point,LA,OSGOF,Church Of Christ Ogba Ijaiye,LASIOE10,Church,10edcf83-695a-40cc-a500-905f4264fdf1
+6.60905,3.35684,,Point,LA,OSGOF,Holy Micheal Church Of The Lord Alausa,LASIKA04,Church,11065018-edeb-44a4-99ef-ef80124c1388
+6.64534,3.30573,,Point,LA,OSGOF,Christ Apostolic Church Oke Irapana,LASAMO05,Church,1108d8b6-bced-4a63-9d37-3259bd6b0205
+6.53641,3.3056,,Point,LA,OSGOF,Redeemed Christian Church Of God 2 Ejigbo,LASOIO12,Church,119651e6-e0dd-46a9-b7e5-83ae89d222aa
+6.60016,3.99062,,Point,LA,OSGOF,C A C Iraye,LASEPE11,Church,11a0855e-c3b1-47bc-be18-fcdcf6afbdcc
+6.57339,3.28129,,Point,LA,OSGOF,Mountain Of Fire Isheri Olofin,LASAMO28,Church,11e64fb6-de56-4009-80f1-ef206ec696d3
+6.48476,3.34126,,Point,LA,OSGOF,Gospel Baptist Church Orile Iganmu,LASSUE19,Church,1227aee4-187a-4ae9-af25-89d2610725d2
+6.67523,3.99284,,Point,LA,OSGOF,Eucharistic Heart Of Jesus Novitiate,LASEPE13,Church,12ca100e-8fd4-4395-be05-7e17a169999a
+6.57207,3.29942,,Point,LA,OSGOF,Foursquare Gospel Church Orisumbare,LASOIO02,Church,12d99748-95dc-4636-afa3-d407547740db
+6.5139,3.34688,,Point,LA,OSGOF,Believers General Assembly Lawanson,LASMUN17,Church,12d9a581-9e99-45b4-acae-98ba10d785a5
+6.51325,3.20035,,Point,LA,OSGOF,African Salem Church Iba Town,LASOJO04,Church,12db362a-f6bf-41e8-8a61-e3d598aefc98
+6.66751,3.73546,,Point,LA,OSGOF,Amazing Grace Church Otta,LASEPE05,Church,12fd458a-9155-4655-b015-c2070f1f47cd
+6.52395,3.33326,,Point,LA,OSGOF,Deeper Life Church Ilasamaja,LASOIO13,Church,1331c0e5-68de-4b05-97f1-cb2d0f35f36e
+6.47266,3.35431,,Point,LA,OSGOF,St Matthew Member Church Badia,LASAPA07,Church,1394f6c5-f6f2-48b7-9772-82d6493bf99b
+6.42985,2.92929,,Point,LA,OSGOF,Methodit Church Zanmu,LASBDY12,Church,13b9ec73-48db-4976-ab92-d981b414dfa1
+6.60556,3.31378,,Point,LA,OSGOF,Baptist Church Akowonjo,LASAMO35,Church,13e2513d-0e21-4d27-b8d9-0098340e44cb
+6.44048,3.34392,,Point,LA,OSGOF,Cherubim And Seraphim Church Tolu,LASATO15,Church,1403da8f-5fbd-492d-82fb-ec85d8c810d1
+6.45499,3.32119,,Point,LA,OSGOF,Assemblies Of God Church Olugbemi Agric,LASATO07,Church,140de0fe-050f-4871-bfc1-2f89bb7a3d60
+6.51828,3.34125,,Point,LA,OSGOF,Celestial Church Of Christ Oyinkan Parish Abule Igbehin,LASMUN17,Church,1421d603-56dc-48c3-9206-1bbabf41f552
+6.50788,3.3452,,Point,LA,OSGOF,Holy Trinity Anglican Church Ikate,LASSUE20,Church,1460da13-2e11-4429-a0f7-d90fcd372a64
+6.53543,3.39108,,Point,LA,OSGOF,Praise God Christian Church Bariga,LASSMU03,Church,14934d01-dc9d-4392-9f4c-97a736ae6fab
+6.50412,3.17214,,Point,LA,OSGOF,Foursquare Gospel Church Ishasi Town,LASOJO05,Church,14e25328-de65-454d-a6cb-c47e7cd06f5c
+6.62441,3.30719,,Point,LA,OSGOF,Celestial Church Of Christ Mulero,LASAGG09,Church,151fce6d-5ae1-41b4-919f-e1c8c0d5f844
+6.4812,3.37502,,Point,LA,OSGOF,Redeemed Christian Church Of God 3 Ebute Metta,LASLMD08,Church,155f8324-4435-4aea-b728-e16ca097dcd3
+6.46534,3.32912,,Point,LA,OSGOF,Redeemed Christian Church Of God Alaba,LASATO14,Church,157a6463-11ad-47d7-96e2-b726005be1e5
+6.60665,3.26332,,Point,LA,OSGOF,St Andrew Anglican Church Ipaja,LASAMO02,Church,15928f98-8077-4d9a-8a28-8ca68d805803
+6.68951,3.25953,,Point,LA,OSGOF,Celestial Church Of Christ 1 Ajegunle Ilo,LASAMO11,Church,15b86515-b214-49a5-8f4c-d2edfe8f0a40
+6.51904,3.33809,,Point,LA,OSGOF,Gospel Church Abule Igbehin,LASMUN07,Church,15be03ce-29fc-4dc9-b2d7-2cad2472cf7c
+6.55572,3.26017,,Point,LA,OSGOF,Elbethel Church Ikotun,LASAMO25,Church,15be5dc4-0494-4a78-ab3f-4cc2e554e626
+6.54785,3.26233,,Point,LA,OSGOF,Redeemed Christian Church Of God Dominium Area,LASAMO25,Church,15c2dc1e-538d-431c-8850-3eaf814f22e5
+6.53777,3.2938,,Point,LA,OSGOF,Fountain Of Fire Revival Ailegun,LASOIO03,Church,15c5e6af-b864-4416-a920-a8d2cebde8ca
+6.45541,3.33662,,Point,LA,OSGOF,The Truth Church Of God Church Onibaba,LASATO02,Church,15fbda35-44e6-4f88-a36a-0dc384c23322
+6.55132,3.40459,,Point,LA,OSGOF,St Flavis Catholic Church Oworonsoki,LASKSE18,Church,16ab1560-8d82-4af7-b1f6-b933bf959645
+6.52367,3.35959,,Point,LA,OSGOF,St Joseph God Kingdom Idi Oro,LASMUN04,Church,16b0cd12-e11e-42b7-ae10-8ab4c9c80819
+6.462,3.38931,,Point,LA,OSGOF,Union Baptist Church Isale Eko,LASLID08,Church,16d3ade5-cda8-4280-aad3-447d134f042c
+6.5383,3.3084,,Point,LA,OSGOF,Redeemed Christian Church Of God 3 Ilamoshe,LASOIO12,Church,170f8bb7-2abd-4db7-b23f-a0cd15d3a50d
+6.55222,3.24998,,Point,LA,OSGOF,The Radiant Church Igando,LASAMO23,Church,17191a8e-931b-486d-9e68-f51a570751cd
+6.53744,3.55265,,Point,LA,OSGOF,Methodist Church Baiyeku,LASIKU19,Church,17688bd2-b1af-43e6-a585-0a9c9f41a4d0
+6.6158,3.38332,,Point,LA,OSGOF,Foursquare Church Magodo,LASKSE21,Church,1780f15d-946b-4684-ae7b-dc4c51ce20a4
+6.463415,3.342525,,Point,LA,eHA_Polio,Christ Life Assembly,LASATO05,Church,17a45978-e320-4c35-a406-fae68b6fcc8e
+6.60671,3.32262,,Point,LA,OSGOF,Fountain Of Fire Revival Onilekere,LASIKA13,Church,17c3530b-521d-4671-977b-b77d1af9aacd
+6.53531,3.38813,,Point,LA,OSGOF,Christ Anglican Church Bariga,LASSMU14,Church,17c5d214-e38f-4547-8998-aaa37e3fd9f9
+6.67657,3.98555,,Point,LA,OSGOF,Jesus The Light Church Odo Gbawojo,LASEPE13,Church,18151431-fc1f-4756-b22b-42bf4a124cd6
+6.46282,3.34821,,Point,LA,OSGOF,Christ Apostolic Church 1 Aiyetoro,LASATO01,Church,1840c5e1-bfb7-4c93-8206-add7b7078fa5
+6.61205,3.3989,,Point,LA,OSGOF,Power Of Deliverance Evangelism Maidan,LASKSE10,Church,184a8937-6d11-4e25-b819-1d0ce19fdd93
+6.51454,3.32743,,Point,LA,OSGOF,Christian Penticostal Church Ilasamaja,LASOIO13,Church,186efeea-d8dc-4931-bb93-be99f75cdb61
+6.45624,3.34517,,Point,LA,OSGOF,Anglican Church Ajegunle,LASATO01,Church,186fe996-9733-475b-9487-24943a8205e0
+6.50007,3.38489,,Point,LA,OSGOF,Christian Pentecostal Mission International Makoko,LASLMD12,Church,1892df3c-611f-4891-81cb-d4a41e913d06
+6.53991,3.39315,,Point,LA,OSGOF,St Stephen Anglican Church Abule Okuta,LASSMU16,Church,18acd667-e87f-4090-a560-7e90083e59a6
+6.61334,3.37347,,Point,LA,OSGOF,Redeemed Christian Church Of God House Of Mercy,LASKSE21,Church,18b09d6b-34d8-4b04-a30a-12d4d38e02f5
+6.55627,3.33451,,Point,LA,OSGOF,Cherubim And Seraphim Church Mafoluku,LASOIO15,Church,18cdbcfc-405a-490a-af0f-725eccadbca0
+6.6476,3.91343,,Point,LA,OSGOF,Anglican Communion Igbodu,LASEPE15,Church,18eb38d7-aa77-4b49-9e3b-a3d43650e760
+6.6227,3.38,,Point,LA,OSGOF,St Jude Anglican Church Magodo,LASKSE21,Church,193bbae2-7862-48ba-bce8-edb08ec1cd26
+6.50023,3.39529,,Point,LA,OSGOF,Celestial Church Of God Sogunro Orile,LASLMD02,Church,195e37b6-eed3-495f-a464-a8efee82751a
+6.59182,3.51669,,Point,LA,OSGOF,Methodist Church Igbogbo,LASIKU01,Church,19616d7f-084c-4848-b99e-9fecd6b7f06c
+6.52718,3.23478,,Point,LA,OSGOF,Mountain Of Fire Miracle Okerube,LASAMO01,Church,198682f8-6f6a-4b72-86b2-786ade997bd4
+6.5175,3.34173,,Point,LA,OSGOF,K And S Ada Parish Abule Igbehin,LASMUN17,Church,19968734-aa8c-4a55-b696-b119acaa9701
+6.51826,3.34201,,Point,LA,OSGOF,Church Of Christ Abule Igbehin,LASMUN17,Church,199730fd-37f9-4f3e-964c-9a4addf1cdc8
+6.46537,3.31481,,Point,LA,OSGOF,Deeper Life Church Mile 2 District,LASAON04,Church,19c28da1-8e25-4101-8e23-41c2b1c2e402
+6.65095,3.29619,,Point,LA,OSGOF,Mountain Of Fire And Miracles,LASAMO05,Church,19f4477e-4d5f-4608-8fec-d1c5c0e0f48b
+6.43921,3.52274,,Point,LA,OSGOF,Mountain Of Fire Idado,LASEOA04,Church,1a090a22-d54a-4a54-9764-87d8460b956c
+6.60876,3.42245,,Point,LA,OSGOF,Christ Massiah Gospel Church Owode Ajegunle,LASKSE14,Church,1aa54ac0-87ec-4820-8ee6-1b3d044de227
+6.49923,3.39565,,Point,LA,OSGOF,Methodist Church Sogunro Orile,LASLMD02,Church,1ab2ca5f-2995-42f6-a47d-869b794cb2d7
+6.55437,3.32858,,Point,LA,OSGOF,St Jude Catholic Church Mafoluku,LASOIO15,Church,1ad55447-5289-494f-ac03-904c8c9a610a
+6.45068,3.54974,,Point,LA,OSGOF,St Peter's Anglican Church Ikota,LASEOA04,Church,1b4483bd-e834-40e2-b1e8-7964799261cc
+6.66493,3.32308,,Point,LA,OSGOF,The Word Of Judah Ifako,LASIOE11,Church,1b677fdc-16f4-485e-8645-b4e0aef69b88
+6.58166,3.24419,,Point,LA,OSGOF,Christ Apostolic Church Oke Iyaun,LASAMO15,Church,1bd1d208-7092-4e9e-85c8-f96336c76fba
+6.60777,3.34317,,Point,LA,OSGOF,Zion Church Ajegunle,LASIKA17,Church,1bd6fbf3-7b6a-4f00-8f53-68b6d3de41d3
+6.45139,3.35,,Point,LA,OSGOF,Holy Assembly Of Christ Olodi Apapa,LASATO16,Church,1c9545ec-4ca9-4d0a-aef8-9407080ad7cc
+6.48651,3.36907,,Point,LA,OSGOF,Christ Apostolic Church Abule Nla Olaleye,LASLMD11,Church,1ca213c1-9d27-425a-a1aa-725b43a70c78
+6.54576,3.30875,,Point,LA,OSGOF,Foursqaure Gospel Church Mewom,LASOIO09,Church,1cc5ddab-bb68-4f7b-81e3-ade3af6f4d60
+6.50733,3.38375,,Point,LA,OSGOF,The Redeemed Christ Church 1 Onike,LASLMD15,Church,1cd99098-0fc5-4f7b-81bf-97f86df27300
+6.51312,3.33811,,Point,LA,OSGOF,St Paul Anglican Church Itire,LASMUN17,Church,1ce4e859-f4a7-40b6-bef1-2ad10aa3216a
+6.641438,3.479404,,Point,LA,eHA_Polio,Dominion Ministry,LASIKU28,Church,1cecba5f-46db-4552-905c-4e45afa896a0
+6.49291,3.32743,,Point,LA,OSGOF,The Churchof The Lord Ijeshatedo,LASSUE03,Church,1cf37392-73a2-4350-b13f-c709399c6bae
+6.45523,3.52207,,Point,LA,OSGOF,Apostolic Church Of Christ Ajiran,LASEOA04,Church,1d25cb9b-55b6-4cf6-9338-66af049d6c15
+6.45545,3.33776,,Point,LA,OSGOF,Christ Apostolic Church Onibaba,LASATO02,Church,1d5acdf8-ec40-4187-be0f-28507df405b0
+6.53524,3.34391,,Point,LA,OSGOF,C And S Oremeji Parish Papa Ajao,LASMUN19,Church,1df4e813-8c52-4360-a1c1-9131fdddc79a
+6.44473,2.88604,,Point,LA,OSGOF,The Gospel Faith Mission Tozunkanmeh,LASBDY03,Church,1e071b37-749f-4a5f-baeb-87facd6a7760
+6.45979,3.33238,,Point,LA,OSGOF,Catholic Church Layeni,LASATO14,Church,1e48d092-27bc-43bc-be7f-6b7d2ce97a66
+6.65873,3.79374,,Point,LA,OSGOF,Redeemed Christian Church Of God Itoikin,LASEPE09,Church,1e4dc8aa-cab7-42c4-9171-e1c11bc03bd9
+6.62435,3.31953,,Point,LA,OSGOF,Holy Micheal Mission Oke Koto,LASAGG01,Church,1e53cb95-f51a-4e09-a4b3-0d874774d475
+6.50199,3.58304,,Point,LA,OSGOF,Redeemed Christian Church Of God Addo Kekere Owode,LASEOA02,Church,1e53d5eb-0401-4f53-91db-2347c406fdf7
+6.64032,3.71209,,Point,LA,OSGOF,First Baptist Church Agbowa,LASEPE02,Church,1e5d4710-ccd7-43c2-b938-b047218c636e
+6.46002,3.13504,,Point,LA,OSGOF,One Word Bible Church Shibiri Village,LASOJO07,Church,1e6b6f48-c0a6-4f67-bcdf-b74d3ae45cdc
+6.56632,3.28393,,Point,LA,OSGOF,Calvary Bible Church Idimu,LASAMO22,Church,1e7238f6-802f-4405-a7cd-17722959c6b1
+6.50599,3.60411,,Point,LA,OSGOF,Mountain Of Fire Badore,LASEOA06,Church,1e7d6f18-e58e-4614-92c2-7d635e5687a7
+6.56492,3.33532,,Point,LA,OSGOF,Christ Witness Mission Mafoluku,LASOIO08,Church,1ea212af-38c2-4a35-ae4f-ae0c9dfcec25
+6.52607,3.3888,,Point,LA,OSGOF,Celestial Churchurch Of God Church Akoka,LASSMU02,Church,1f0ca2fc-3fe0-49b0-8bb9-faa1c37188a7
+6.44673,3.32858,,Point,LA,OSGOF,Pentecostal Church Ibafon,LASATO09,Church,1f22744d-9b37-4d91-bee5-6cb16b3f4861
+6.51743,3.33975,,Point,LA,OSGOF,K And S Oremeji Parish Abule Igbehin,LASMUN17,Church,1f83b046-a25e-465c-a255-d2e95cd669ad
+6.52389,3.34105,,Point,LA,OSGOF,Christ The King Catholic Church Mushin,LASMUN01,Church,1fa26c9f-22af-4651-8446-3e12b39ed505
+6.49155,3.3477,,Point,LA,OSGOF,Kingdom Tap Owners Aguda,LASSUE13,Church,1fa4cbc8-15b7-4747-adb6-721392329c65
+6.44374,3.34015,,Point,LA,OSGOF,Apostolic Church Alakoto,LASATO15,Church,1fbca362-92df-464b-9bd4-885504d050ba
+6.60647,3.98821,,Point,LA,OSGOF,Fountain Of Joy Baptist Church Odomola,LASEPE11,Church,1fd188cc-b31e-49f7-b925-99417c63ec64
+6.4962,3.11632,,Point,LA,OSGOF,Anglican Church Of God Awori,LASOJO13,Church,1fe37918-d245-4c23-9217-19c36ceab9ea
+6.61314,3.50442,,Point,LA,OSGOF,Methodist Church Ikorodu,LASIKU17,Church,1ffcc7de-5dec-4598-945e-c8f6d61116a5
+6.67092,3.73457,,Point,LA,OSGOF,St John Anglican Church Otta,LASEPE05,Church,200ee928-8f6d-45ff-81ed-5c484752841c
+6.50595,3.20016,,Point,LA,OSGOF,Celestial Christ Church Of God Iba Town,LASOJO04,Church,20ec6e82-eecc-418c-920b-1a8d288d7af8
+6.54004,3.30125,,Point,LA,OSGOF,Redeemed Christian Church Of God 1 Ejigbo,LASOIO09,Church,20f7a83a-f930-463c-8518-399cc515cda5
+6.51265,3.3222,,Point,LA,OSGOF,Redeemed Christ Church 2 Okota,LASOIO13,Church,21051170-ba61-4136-855f-2eeb53e7d9ad
+6.5051,3.33645,,Point,LA,OSGOF,The Worshippers Assembly Itire,LASSUE18,Church,210b9357-f8a4-4cac-abc0-8d6513c4976d
+6.44533,3.34278,,Point,LA,OSGOF,C M E C Tolu,LASATO15,Church,21125a11-8e16-40bf-86f5-6031d5f7784d
+6.55123,3.26874,,Point,LA,OSGOF,C A C Victory Land,LASAMO20,Church,2132bd77-7375-4f54-9aec-ec42a8cd37a5
+6.41641,3.35861,,Point,LA,OSGOF,St James Chatholic Church Agbojedo Village,LASAPA02,Church,2141c88f-530d-4acd-a1c1-9958728b8a27
+6.45803,3.23115,,Point,LA,OSGOF,Deeper Life Bible Church Onireke,LASAON01,Church,216c6282-2636-4365-886a-0d58833c2172
+6.54073,3.25793,,Point,LA,OSGOF,Redeemed Christian Church Of God Glory Terbanacle,LASAMO01,Church,2174a379-8791-404c-ab8f-adb6376a66df
+6.45553,3.40096,,Point,LA,OSGOF,Saviour Flock Of Chirst,LASLID06,Church,2197e522-7c7b-474a-a0f4-2c174a877b44
+6.49909,3.38786,,Point,LA,OSGOF,The Apostolic Church Makoko,LASLMD12,Church,220174c9-3fe5-42a7-8148-b7cf533c2473
+6.52542,3.38193,,Point,LA,OSGOF,Beula Celestial Church Of Chri,LASSMU07,Church,22230a9b-6c92-4f26-912f-bbb9bd4abd12
+6.55835,3.34518,,Point,LA,OSGOF,St Peter's Anglican Church Oshodi,LASOIO11,Church,228be090-e557-4551-aad9-8feffc6d3ec4
+6.5079,3.37256,,Point,LA,OSGOF,The Capstone Church Yaba,LASLMD10,Church,22c6ed2b-2584-4d63-8a4c-4059d3964d0d
+6.48497,3.35489,,Point,LA,OSGOF,The Redeemed Church Abebe,LASSUE11,Church,22df7eac-bcbb-4390-9461-ac3089babf60
+6.47564,3.33286,,Point,LA,OSGOF,The Redeemed Church Coker,LASSUE09,Church,236acafc-124e-4580-9aed-47abc726df70
+6.45628,3.3975,,Point,LA,OSGOF,St Andrews Church Oke Popo,LASLID16,Church,23a50c6c-3e9d-4b73-acf4-ae702ef7b92a
+6.60545,3.34062,,Point,LA,OSGOF,The Apostolic Church Abule Otegbile,LASIKA17,Church,242081fd-4d2b-4a3d-abab-f8e76ebc5540
+6.41624,3.28397,,Point,LA,OSGOF,Victory Baptist Church Ilashe Town,LASAON06,Church,2430c4bd-d651-4c93-abb8-cfa10dff2737
+6.50109,3.19904,,Point,LA,OSGOF,Kings Of Kings Lord Of Lords,LASOJO04,Church,244291bd-423a-4785-b0c6-778125030e08
+6.45576,3.21275,,Point,LA,OSGOF,Catholic Church Ira Quarter,LASOJO08,Church,247b7db3-3592-4e8d-86f4-06932bf87f36
+6.50953,3.39241,,Point,LA,OSGOF,Celestial Church Of Christ Iwaya,LASLMD18,Church,24dae3a6-c786-4d3d-98bc-0769fc91cd68
+6.46848,3.73624,,Point,LA,OSGOF,Word Of Salvation Int'l Ministry Ajebo,LASIUI04,Church,250152eb-689e-42cc-9947-297d06bedcda
+6.44329,3.46921,,Point,LA,OSGOF,All Souls Church Chapel Lekki,LASEOA10,Church,2501ed60-a20e-4f2b-a3ed-6674f9548508
+6.54665,3.39571,,Point,LA,OSGOF,Receed Living Power Eyingbo Apelehin,LASSMU16,Church,251b43fe-1397-49fb-a320-f60aab29b991
+6.52817,3.35017,,Point,LA,OSGOF,Tadeto Baptist Church Mushin,LASMUN12,Church,2529055d-b2b4-49c0-9022-1023320acd45
+6.47901,3.37432,,Point,LA,OSGOF,Redeemed Christian Church Of God Ilaje Otumara,LASLMD08,Church,252c877a-2dfb-4895-a783-f45c84d7954f
+6.45128,3.19212,,Point,LA,OSGOF,St John's Catholic Church Ilufe Town,LASOJO11,Church,25477adc-05c7-4af8-a415-f8433c6d83e7
+6.43867,3.36218,,Point,LA,OSGOF,Sacred Heart Catholic Apapa,LASAPA02,Church,257d0665-20c1-4403-b42e-4f938d1a0ea1
+6.49198,3.33787,,Point,LA,OSGOF,The Redeemed Church Aguda,LASSUE12,Church,25b3e510-35fe-4a85-a924-8f373c0caf42
+6.52903,3.30326,,Point,LA,OSGOF,Cherubim And Seraphim Church Oke Afa,LASOIO17,Church,25beadac-9891-4abe-a49d-fae4375da13c
+6.44642,3.34648,,Point,LA,OSGOF,Abundant Wealth Of God Church Tolu,LASATO13,Church,25ccf133-afe7-4b85-8bf9-69c48509a5ec
+6.53789,3.34438,,Point,LA,OSGOF,Christ World Outreach Papa Ajao,LASMUN19,Church,25ecce7e-7242-4ef7-a504-e602e0edeed6
+6.43706,3.04707,,Point,LA,OSGOF,K And S Church Igbanko Village,LASBDY15,Church,2630b36f-d675-4d4a-ba88-d7fc5810c192
+6.52449,3.29198,,Point,LA,OSGOF,Redeemed Christian Church Of God 1 Ailegun,LASOIO03,Church,2687125d-62ff-475f-9e8c-52ef775eb15d
+6.49611,3.11388,,Point,LA,OSGOF,United African Methodist Church Oto Awori,LASOJO13,Church,26b50db4-1378-4f7b-b476-4282f99fd336
+6.54132,3.31561,,Point,LA,OSGOF,Anglican Church Ilamoshe,LASOIO12,Church,26ba4d95-7104-4344-8acd-1d5ef8110305
+6.5082,3.32149,,Point,LA,OSGOF,Power Pentecostal Okota,LASOIO18,Church,26fad901-e421-4874-8b02-511b29d5f99f
+6.5303,3.32586,,Point,LA,OSGOF,Redeemed Christian Church Of God 1 Isolo,LASOIO05,Church,2737779b-b67e-4d83-b961-a418b79271da
+6.45728,3.34256,,Point,LA,OSGOF,Redeemed Christian Church Of God 2 Onibaba,LASATO02,Church,27995222-83dd-4d1c-a1fa-e96b56e9c0e9
+6.56469,3.3304,,Point,LA,OSGOF,Liberty Evanglical Church Afijalo,LASOIO19,Church,279af2c4-845d-4517-9228-c448a1936ec9
+6.53837,3.39232,,Point,LA,OSGOF,Abule Okuta Anglican Church Abule Okuta,LASSMU03,Church,27b315d5-7e73-4125-bf04-6216352e0550
+6.62468,3.32341,,Point,LA,OSGOF,Saviour Cathedral Sango Agege,LASAGG01,Church,27b82df9-4ee9-4cfa-a42d-800eab788556
+6.51326,3.27883,,Point,LA,OSGOF,Anglican Church Place Ofr,LASAMO27,Church,28314f2c-0c0d-49f7-a328-f4eba7aab721
+6.56216,3.27304,,Point,LA,OSGOF,God Mercy Revival Isheri Olofin,LASAMO28,Church,2832b051-64ea-4edc-9e64-71b2042a10ae
+6.53222,3.33137,,Point,LA,OSGOF,All Saints Anglican Church Isolo,LASOIO06,Church,28f6124d-b970-4966-926f-3516d1c16450
+6.55418,3.29766,,Point,LA,OSGOF,Redeemed Christian Church Of God 2 Ageke,LASOIO10,Church,292f51c8-098d-480b-a224-878fdcbd5a5f
+6.49688,3.37702,,Point,LA,OSGOF,Jesus Foundation Church Alagomeji,LASLMD05,Church,2946d165-f0ff-45f2-b8e5-2ab361f63a3f
+6.66349,3.26641,,Point,LA,OSGOF,Redeemed Christian Church Of God Lord Garden Park,LASAMO11,Church,294bbac2-33a5-4202-817f-e9310685b670
+6.52461,3.35077,,Point,LA,OSGOF,St Peters Church Mushin,LASMUN11,Church,29824b07-082a-438b-8f9c-7e8427383365
+6.60342,3.27383,,Point,LA,OSGOF,Jesus The Key Baruwa,LASAMO21,Church,29a946c7-8804-4f9f-9e3c-ab31ab9b2d4e
+6.51209,3.34234,,Point,LA,OSGOF,Mount Zion Light House,LASMUN17,Church,29d6ccd8-7f8d-4ee6-8df3-084dfff5d191
+6.4809,3.37594,,Point,LA,OSGOF,Christ Apostolic Church Ebute Metta,LASLMD08,Church,2a191000-51c1-43cd-87ea-c16910a3e55d
+6.48215,3.34343,,Point,LA,OSGOF,Anglican Church Orile Iganmu,LASSUE19,Church,2a915d4b-a18c-4d76-a980-b51efc0dd006
+6.46412,3.38964,,Point,LA,OSGOF,United African Methodist Church Isale Eko,LASLID08,Church,2aa57217-91a4-4981-b476-476d0a87df75
+6.44796,3.32531,,Point,LA,OSGOF,Redeemed Christian Church Of God Olodi Apapa,LASATO13,Church,2aa8fa4c-7478-45eb-aa05-b87ab353a87d
+6.52517,3.38654,,Point,LA,OSGOF,International Church Of Christ Akoka,LASSMU02,Church,2ac7909e-9e09-47f4-8112-c8366d2f2e80
+6.53659,3.34925,,Point,LA,OSGOF,Deaconess Adetayo Adelanwa Church Mushin,LASMUN12,Church,2ae69729-a8d7-4b37-9fe3-4f58214a6533
+6.49938,3.38837,,Point,LA,OSGOF,Evangelical Church Of West Africa Church Makoko,LASLMD12,Church,2af15d29-3cb5-4fd0-9911-056329e188da
+6.44374,3.42016,,Point,LA,OSGOF,St John's Anglican Church Ikoyi,LASEOA12,Church,2af89703-0ddb-4a8a-9546-5875bf73ac50
+6.53145,3.38036,,Point,LA,OSGOF,St John Parish Bajulaiye,LASSMU11,Church,2b0e967e-a639-4cb6-b6ac-473704ddbdc0
+6.63801,3.34588,,Point,LA,OSGOF,Word Of Faith Redeemed Christian Church Of God,LASIKA01,Church,2b50d595-88ef-4306-910e-3614f61d4464
+6.61423,3.37302,,Point,LA,OSGOF,Redeemed Christian Church Of God Winners Chapel Shangisha,LASKSE21,Church,2b6e7951-3a7c-4b67-8351-35267f497505
+6.53458,3.24909,,Point,LA,OSGOF,Celestial Church Of Christ Igbekele Olu,LASAMO01,Church,2b8f688a-8d67-4850-87b3-512787af3770
+6.54986,3.24309,,Point,LA,OSGOF,The Apostolic Church Igando,LASAMO23,Church,2ba36ab4-5e61-4a63-b82b-21252563b5ee
+6.48795,3.35888,,Point,LA,OSGOF,The Redeemed Church 1 Iponri,LASSUE11,Church,2bbab83d-dd13-4417-a8cb-ca1e0f265d5d
+6.47145,3.56607,,Point,LA,OSGOF,Deeper Life Bible Church Ajah Thomas,LASEOA03,Church,2bcd7af8-1ae9-4012-af31-de285627dc0f
+6.50369,3.36001,,Point,LA,OSGOF,St Anthony Catholic Church Surulere,LASSUE10,Church,2bf62e5f-f4c2-4668-9a5d-2f94115c7364
+6.47335,3.32851,,Point,LA,OSGOF,Foursquare Gospel Church Coker,LASSUE09,Church,2c379a8b-2b99-46d1-9050-f805e48178b3
+6.50861,3.32915,,Point,LA,OSGOF,Christ Apostolic Church Okeiye,LASMUN14,Church,2c3ce5fe-2b8e-4dcc-95a5-4a8d2525e6ea
+6.47351,3.62681,,Point,LA,OSGOF,Foursquare Gospel Church Sango Tedo,LASEOA18,Church,2c5267db-d222-426e-98c0-7a05552ae5f7
+6.47103,3.34823,,Point,LA,OSGOF,Redeemed Christian Church Of God Amukoko,LASATO12,Church,2c6edf4d-d79a-4e0d-afb4-57af8e69b6a2
+6.61872,4.04792,,Point,LA,OSGOF,C And S Church Ajegbende,LASEPE11,Church,2c862e49-fa1d-4018-8a25-d122717cfb28
+6.49796,3.11057,,Point,LA,OSGOF,Redeemed Christian Church Of God Oto Awori,LASOJO13,Church,2ca04d00-a310-4179-ba1b-b583653890ff
+6.53559,3.38828,,Point,LA,OSGOF,Christ Holy Church Nation,LASSMU01,Church,2cb15ebf-1fbe-498e-9d0f-597c843be96a
+6.44293,3.33614,,Point,LA,OSGOF,Redeemed Christian Church Of God Alakoto,LASATO04,Church,2d4d0ce6-82ad-4c9d-975e-84d78bdd667a
+6.55133,3.33871,,Point,LA,OSGOF,Redeemed Christian Church Of God Afariogun,LASOIO01,Church,2e047da3-c9e2-44fb-b9bb-ef8228f99cf7
+6.5243,3.38561,,Point,LA,OSGOF,Christ Embassy Church Akoka,LASSMU02,Church,2e25785a-b7d1-41ec-a389-7a00ef7c0f18
+6.57086,3.3405,,Point,LA,OSGOF,The Glorious Church Ladipo,LASOIO08,Church,2e277176-d005-4055-b46a-0c44f64f78be
+6.64039,3.71538,,Point,LA,OSGOF,C A C Oke Ibukun Agbowa,LASEPE02,Church,2e7d68ad-8103-45ca-852d-06680ff11052
+6.57027,3.2997,,Point,LA,OSGOF,Christ Apostolic Church Paiko,LASOIO02,Church,2eadfacb-a61c-4791-9eee-854c431da070
+6.45649,3.34138,,Point,LA,OSGOF,Kingdom Hall Of Jehovah Witness Onibaba,LASATO02,Church,2ed22d3a-d5c3-47c4-bc12-14a02293adb0
+6.55545,3.30519,,Point,LA,OSGOF,Cherubim And Seraphim Church Ageke,LASOIO02,Church,2edb2796-2021-4471-90ce-0d963d2c176c
+6.62228,3.32952,,Point,LA,OSGOF,Christ Apostolic Gospel Church Keke,LASAGG06,Church,2ee00748-6f6e-4a5a-9475-f277fdc21745
+6.46717,3.33811,,Point,LA,OSGOF,The Apostolic Church Amukoko,LASATO06,Church,2f12780d-a808-4fa3-9b81-45f5d766e5c4
+6.59885,3.25753,,Point,LA,OSGOF,Zion Mission Imc Church Ipaja,LASAMO13,Church,2f2ecf45-56bd-40d4-868d-b3cf6b35eaa6
+6.46091,3.33902,,Point,LA,OSGOF,The Eternal Sacred Church Layeni,LASATO10,Church,2faafb2e-ded9-46e6-a4d4-81eb94cfb8d2
+6.50193,3.38579,,Point,LA,OSGOF,Memorial Gospel Church Makoko,LASLMD12,Church,2fb832c7-dda8-450c-a6b3-06ca2a134328
+6.45931,3.34115,,Point,LA,OSGOF,Apostolic Church Layeni,LASATO10,Church,30a40b73-85db-4ed9-adfd-83cfd4c7bcd4
+6.53912,3.30342,,Point,LA,OSGOF,Redeemed Christian Church Of God 3 Ejigbo,LASOIO09,Church,30ac89a6-c2e7-46b4-b7f3-11a0c67d1f2f
+6.54639,3.30718,,Point,LA,OSGOF,Paramount Apostolic Church Mewom,LASOIO09,Church,30bf278a-496a-4574-ab6e-04797ed1c5b3
+6.6046,3.2734,,Point,LA,OSGOF,Foursqaure Gospel Church Abesan,LASAMO29,Church,30d63f7d-b556-414b-9e09-afa9c136723b
+6.55322,3.29572,,Point,LA,OSGOF,Calvary Assembly Agbaka,LASOIO10,Church,3105c177-9aca-4aa1-b788-faef38f0b0a5
+6.5997,3.38074,,Point,LA,OSGOF,The Apostolic Oke Igbala,LASKSE11,Church,3194bf19-1bb5-4472-b447-98c7c267b128
+6.45702,3.35891,,Point,LA,OSGOF,Immanuel Anglican Church Marine Beach,LASAPA09,Church,319c91ff-9844-4dd7-9263-6acb7509faa2
+6.62071,3.25339,,Point,LA,OSGOF,Mountain Of Fire And Miracles Ikola,LASAMO07,Church,323eb5f6-4cd6-4f44-9669-8e492e70a85b
+6.51877,3.36039,,Point,LA,OSGOF,Brotherhood Of The Cross,LASMUN05,Church,326a7f8d-43dd-4881-8328-13e946a6b451
+6.467,3.56152,,Point,LA,OSGOF,Celestial Church Of God Aiyetoro Ajah,LASEOA03,Church,327326d7-2b2e-4c27-b093-5f1cd20549fe
+6.6006,3.30586,,Point,LA,OSGOF,Anglican Church Akowonjo,LASAMO35,Church,32acf1ca-6f22-49fc-975f-230eda297f24
+6.41114,3.08912,,Point,LA,OSGOF,C And S Church Of Christ Ojogun,LASBDY15,Church,32bfbbfa-6502-480b-8502-f16755db83f4
+6.47894,3.33876,,Point,LA,OSGOF,Obabi Olorun Kosi,LASSUE07,Church,32f10ebd-dafc-4a8b-946c-0a178ec45f10
+6.67684,3.29457,,Point,LA,OSGOF,Redeemed Christian Church Of God Ijaiye Ojokoro,LASIOE07,Church,331537e6-f6c4-4cec-916c-5cca00b8dea8
+6.45521,3.23141,,Point,LA,OSGOF,Mountain Of Fire And Miracle Ministry Omila Rd,LASAON01,Church,3342619e-8086-4dad-b05d-ef444f7dde38
+6.63428,3.30484,,Point,LA,OSGOF,Cherubim And Seraphim Church Orile Agege,LASAGG08,Church,3373bfa1-00bb-4ac5-96b7-3f7f86b724cf
+6.43116,3.52383,,Point,LA,OSGOF,Church Of The Advent,LASEOA15,Church,337e2caa-7b8f-485f-ae39-573070b68c03
+6.45462,3.34367,,Point,LA,OSGOF,Redeemed Christian Church Of God Ajegunle,LASATO02,Church,33bc9fde-c516-4295-aa93-8d4ada9841d2
+6.67122,3.28816,,Point,LA,OSGOF,Live Changer Church Ijaiye Ojokoro,LASIOE08,Church,33e90752-2e72-4332-8efa-c33470473440
+6.5942,3.35951,,Point,LA,OSGOF,Strong Tower Baptist Church Opebi,LASIKA14,Church,345478cb-2349-4ede-9541-3395e5c6fed6
+6.45443,3.34449,,Point,LA,OSGOF,Christ The King Anglican Church Ajegunle,LASATO02,Church,34770c7e-e322-430b-b3df-442699d58c8c
+6.54786,3.27336,,Point,LA,OSGOF,Synagogue Church Egbe,LASAMO20,Church,347ae6db-fcdc-4d73-882e-818d42998e4a
+6.62422,3.29957,,Point,LA,OSGOF,Christ Apostolic Church Isale Odo,LASAGG04,Church,347c0b62-1895-4c82-9ffd-ee672f79d01b
+6.47591,3.34344,,Point,LA,OSGOF,Communion Delieverance Sari Iganmu,LASAPA03,Church,348a99e8-0f16-419f-b330-66b22c23dfac
+6.55117,3.29593,,Point,LA,OSGOF,Assemblies Of God Church Agbaka,LASOIO10,Church,34c5ef81-fb91-46ea-9df2-906ad4842c44
+6.5046,3.34422,,Point,LA,OSGOF,Bethel Bible Church Ikate,LASSUE20,Church,34da28d1-25d6-4cbe-be3e-9fd1a14e2720
+6.43638,3.50299,,Point,LA,OSGOF,His Heavenly Light Igbokusu,LASEOA10,Church,34da84cc-a668-41bc-bd1f-4647fc600873
+6.51803,3.3445,,Point,LA,OSGOF,Revival Fire Mission Mushin,LASMUN17,Church,35735a55-1581-4b85-8b27-967acc389c79
+6.52454,3.36321,,Point,LA,OSGOF,Redeemed Church Idi Oro,LASMUN02,Church,35813650-c6f2-4638-8d1b-8aab48394592
+6.50474,3.38596,,Point,LA,OSGOF,St Steve Catholic Church Iwaya,LASLMD04,Church,35a60b8c-f171-4472-b9bc-f14886db67f7
+6.50407,3.3392,,Point,LA,OSGOF,Jehovah Kingdom Ikate,LASSUE18,Church,35b810bb-ac30-4ba3-b543-c7f01ceef5a4
+6.54734,3.30869,,Point,LA,OSGOF,Christ Apostolic Church Mewom,LASOIO09,Church,362ae179-aed3-41f5-b505-bad19cec018e
+6.415543,3.252232,,Point,LA,eHA_Polio,Four Square Gospel Church,LASAON06,Church,3671e48a-9703-49fc-952f-63b19b6f7f74
+6.56632,3.33815,,Point,LA,OSGOF,Uppe Room Baptist Church Afijalo,LASOIO16,Church,3699e61e-8ce4-4346-9a7f-277ba2c75b17
+6.382444,2.730724,,Point,LA,eHA_Polio,Apostolic Church,LASBDY10,Church,36a151a3-3062-4c64-a5d4-cac3be22298b
+6.53049,3.37914,,Point,LA,OSGOF,Four Square Gospel Church Igbari Akoka,LASSMU04,Church,36bed97a-ff84-4b9d-9718-264f6900a883
+6.45247,3.40343,,Point,LA,OSGOF,Holy Christ Apostolic Church Lafiaji,LASLID12,Church,36c4bfb0-5133-451c-8e97-1631bcd61600
+6.53591,3.36232,,Point,LA,OSGOF,Church Of Christ Onipanu,LASMUN18,Church,3716f423-1bda-476c-adde-9e3eac01311f
+6.49019,3.34767,,Point,LA,OSGOF,Ogo Oluwa Kiitan Church Aguda,LASSUE22,Church,37430941-3481-4cf5-bde6-54ac83be67c5
+6.48558,3.3422,,Point,LA,OSGOF,The Word Of Life Church Orile Iganmu,LASSUE22,Church,3752b1f7-d24e-4d93-b344-c2af0b5eed33
+6.45098,3.40065,,Point,LA,OSGOF,Mission K And S Aladura,LASLID13,Church,37560293-f9d8-4681-b064-f8cb7578066d
+6.65345,3.25458,,Point,LA,OSGOF,Redeemed Christian Church Of God Agape Church Amikanle,LASAMO11,Church,376077e6-000e-44e0-a9b5-82969b22c0a2
+6.55237,3.33104,,Point,LA,OSGOF,Celestial Church Mafoluku,LASOIO15,Church,376f4f3f-7d7b-47e7-9cd7-358f57882338
+6.45507,3.21306,,Point,LA,OSGOF,The Living Word Evangelican,LASOJO08,Church,37bab7ee-d965-438a-9513-2feec4ba944d
+6.57663,3.27442,,Point,LA,OSGOF,Redeemed Christian Church Of God Peace House,LASAMO28,Church,37e61673-249f-45cb-9953-acaf2deceee9
+6.5332,3.3575,,Point,LA,OSGOF,Araromi Baptist Church Odi Olowo,LASMUN03,Church,38299725-a2de-49e2-9be3-d9cdd9289cce
+6.59106,3.29693,,Point,LA,OSGOF,Christ Royal Cathedral Egbeda,LASAMO30,Church,386f2f11-d294-4286-9a3a-ce61ace78104
+6.4607,2.87114,,Point,LA,OSGOF,United Africal Methodist Churc,LASBDY19,Church,38b951de-d113-48bc-8b8d-45a217602c72
+6.55294,3.29768,,Point,LA,OSGOF,Methodist Church Ageke,LASOIO10,Church,38bdc013-a4b2-4af7-9e92-8b338eac3c74
+6.52734,3.32547,,Point,LA,OSGOF,St Paul Anglican Church Ishagatedo,LASOIO14,Church,392d46a6-c20f-4085-9d19-fd29bdf03324
+6.48545,3.34868,,Point,LA,OSGOF,Global Impact Church Abebe,LASSUE11,Church,39567ded-a4c4-45f1-afdd-9c1d7f0af86a
+6.54756,3.37256,,Point,LA,OSGOF,Four Square Gospel Church Obanikoro,LASSMU15,Church,3a1198a9-bc06-4c2f-81e3-6cdab3cf3799
+6.53441,3.37463,,Point,LA,OSGOF,St Paul Anglican Church Shomolu,LASSMU13,Church,3a5d5e65-a407-4e46-82ab-5554430ec125
+6.5879,3.28522,,Point,LA,OSGOF,Redeemed Christian Church Of God Overcomer Assembly Abule Odu,LASAMO28,Church,3a7ea76d-0bd1-4f3a-b5c1-dbc114ccc306
+6.50654,3.38189,,Point,LA,OSGOF,Victory Apostolic Church Onike,LASLMD15,Church,3a9011c2-c044-4252-8c31-bb7e19e47974
+6.53384,3.2748,,Point,LA,OSGOF,Celestial Church Of Christ Ibukun Oluwa,LASAMO18,Church,3ad02ebd-922f-423b-b71e-2129f37cd924
+6.52231,3.36159,,Point,LA,OSGOF,Christ Apostolic Church Idi Oro,LASMUN04,Church,3b049d06-e147-46e6-a5e1-14710118b913
+6.66,3.27414,,Point,LA,OSGOF,C And S Movement Orisun,LASAMO06,Church,3b1db2a4-f9a7-413e-9a41-100e3397c129
+6.51643,3.337,,Point,LA,OSGOF,Redeemed Civist Parish Abule Igbehin,LASMUN17,Church,3b3781d1-2132-4ae2-88a5-c6cd488c00ab
+6.51752,3.34229,,Point,LA,OSGOF,Assemblies Of God Church Abule Igbehin,LASMUN17,Church,3b4e43b0-21dc-4d33-ba47-d0c2d2677a54
+6.5546,3.34075,,Point,LA,OSGOF,New Paradise Church Orile Oshodi,LASOIO01,Church,3b625562-8311-4b01-a1dc-6b0db3b3689a
+6.50852,3.33609,,Point,LA,OSGOF,The Redeemed Church 1 Itire,LASSUE18,Church,3b6721b5-1a19-4039-ae7d-84be3aea89d5
+6.45808,3.22,,Point,LA,OSGOF,The Eternal Sacred Order C And S,LASOJO08,Church,3b67ec19-06f0-4497-93a7-2ff05eaea576
+6.46519,3.56203,,Point,LA,OSGOF,Bethel Church Ilaje Ajah,LASEOA03,Church,3b76c174-1d6f-4293-a551-41851914f0bb
+6.64727,3.36041,,Point,LA,OSGOF,Redeemed Christian Church Of God Ojodu,LASIKA08,Church,3baf5fdf-c1cc-4aef-bf57-49425651c621
+6.51152,3.32009,,Point,LA,OSGOF,Celestial Church Okota,LASOIO18,Church,3bba6a9b-057f-46f2-92f7-6646be5ebf92
+6.55045,3.2753,,Point,LA,OSGOF,Wosem Rivival Church Egbe,LASAMO20,Church,3bbb0ecc-ba06-4842-949f-ed27f860054f
+6.55811,3.34803,,Point,LA,OSGOF,The Light Evanglical Church Igbehin Adun,LASOIO11,Church,3bd09313-4785-4b9b-b83f-ee0b214d842d
+6.57477,3.22005,,Point,LA,OSGOF,Christ Apostolic Church Oke Iyanu,LASAMO15,Church,3bd10d34-2159-40cc-8638-c1ce14c45b1d
+6.56935,3.37475,,Point,LA,OSGOF,Redeemed Christian Church Of God Milk And Honey,LASKSE13,Church,3bfa4133-ca95-4501-9996-255ffd7757bc
+6.62437,3.30017,,Point,LA,OSGOF,Foursquare Church Isale Odo,LASAGG04,Church,3c033cd4-98c6-429a-b00f-2f2f2f056f6f
+6.57503,3.34176,,Point,LA,OSGOF,St Peter's Anglican Church Shogunle,LASOIO20,Church,3c17b28d-98f0-499e-8e77-f9eb4ce0ab22
+6.46271,3.17309,,Point,LA,OSGOF,S P M Church Sabo Oniba Town,LASOJO14,Church,3c578037-27c0-427a-98a1-4a4fb71a4b68
+6.44136,3.34201,,Point,LA,OSGOF,Anglican Church Tolu,LASATO15,Church,3c60a5f7-5101-4308-b757-04e9029cb0b9
+6.53701,3.29372,,Point,LA,OSGOF,Cherubim And Seraphim Church Ailegun,LASOIO03,Church,3c72aeec-a501-4a37-a1a6-65deaf272428
+6.57778,3.2833,,Point,LA,OSGOF,C And S Movement Church Idimu,LASAMO36,Church,3c8f8552-1923-4674-b47a-c2b74c1b502c
+6.51261,3.34393,,Point,LA,OSGOF,Apostolic Church Solution Centre,LASMUN17,Church,3d0830be-91ac-4bc9-b50c-fb88e4c6fbed
+6.64371,3.32331,,Point,LA,OSGOF,Pentecoastal Assembly Ifako,LASIOE02,Church,3d2ca288-050b-459b-af2d-f4bfb9318c5d
+6.49752,3.32804,,Point,LA,OSGOF,Redeemed Christian Church Of God 1 Ijeshatedo,LASSUE02,Church,3d61eea2-3a58-45d7-bedc-9a304faa5aaf
+6.51301,3.34726,,Point,LA,OSGOF,Redeemed Church House Of Grace,LASMUN17,Church,3d7428a3-bc49-4857-8e86-57913c149677
+6.46272,3.18494,,Point,LA,OSGOF,All Christian Practical Prayin,LASOJO14,Church,3dd931ac-01b2-49ed-9f5c-9bb8866a342e
+6.52457,3.38702,,Point,LA,OSGOF,Mercyseat Tabernacle Diocese Akoka,LASSMU02,Church,3ded2a37-535e-4ea6-a6b6-2b889e9e9e27
+6.64013,3.479747,,Point,LA,eHA_Polio,Mountain of Fire and Miracle Ministry,LASIKU28,Church,3df14e0f-e66d-4008-bc81-661fb9fbcc0f
+6.55401,3.47383,,Point,LA,OSGOF,Methodist Church Ebute,LASIKU13,Church,3e2cfb41-ffd2-46e2-874d-4ad7eb1d4dbb
+6.60165,3.30137,,Point,LA,OSGOF,Kingdom Of Heaven Omituntun,LASAMO10,Church,3e459f28-8ea6-4e6b-97ba-ddd9cb83acc3
+6.52981,3.36175,,Point,LA,OSGOF,Emmanuel Anglican Cathedral Baba Oloosa,LASMUN06,Church,3e4e909d-5c38-45c7-a13b-a973142507a5
+6.52852,3.32413,,Point,LA,OSGOF,Redeemed Christian Church Of God 2 Isolo,LASOIO05,Church,3e610a4c-962e-4cb8-8f0f-b05394f6d40b
+6.42952,3.51813,,Point,LA,OSGOF,Bible Life And Power Ministry Ologolo,LASEOA15,Church,3e7fbd39-8107-4103-9ed7-5d57879ce454
+6.41558,3.35999,,Point,LA,OSGOF,Celestial Church Of Christ Siku Village,LASAPA02,Church,3e94b0cf-70b6-460f-8a1f-06b3175f73d8
+6.50091,3.35216,,Point,LA,OSGOF,Redeemed Christian Church Of God Surulere,LASSUE01,Church,3e9d601e-4af7-488f-92a5-62b5c50fc0d8
+6.52471,3.38958,,Point,LA,OSGOF,Menu Chapel Chirst Church Akoka,LASSMU02,Church,3eb61c3d-0847-4242-b2c7-1a8e690b1a28
+6.45685,3.34419,,Point,LA,OSGOF,Christ Embassy Church Ajegunle,LASATO01,Church,3edf6305-a309-45f6-8d44-52aa691c7ac9
+6.4672,3.35195,,Point,LA,OSGOF,The Lord Choice Of Glory Badia,LASATO12,Church,3f21931f-fc3a-4eec-bf01-ef2062186172
+6.67453,3.99568,,Point,LA,OSGOF,Immaculate Conception,LASEPE13,Church,3f62e7f9-63d2-4f96-889c-09be2909d569
+6.63397,3.33971,,Point,LA,OSGOF,Celestial Church Of Christ Ogba Ijaiye,LASIOE10,Church,3f7fe8f3-f0b3-4c03-b726-777d15f5803e
+6.66957,3.98246,,Point,LA,OSGOF,Rcccg Praise Parish Odo Gbawojo,LASEPE15,Church,3fb09ecf-4884-4940-8944-b1101ea97dad
+6.48718,3.38175,,Point,LA,OSGOF,Christ Holy Church African Bet,LASLMD09,Church,3fdcd126-b80c-4023-b4be-3207ae2c8867
+6.58052,3.3837,,Point,LA,OSGOF,New Insigth Baptist Church Ogudu,LASKSE15,Church,3fef81b2-8401-4d66-a355-4ef46ca66ca6
+6.52884,3.37854,,Point,LA,OSGOF,Full Gospel Apostolic Mission Shomolu,LASSMU04,Church,3fffca59-6c82-4928-a09e-1ee66c59caae
+6.60744,3.42237,,Point,LA,OSGOF,Redeemed Evangelical Mission Owode Ajegunle,LASKSE14,Church,4025fa01-2304-486d-b00a-b333881f9543
+6.49301,3.32746,,Point,LA,OSGOF,Holy Covernment Assembly Ijeshatedo,LASSUE02,Church,4084d0e7-df51-4c91-9db7-0ea461f1bf67
+6.4801,3.35162,,Point,LA,OSGOF,Zoe Ministry Abebe,LASSUE11,Church,40c93efe-7d11-421a-8406-340973d44842
+6.56638,3.33882,,Point,LA,OSGOF,Church Of Jesus Christ Ewu Tuntun,LASOIO16,Church,40cb3361-5897-42ff-9e3c-bcf90734ea60
+6.63007,3.32363,,Point,LA,OSGOF,Redeemed Christian Church Of God Ifako,LASIOE02,Church,40d2b0df-8445-472b-abaf-a6d19b3a8588
+6.57144,3.36801,,Point,LA,OSGOF,St Agnes Catholic Church Maryland,LASKSE13,Church,412b4049-4329-43f1-b284-06e3ff229c76
+6.42289,3.52799,,Point,LA,OSGOF,Foursquare Gospel Church Okun Alfa,LASEOA08,Church,4188581b-4e46-490b-ae88-330dec21d65a
+6.47526,3.32755,,Point,LA,OSGOF,Divine Power Resurrection,LASSUE09,Church,418b14d9-f08e-4b78-876d-02a3df372b47
+6.4381,3.51004,,Point,LA,OSGOF,The Church Of Evagelism,LASEOA04,Church,421e52bd-b1b2-46cc-82eb-db1ab74ee2d6
+6.63351,3.32989,,Point,LA,OSGOF,Redeemed Christian Church Of God Ogba Ijaiye,LASIOE10,Church,4232eccd-d1cd-4a64-8a45-329f5cef3f5d
+6.44303,3.33994,,Point,LA,OSGOF,Anglican Church Alakoto,LASATO15,Church,4240748c-772b-4f07-adba-875d9288aaea
+6.54921,3.30415,,Point,LA,OSGOF,Calvary Army Ejigbo,LASOIO09,Church,4244ebc4-380f-41d8-ace4-d6dbbdf3281c
+6.45796,3.197,,Point,LA,OSGOF,Celestial Christian Church Mosafejo,LASOJO11,Church,4298c189-69a0-40d6-abc4-f63c78a969e9
+6.54429,3.39231,,Point,LA,OSGOF,World Harvest,LASSMU03,Church,42bfc4c5-8846-4acc-8e07-df17a83f2ac5
+6.63988,3.34619,,Point,LA,OSGOF,National Church Of Christian Church Aguda,LASIKA01,Church,42eab68f-2e6b-42d1-bbb7-cd1f77597fb8
+6.42723,3.16127,,Point,LA,OSGOF,Proventic Church Itogbesa Riverine,LASOJO09,Church,434ccf08-3d2c-4348-94d8-631e4f32f8cd
+6.46626,3.56091,,Point,LA,OSGOF,Grace And Glory Word Ministry Ayetoro Ajah,LASEOA03,Church,438ca827-cea6-4dde-ab63-6ac16a3a1b18
+6.67681,3.98348,,Point,LA,OSGOF,Deeper Life Bible Church Odo Gbawojo,LASEPE15,Church,43d3dfd5-16e1-49ec-a876-4ceb1448bad5
+6.50212,3.34208,,Point,LA,OSGOF,Living Saints Assembly Ikate,LASSUE15,Church,43ecb407-1ecf-4089-9ec2-b5b502c332e5
+6.44687,3.33134,,Point,LA,OSGOF,Redeemed Christian Church Of God Ibafon,LASATO09,Church,43fb32e0-020e-4342-a43a-2d08489c4628
+6.59776,3.38146,,Point,LA,OSGOF,Redeemed Christian Church Of God Miracle Centre,LASKSE11,Church,440bd4bc-8794-4e50-952b-fc9038e958da
+6.62894,3.30383,,Point,LA,OSGOF,Ligh Of The World Orile Agege,LASAGG04,Church,4423afb7-873b-404f-a154-b7e7bb52f154
+6.49703,3.34219,,Point,LA,OSGOF,St Bathlom Church Aguda,LASSUE15,Church,442a3cb0-b30c-41b9-be9d-1d1c6af936cd
+6.43953,3.49066,,Point,LA,OSGOF,Avemaria Catholic Church Ikate,LASEOA10,Church,4445f7ae-3be4-49f9-b357-d7c020558796
+6.56676,3.33823,,Point,LA,OSGOF,Special Treasure Convention,LASOIO16,Church,446c5977-f405-4da9-b91a-614ceacbb0ec
+6.46268,3.33725,,Point,LA,OSGOF,Trem Church Layeni,LASATO03,Church,450be022-fbaf-4b03-bbcd-3ea7e58e3d67
+6.57928,3.34133,,Point,LA,OSGOF,King Of Kings Maboju,LASOIO20,Church,4518805c-d0a8-40e6-9d44-c0424bfedf5f
+6.46821,3.36543,,Point,LA,OSGOF,Redeemed Christian Church Of God Ijora Oloye,LASAPA08,Church,451e75e3-8544-4cfb-b2da-89df025793c7
+6.60254,3.36279,,Point,LA,OSGOF,House Of Prayer Ministry Alausa,LASIKA15,Church,4575586f-e167-425f-add0-fee015af5bd6
+6.48178,3.37371,,Point,LA,OSGOF,Ijero Baptist Church Ebute Metta,LASLMD08,Church,459c72df-74c1-4119-aecb-073af91b8e24
+6.59068,3.97376,,Point,LA,OSGOF,Rccg New Dawn Assembly Epe Central,LASEPE04,Church,4604d466-14bc-4e8d-aecf-8e40ce4bd507
+6.52973,3.36134,,Point,LA,OSGOF,Gospel Faith Mission Baba Oloosa,LASMUN06,Church,460c464b-a7ee-4701-a899-1b99c5733e7c
+6.61729,3.31993,,Point,LA,OSGOF,Four Square Church Oniwaya,LASAGG02,Church,462193cb-f3f7-4644-a0bb-88e33ca8d016
+6.5371,3.31287,,Point,LA,OSGOF,Foursquare Church Ilamoshe,LASOIO12,Church,4657d518-91c5-4265-a17a-59a6fbb7255c
+6.56401,3.33916,,Point,LA,OSGOF,The Apostolic Church Afijalo,LASOIO16,Church,4663e5e9-6851-49bc-b299-ce5ec07a011f
+6.5759,3.37263,,Point,LA,OSGOF,Kingsway Int Church Mende,LASKSE13,Church,466f87c4-23ea-4b4e-bfe1-7973eb10dc04
+6.52292,3.29481,,Point,LA,OSGOF,Redeemed Christian Church Of God Oshoru,LASOIO17,Church,46797ad6-0a5f-4ef8-93dd-8c3cd335e48f
+6.59245,3.28229,,Point,LA,OSGOF,Christ Apostolic Church Lion Of Judah,LASAMO33,Church,468984a9-f6d6-4b9f-ae55-e04a4d352f41
+6.53838,3.80651,,Point,LA,OSGOF,Divine Grace Ejigbo,LASEPE12,Church,468f9e8e-e380-4f0e-a7e3-9956cb6d8f12
+6.48011,3.35774,,Point,LA,OSGOF,The Promised Land Ministry Abebe,LASSUE11,Church,4701c318-dcef-4b18-88bb-4b1f62024548
+6.60953,3.25545,,Point,LA,OSGOF,First African Church Ipaja,LASAMO26,Church,47624528-4090-492d-838e-d036de6133fc
+6.529,3.36668,,Point,LA,OSGOF,Holy Temple Of Christ Fadeyi,LASMUN10,Church,479e8aed-4b75-4479-ae32-5e2ba9470ddc
+6.4448,3.42692,,Point,LA,OSGOF,Church Of The Assumption,LASEOA12,Church,47ab2e0b-9cf9-4a0e-b748-f27c03b55b55
+6.45139,3.39683,,Point,LA,OSGOF,Foursquare Gospel Church Popo Aguda,LASLID07,Church,47e8afe8-0cae-44bb-b84b-48ce684fbbe8
+6.48945,3.36681,,Point,LA,OSGOF,Apostolic Church Abule Nla Olaleye,LASLMD11,Church,480afa91-01e9-42f6-b93b-c12d8dd55901
+6.45617,3.23139,,Point,LA,OSGOF,New Realm Baptist Church Onireke,LASAON01,Church,4820b3d8-db66-4b73-adfb-684c37968c9b
+6.55014,3.32738,,Point,LA,OSGOF,Christian Penticostal Church Ajao Estate,LASOIO04,Church,484253f9-3644-417a-a1a6-f69fb86773d8
+6.45935,3.33969,,Point,LA,OSGOF,Redeemed Christian Church Of God Church Layeni,LASATO10,Church,48d6fc78-66ce-4c6a-9bcc-53ece26aa340
+6.45137,3.32862,,Point,LA,OSGOF,Lord's Choosen Awodi Ora,LASATO07,Church,48e7c2dc-40e9-46c7-99fc-847ae897b2bd
+6.55365,3.21485,,Point,LA,OSGOF,Oden Heaven Baptist Church Egan,LASAMO17,Church,490a91c1-a4a2-43b8-a209-d3338f4b3a44
+6.45984,3.55003,,Point,LA,OSGOF,Foursquare Gospel Church Victoria Garden City,LASEOA04,Church,49264c49-01da-4f84-b1f1-6884f8d53e0d
+6.47048,3.34885,,Point,LA,OSGOF,Catholic Church Oke Oja,LASATO12,Church,49792f4a-b93c-4767-9efa-34e446d31d40
+6.68531,3.25881,,Point,LA,OSGOF,Jehovah Witness Hall Ajegunle,LASAMO11,Church,497ff3d2-0e45-4c8e-a595-b035897600ba
+6.45881,3.38249,,Point,LA,OSGOF,Holy Convenant Family Church Elegbata,LASLID15,Church,4a285d42-5935-4ff2-a515-fffadd029766
+6.58124,3.34051,,Point,LA,OSGOF,The Apostolic Church Maboju,LASOIO20,Church,4a312ff5-3d16-4d1e-994d-c88f5062ac95
+6.42249,3.28249,,Point,LA,OSGOF,Redeemed Christian Church Of God Imore,LASAON06,Church,4ad0f1b6-af83-4085-83e5-fe7e19e1e943
+6.6458,3.7087,,Point,LA,OSGOF,Deeper Life Bible Church Agbowa,LASEPE02,Church,4ae42b2b-a778-4e66-8621-954faf558bc5
+6.40468,3.19125,,Point,LA,OSGOF,Capem Christ Church Babatope Riverine,LASOJO15,Church,4b2a87b3-ab5e-4502-a13f-ceba2d784e98
+6.53167,3.29455,,Point,LA,OSGOF,Redeemed Christian Church Of God 4 Ailegun,LASOIO03,Church,4b793e94-86bf-4b00-ac39-029759c9d580
+6.44699,3.40661,,Point,LA,OSGOF,Redeemed Christian Church Of God Araromi,LASLID04,Church,4b873d4d-c286-4044-9760-84e9a15d8ca3
+6.42993,2.93085,,Point,LA,OSGOF,The Apostolic Church Zanmu Viilage,LASBDY12,Church,4b9662f8-4262-4ada-8e1e-814d1c75e4de
+6.46895,3.56454,,Point,LA,OSGOF,The Apostolic Church Ajah,LASEOA03,Church,4ba1544f-4d7c-43a8-bef6-99cf3ec4adb6
+6.44821,3.49024,,Point,LA,OSGOF,Celestial Church Of Christ Ebute Kate,LASEOA10,Church,4ba7c68e-37cf-4372-9ed5-027a45717e9f
+6.51305,3.37052,,Point,LA,OSGOF,Lagos Presbyterian Church Yaba,LASLMD10,Church,4bd40896-8d4c-4f9d-be96-169707280a21
+6.55963,3.3858,,Point,LA,OSGOF,Redeemed Christian Church Of God Spring Of Life Soluyi,LASKSE06,Church,4bf5be3e-be94-4edd-91ad-a3e708b6467b
+6.63209,3.37693,,Point,LA,OSGOF,St Benjamin's Catholic Church Olowoira,LASKSE12,Church,4c0b8011-ccf4-422e-a3ec-8af8b4149759
+6.67399,4.00537,,Point,LA,OSGOF,St Anthony Catholic Church Igboye,LASEPE10,Church,4c323a65-6ee1-486d-bdf0-86a8c38b44d0
+6.48452,3.38207,,Point,LA,OSGOF,St Pauls Catholic Church Oyingbo,LASLMD09,Church,4c67e1e5-b89e-44f5-b7b5-c32552b2d6b2
+6.51948,3.35917,,Point,LA,OSGOF,Bible Believer Ministry Idi Oro,LASMUN05,Church,4c87592a-fbd4-49a1-813a-1b2766f4a5db
+6.46084,2.87044,,Point,LA,OSGOF,Celestical Church Of God Panko,LASBDY19,Church,4c890f5e-9ca3-4565-9016-e2192439cc05
+6.55352,3.33136,,Point,LA,OSGOF,The Lord Chosen Mafoluku,LASOIO15,Church,4c983e99-6f11-4cb1-9a33-d422915be009
+6.57966,3.34101,,Point,LA,OSGOF,Pentecostal Day Mission Maboju,LASOIO20,Church,4d0e0e6e-d24d-45dd-b104-f3579aaf45cf
+6.55086,3.295,,Point,LA,OSGOF,Pentecostal Evanglical Church Agbaka,LASOIO10,Church,4d14c11d-9468-47ce-9534-f26098216144
+6.52028,3.33415,,Point,LA,OSGOF,Christ Ascenion Church Ilasamaja,LASOIO13,Church,4d1a20eb-acf6-481d-8fc1-c487c2edbd1c
+6.48173,3.37182,,Point,LA,OSGOF,Redeemed Christian Church Of God 1 Ebute Metta,LASLMD08,Church,4d2e7e6b-cc30-4a83-b6a5-c250b92c57e2
+6.67358,3.98186,,Point,LA,OSGOF,Holiness And Miracle Evangelical Church Odo Ayan,LASEPE15,Church,4d5bb5cf-b9e6-4fdc-bdc8-19b463a175d0
+6.49492,3.37781,,Point,LA,OSGOF,Redeemec Chtristian Church Alagomeji,LASLMD05,Church,4d937eb5-bb5e-4f22-8f0b-1b17f1dfeca3
+6.46238,3.34798,,Point,LA,OSGOF,Kingdom Hall Of Jehovah Witness Aiyetoro,LASATO01,Church,4e0100c5-868e-4e15-baec-cb6805567d5a
+6.53128,3.34334,,Point,LA,OSGOF,Winners Gospel Centre,LASMUN19,Church,4e30c094-1091-43f9-9440-536e90ca71a1
+6.61247,3.41644,,Point,LA,OSGOF,The Apostolic Church Idera,LASKSE22,Church,4e368c03-9aa1-4e19-bb34-1b834f27d0f3
+6.48465,3.38833,,Point,LA,OSGOF,Mountain Of Fire And Miracle Idiagbon,LASLMD07,Church,4e5cbd07-45e3-4fdc-9a0f-1b474fed37de
+6.48975,3.16387,,Point,LA,OSGOF,Redeemed Christian Church Of God Olorunshogo,LASOJO05,Church,4e6d985f-b26b-4fbf-b44a-8e8549518728
+6.56103,3.33998,,Point,LA,OSGOF,Liberation Chapel Ogunoloko,LASOIO11,Church,4edd86ec-b870-4c8d-b177-51239efa3d21
+6.57107,3.34095,,Point,LA,OSGOF,First Baptist Church Ladipo,LASOIO08,Church,4f211693-e1d5-4623-b411-f8f71b457bd5
+6.52535,3.38822,,Point,LA,OSGOF,Redeemed Christian Church Of God 2 Akoka,LASSMU02,Church,4f6e5ef0-caf3-4f48-a02d-ad11fa46013e
+6.46711,3.354,,Point,LA,OSGOF,Christ Model Evangelist Church Badia,LASAPA07,Church,4f6fa57f-73b2-4edb-b4b6-d8d749436dbc
+6.57479,3.39232,,Point,LA,OSGOF,Redeemed Christian Church Of God Upper Room Ass,LASKSE15,Church,4f713803-31f8-412b-87d0-828def0955a8
+6.52782,3.29373,,Point,LA,OSGOF,Redeemed Christian Church Of God 2 Ailegun,LASOIO03,Church,4f81746e-240c-49a7-977f-1b2c6a61dbc2
+6.43624,3.49028,,Point,LA,OSGOF,The Apostolic Church Ikate,LASEOA10,Church,4f96323e-977a-45b9-91d4-4b7a00b1b214
+6.63906,3.34529,,Point,LA,OSGOF,Christ Apostolic Church Aguda,LASIKA01,Church,4f98f409-1a09-45f4-bd2d-ebabf406ca68
+6.51259,3.34035,,Point,LA,OSGOF,Apostolic Church Itire District,LASMUN17,Church,4fa92611-b91b-4401-9be0-ef58ad678588
+6.46243,3.18504,,Point,LA,OSGOF,Trust In God Gospel Church Alaba Rago,LASOJO14,Church,4fad1c26-5973-4d41-a2bd-1fc82bd52710
+6.44125,3.12657,,Point,LA,OSGOF,St Peter's Anglican Church Ishagira,LASOJO02,Church,4fc38d75-a7f2-4877-a51f-3c2121b0a25e
+6.5476,3.39241,,Point,LA,OSGOF,Redeemed Fountain Of Power Gbagada Apelehin,LASSMU03,Church,50052dae-30b7-4c20-880f-448f012d2f5b
+6.53408,3.34438,,Point,LA,OSGOF,Kingdom Against Kingdom Papa Ajao,LASMUN19,Church,5037b450-7c7a-4469-9bfd-5ab727916aa9
+6.64442,3.90952,,Point,LA,OSGOF,Charismatic Renewal Ministry Agbowa,LASEPE09,Church,5042cbc6-0e2b-409a-9c5c-7e17355a6d59
+6.60258,3.36459,,Point,LA,OSGOF,Christ Apostolic Church Kosofe,LASIKA15,Church,504823aa-1cb2-4f32-bf59-55eb1ecbd768
+6.47917,3.37433,,Point,LA,OSGOF,Church Of Christ Ilaje Otumara,LASLMD08,Church,50c7b32d-a903-4df8-b5f0-c54688402cc2
+6.46437,3.35367,,Point,LA,OSGOF,Cherubim And Seraphim Church Oridilu,LASATO05,Church,50d93b7c-bff2-4513-b328-d35edeae0b33
+6.5571,3.34345,,Point,LA,OSGOF,Life Gate International Church Orile Oshodi,LASOIO11,Church,5116d700-128d-4fd5-84f5-3f4ef7d5d007
+6.51009,3.33253,,Point,LA,OSGOF,Living Spring Bible Church Itire,LASMUN14,Church,511f4e00-54fa-4d27-b0a6-c7cdc07fbc57
+6.55485,3.28061,,Point,LA,OSGOF,God's Kingdom Society Idimu,LASAMO20,Church,5122ffda-e03e-4985-bd4b-15ba3cdb198c
+6.66883,3.73439,,Point,LA,OSGOF,Cherubim And Seraphim Otta,LASEPE05,Church,51265496-7d46-4c69-a24a-c76b70712c4f
+6.55224,3.30122,,Point,LA,OSGOF,True Love Penticostal,LASOIO02,Church,515d3900-d5b4-467e-a5cd-c65f2b731b84
+6.52389,3.29378,,Point,LA,OSGOF,Great Faith Ailegun,LASOIO17,Church,515e0b50-bfa0-4e3f-af26-67fc194c77f4
+6.54096,3.39292,,Point,LA,OSGOF,Redeemed Christian Church Of God Abule Okuta,LASSMU03,Church,51698617-6301-4c3a-9337-f7d90d4a1158
+6.45349,3.38966,,Point,LA,OSGOF,Methodist Church Of Trinity,LASLID19,Church,51d44c9e-dff8-460f-b8dc-556f151821e4
+6.50116,3.1909,,Point,LA,OSGOF,Celestial Christ Church Of God Iba New Site,LASOJO04,Church,51f9f6cd-a495-432b-a60e-8dba4f303a85
+6.463351,3.340702,,Point,LA,eHA_Polio,Life Eternal Mission,LASATO05,Church,5219f2dd-2fbf-4aa2-87e1-fb273214860e
+6.54507,3.4065,,Point,LA,OSGOF,Celestial Church Oworonsoki,LASKSE18,Church,522a1288-6d85-4d8d-8d1e-fa30b57839de
+6.55706,3.36211,,Point,LA,OSGOF,Redeemed Christ Church Of God Church Ilupeju,LASMUN09,Church,526fd4f3-f21a-425d-a618-fd640cf71a3d
+6.58972,3.96795,,Point,LA,OSGOF,Christian Faith Mission Papa,LASEPE18,Church,527153bd-c230-46b2-9b6f-f1e6940555ca
+6.49977,3.39562,,Point,LA,OSGOF,The Gospel Faith Mission Sogunro Orile,LASLMD02,Church,52bf90c0-9688-41f9-89a6-a04ba972931c
+6.61686,3.25637,,Point,LA,OSGOF,Redeemed Christian Church Of God,LASAMO26,Church,53027951-99e8-47e9-8731-685a8fbaa184
+6.47138,3.34826,,Point,LA,OSGOF,Celestial Church Of Christ Amukoko,LASATO12,Church,5307def8-1395-4393-bc8a-abe79b9fa692
+6.463383,3.342525,,Point,LA,eHA_Polio,The Christ Life Assembly,LASATO05,Church,53453c4e-432b-4abd-9464-d54d29b59122
+6.45114,3.39281,,Point,LA,OSGOF,St Peters Church Faji Ajele,LASLID01,Church,535e9c18-8fdf-45e5-a384-ef6c329f6324
+6.52456,3.35221,,Point,LA,OSGOF,K And S Universal Church Of God Church Mushin,LASMUN04,Church,5379c6c1-b5ec-43f2-a690-4907f12bf367
+6.55489,3.30845,,Point,LA,OSGOF,Alafia Oluwa Baptist Church Ageke,LASOIO02,Church,53b14a0c-40df-4d83-9049-1f55a5f75789
+6.61707,3.31913,,Point,LA,OSGOF,Celestial Church Of Christ Oniwaya,LASAGG02,Church,53ea88a1-c33d-4f63-b5bd-0c79032f59d6
+6.48568,3.35948,,Point,LA,OSGOF,Resurrection Lutheran Church Iponri,LASSUE11,Church,53f8a7aa-41bb-40ca-8513-caab1c6cff14
+6.4483,3.40631,,Point,LA,OSGOF,Araromi Baptist Church Araromi Odo,LASLID04,Church,546d9142-9b7a-476a-a735-af824ca60c59
+6.55601,3.24857,,Point,LA,OSGOF,Mountain Of Fire And Miracles Ministry Igando,LASAMO23,Church,54773fed-f843-48e1-8185-a880f6244f84
+6.48548,3.38614,,Point,LA,OSGOF,Redeemed Christian Church Of God 2 Oyingbo,LASLMD09,Church,54c8147e-f2cc-4b05-a414-b1bb45e2d956
+6.462986,3.340916,,Point,LA,eHA_Polio,Christ Covenant Victory Church,LASATO05,Church,553024b5-23fd-4c37-8b23-e25033765e18
+6.44459,3.37303,,Point,LA,OSGOF,Bible Society Of Nigeria Apapa,LASAPA04,Church,5536d35f-e6e9-404f-8c3d-a9e1b6de986f
+6.44632,3.22454,,Point,LA,OSGOF,Chapel Of God 'sword,LASOJO08,Church,5588a04b-4926-421f-82ec-0237bab7f4d7
+6.44466,3.34266,,Point,LA,OSGOF,Deeper Life Church Tolu,LASATO15,Church,55b43802-49d1-42db-8760-b2cb98461dc1
+6.55743,3.30084,,Point,LA,OSGOF,Redeemed Christian Church Of God 1 Ageke,LASOIO02,Church,5609669f-72b4-4fc2-a741-47a972377814
+6.58921,3.96794,,Point,LA,OSGOF,Deeper Life Bible Church Papa,LASEPE18,Church,5639e81e-3f2b-456f-ba06-01acade4dfd5
+6.55228,3.34279,,Point,LA,OSGOF,Redeemed Christian Church Of God Oshodi,LASOIO01,Church,5653c96d-0e5b-4190-9067-0c67c51942dc
+6.63429,3.34237,,Point,LA,OSGOF,The Church Of Jesus Christ Ogba,LASIKA01,Church,56724ddb-1f07-4655-bd60-dce78d32cfef
+6.48605,3.19552,,Point,LA,OSGOF,The Redeemed Church Agboroko,LASOJO05,Church,5684889d-1120-4bd3-94ab-d706e29313e6
+6.66167,3.30156,,Point,LA,OSGOF,Christ Apostolic Church 1 Ilupeju Titun,LASIOE01,Church,56e67405-78f9-49a9-afd5-2bad8386517d
+6.48737,3.57889,,Point,LA,OSGOF,Christ Embassy Church Oke Ira Nla,LASEOA02,Church,56ed01c5-0ef3-4065-b157-8ae4fc5981cb
+6.47922,3.13724,,Point,LA,OSGOF,St Paul's Anglican Church Era Town,LASOJO13,Church,57354ef8-325c-4bf1-9825-531d2feee60b
+6.53229,3.34113,,Point,LA,OSGOF,Deeper Life Bible Church Papa Ajao,LASMUN19,Church,574a2be9-8eab-4b22-97d2-fa3f9825ae8d
+6.52949,3.3799,,Point,LA,OSGOF,Faith Revival Mission Shomolu,LASSMU04,Church,576df6ef-5ae7-4fb4-bfd8-73ec293a20ae
+6.48757,3.90739,,Point,LA,OSGOF,Apostolic Church Iba Oloja,LASIUI01,Church,5798ffcc-9e8b-49bf-beef-23ea40302fe7
+6.641621,3.477923,,Point,LA,eHA_Polio,The God Chosen Bible Ministry,LASIKU28,Church,57dbd756-9401-4971-96b1-20416f7a0bef
+6.45044,3.40599,,Point,LA,OSGOF,St Micheals Church Lafiaji,LASLID12,Church,5824842f-24e2-47c6-b49a-fe83eb717357
+6.56962,3.33845,,Point,LA,OSGOF,Redeemed Christian Church Of God 2 Shogunle,LASOIO08,Church,5834ba6d-763c-49d0-b386-2be4a94268bd
+6.52655,3.38957,,Point,LA,OSGOF,Trem Church Akoka,LASSMU02,Church,583b4510-99d7-49fc-8f1f-45d1b4951167
+6.60421,3.40257,,Point,LA,OSGOF,The Evangelical C S Church Owode Orile,LASKSE03,Church,5848245c-0234-42ca-8690-a3927e9524db
+6.40198,3.09396,,Point,LA,OSGOF,St France's Catholic Church Igbo Oja Nla,LASOJO15,Church,584abb16-10a7-4211-aab0-4158dc994635
+6.46443,3.35395,,Point,LA,OSGOF,Glorious Pilgrim Assembly Oridilu,LASATO05,Church,5851a844-984a-42e9-b811-66816d1ce8f8
+6.5267,3.39068,,Point,LA,OSGOF,Divine Word Of Salvation Churc,LASSMU02,Church,586eaf19-f823-4a33-b784-5ea2be8c6701
+6.4626,3.38804,,Point,LA,OSGOF,Methodist Church Isale Eko,LASLID08,Church,589324c6-85d9-4231-b274-f919f766ee40
+6.63316,3.34096,,Point,LA,OSGOF,Emmaunel African Church Ogba Ijaiye,LASIOE10,Church,58b0d735-f268-4ef5-ae90-10642e1a6ba7
+6.63578,3.34382,,Point,LA,OSGOF,House Of Prayer Oke Ira,LASIKA01,Church,5906fa8e-9260-4155-a732-64becf52dd71
+6.62815,3.7732,,Point,LA,OSGOF,Cherubim And Seraphim Church Orugbo,LASEPE17,Church,590aee96-5744-4afa-a45f-0fbdba201da5
+6.4055,3.17355,,Point,LA,OSGOF,The Foursquare Gospel Church Alaguntan Oke Agbado,LASOJO15,Church,591e76fe-7d14-458e-91a8-62a26242667a
+6.63821,3.3432,,Point,LA,OSGOF,Mountain Of Fire And Miracle Ministry Ogba Ijaiye,LASIOE09,Church,59428daf-03df-4a02-bdb9-837459787c7b
+6.64668,3.32397,,Point,LA,OSGOF,Cestial Church Of Christ Ifako,LASIOE05,Church,59e2773d-082b-4220-8a6c-0a32d3da6e18
+6.45068,3.38991,,Point,LA,OSGOF,Cathederal Church Popo Aguda,LASLID01,Church,59fb3fa3-2b63-4031-932e-281b516b9672
+6.42918,3.37269,,Point,LA,OSGOF,The Lords Chosen Charismatic Revival Ministry Irede Amuwo,LASAPA02,Church,5a003a0a-6b65-4bba-be54-cd400343ed2d
+6.5359,3.34256,,Point,LA,OSGOF,Trimitarian Redemption,LASMUN19,Church,5a0b064f-987d-4dea-8584-862d7493a1c9
+6.57766,3.34046,,Point,LA,OSGOF,Celestial Church Shogunle,LASOIO20,Church,5a3525a2-04d2-416f-bb9c-eac9d3c4ae0d
+6.51732,3.33983,,Point,LA,OSGOF,Holy Mesiah K And S Church Abule Igbehin,LASMUN17,Church,5a49277b-266c-4df4-b715-e8ac79ac6c4c
+6.670696,3.667309,,Point,LA,eHA_Polio,Prayer House Pentecostal Ministry,LASIKU14,Church,5a69a627-45ce-44ce-8cd7-aa2caf5d4f39
+6.43539,3.50987,,Point,LA,OSGOF,The Convenant Church Of Christ Igbara,LASEOA15,Church,5ace1e05-8a63-4dc6-857e-b211c6876cfe
+6.60335,3.2538,,Point,LA,OSGOF,At Patric Catholic Church Ipaja,LASAMO13,Church,5afc9752-745d-41d4-90e7-3eb560e03bab
+6.57143,3.27693,,Point,LA,OSGOF,Celestial Church Of Christ Olorun Dabiba,LASAMO28,Church,5b232399-a2c6-4585-adf1-17b23db1d473
+6.55417,3.3033,,Point,LA,OSGOF,Christ Ascension Church Ejigbo,LASOIO02,Church,5b419be8-650a-412f-bcc4-dccbe7115e53
+6.46025,3.38192,,Point,LA,OSGOF,Gospel Baptist Church Elegbata,LASLID15,Church,5b5a6f41-a609-48ed-9028-9cfafb144bf0
+6.58123,3.27892,,Point,LA,OSGOF,C And S Agbala Iyanu Ayobo,LASAMO28,Church,5b764496-9ffb-40bf-a202-d1547dbff4a7
+6.58204,3.97911,,Point,LA,OSGOF,St Michael Anglican Church Epe Central,LASEPE19,Church,5ba2a69c-88b9-42b7-90d6-5117adbcb109
+6.57188,3.34238,,Point,LA,OSGOF,Kingdom Hall Of Jehovah Witness Ladipo,LASOIO08,Church,5c58645e-0a5b-4140-95f8-3024dabcc5bb
+6.50422,3.34117,,Point,LA,OSGOF,Cherubim And Seraphim Church Ikate,LASSUE15,Church,5c594266-2ae1-4e4a-9423-216af9542d51
+6.47971,3.33831,,Point,LA,OSGOF,The Redeemed Church 1 Orile Iganmu,LASSUE07,Church,5c7493e3-b080-4572-8928-337e6599faa5
+6.41928,3.36248,,Point,LA,OSGOF,New Creature Evangelical Mission Ifako Tomaro Ifako,LASAPA02,Church,5c9075ab-9c73-4641-86a1-d3013e240503
+6.4263,3.58281,,Point,LA,OSGOF,Redeemed Christian Church Of God Okun Ajah,LASEOA17,Church,5cb16c60-7858-4ba2-88dd-ef1a2cca51f3
+6.6098,3.35652,,Point,LA,OSGOF,Kingdom Of Heaven On Earth Alausa,LASIKA04,Church,5cd0ad77-9b7c-47aa-a8c4-ae6c99b7713b
+6.44014,2.89671,,Point,LA,OSGOF,The Salvation Army Corps Agela,LASBDY03,Church,5cef3e8b-239c-401c-827a-1467d087ef37
+6.47951,3.33966,,Point,LA,OSGOF,Cherubim And Seraphim Church 1 Orile Iganmu,LASSUE19,Church,5d169f1a-fa76-460e-9798-b8ac659f1e48
+6.4656,3.56003,,Point,LA,OSGOF,Redeemed Christian Church Of God Alyetoro Ajah,LASEOA03,Church,5d21af1d-7815-4dea-86bd-d8bccd88cb06
+6.52358,3.29314,,Point,LA,OSGOF,Mountain Of Fire Oshoru,LASOIO17,Church,5d47dda1-4f87-4f19-9cf4-1ec5b765dca2
+6.44918,3.32687,,Point,LA,OSGOF,Presbyterian Church Olodi Apapa,LASATO13,Church,5d674b1c-736a-4f8f-b858-0fc0592e7b00
+6.62146,3.481,,Point,LA,OSGOF,Asolo Church Asolo Itowolo,LASIKU22,Church,5d8bd245-cab4-40b1-b84f-c4f47f2b648c
+6.49837,3.33666,,Point,LA,OSGOF,The Presbyterian Church Itire,LASSUE21,Church,5d9f48e7-6013-451c-8c57-6bf5106a731f
+6.6764,3.98907,,Point,LA,OSGOF,Catholic Mission Church Odo Ayan,LASEPE13,Church,5eaab466-7aa3-41f5-9e39-2a48ddb1c675
+6.4049,3.38978,,Point,LA,OSGOF,Pentecostal Holiness Okun Ayo,LASEOA19,Church,5ebd9302-2a83-4fe1-9feb-a5d045a4ae98
+6.49246,3.58329,,Point,LA,OSGOF,Mount Of Blessing Oke Ira Kereke,LASEOA02,Church,5f2fdb13-edfb-4243-8e32-d707c5e4f365
+6.54097,3.26227,,Point,LA,OSGOF,The Glory Place Church Ikotun,LASAMO01,Church,5f510183-1297-433a-ae95-15319d783bbe
+6.48271,3.3882,,Point,LA,OSGOF,Izar Aro Movement Of Nigeria Okobaba Idiagbon Agoro,LASLMD07,Church,5f81856f-f549-41ee-a9a3-596134fdeed0
+6.48427,3.19314,,Point,LA,OSGOF,Newbora Bethlehem Church Agboroko,LASOJO05,Church,60227438-d26a-4763-81d9-586c191e4e4a
+6.59908,3.38145,,Point,LA,OSGOF,Kingdom Hall Of Jehovah Witness Ikosi,LASKSE11,Church,604716d8-51bf-4c8d-86a2-89cf309e10d5
+6.46355,3.13019,,Point,LA,OSGOF,Life Transforming Gospel Church Oke Agbo,LASOJO07,Church,60b4c7fd-6dfb-4504-ac3c-d91e1860a309
+6.63428,3.3571,,Point,LA,OSGOF,Foursquare Gospel Church Omole,LASIKA02,Church,60c04107-f922-4dd2-b71e-c6f05ccc5054
+6.43966,3.52582,,Point,LA,OSGOF,St Philip And James Idado,LASEOA04,Church,60c302b1-42ee-4864-8e52-4ae85f568032
+6.49712,3.32535,,Point,LA,OSGOF,Celestial Church Of Christ Ijeshatedo,LASSUE17,Church,60ca2981-f0eb-4175-aa8a-20ac9c6359ba
+6.58479,3.97051,,Point,LA,OSGOF,Rccg Throne Of Mercy Parish Epe Central,LASEPE04,Church,6163df65-b2c8-46fe-8c10-ef5bbf4df675
+6.44765,3.34875,,Point,LA,OSGOF,Anglican Church Olodi Apapa,LASATO16,Church,618e73fd-0204-4658-853d-54d698f2e075
+6.62061,3.30125,,Point,LA,OSGOF,Zion African Church Alaagba,LASAGG04,Church,6198d825-6070-4c8b-bbdf-02d0f074bee8
+6.58064,3.27817,,Point,LA,OSGOF,Prayer Ministry Isheri Olofin,LASAMO28,Church,61a786b6-9f53-42a7-b147-56b21ed20aec
+6.496664,3.389067,,Point,LA,eHA_Polio,Methodist Church Agoegun,LASLMD12,Church,61b04c95-5349-458c-b27b-e7b755de492c
+6.50081,3.33343,,Point,LA,OSGOF,Moutain Of Fire Church Itire,LASSUE21,Church,61cc2625-3cde-4141-b2f5-3543034aa6d5
+6.53218,3.38898,,Point,LA,OSGOF,Green Pastures Assembly Akoka,LASSMU02,Church,6216f6b5-22dc-4f46-8c87-b64bfb3763af
+6.61319,3.29691,,Point,LA,OSGOF,Celestial Church Of Christ Wonderland Parish Alimosho,LASAMO32,Church,621b4c62-8b37-41b0-8144-7a017aa19517
+6.6238,3.33263,,Point,LA,OSGOF,Anglican Cathedral Church Keke,LASAGG06,Church,622ad7d1-07d6-43aa-a93f-83443ed18395
+6.45614,3.36033,,Point,LA,OSGOF,Trem Church Marine Beach,LASAPA09,Church,6244c563-036d-4b63-9a17-11d4c64e9427
+6.53813,3.28644,,Point,LA,OSGOF,Divine Church Ministry Egbe,LASAMO18,Church,624fe9a7-fa5d-4c76-a191-9a4ad403208b
+6.62104,3.37319,,Point,LA,OSGOF,Redeemed Christian Church Of God Victory Chapel Magodo,LASKSE21,Church,62b9eb3f-2149-4c57-a713-f1d4c9445b20
+6.46989,3.34071,,Point,LA,OSGOF,Christ Holy Church Amukoko,LASATO11,Church,62f074e1-8011-4f3c-9fd4-91a851c2c58d
+6.4562,3.40591,,Point,LA,OSGOF,Celestial Church Ilubirin,LASLID12,Church,62fb810b-2180-4f4c-8038-3a25c48ab185
+6.60626,3.398,,Point,LA,OSGOF,Christ Church Evangelical Erukan,LASKSE09,Church,62fb933f-cccc-42fd-a138-1c444c8d6cb3
+6.46668,3.34177,,Point,LA,OSGOF,Anglican Church Amukoko,LASATO05,Church,62fcf295-84fa-4f2e-ac85-888bb84af72a
+6.46405,3.17119,,Point,LA,OSGOF,Ark Of Redemption,LASOJO14,Church,630c15a7-9eb7-489a-88ee-9152d4c2eafe
+6.383056,2.73036,,Point,LA,eHA_Polio,Methodist Church Nigeria,LASBDY10,Church,635efbe0-4020-4d56-8b2d-5b51e361858c
+6.55195,3.3333,,Point,LA,OSGOF,Christ Ascension Church Mafoluku,LASOIO15,Church,63724316-4045-4668-b15c-6163b1cdf07b
+6.54024,3.39135,,Point,LA,OSGOF,St Daniel Abule Okuta,LASSMU03,Church,6393232e-34fa-4a66-a5bb-8fdf4ecf1842
+6.56226,3.28205,,Point,LA,OSGOF,St Francis Catholic Church Idimu,LASAMO22,Church,63c4bb36-fe3f-4ecd-afa0-8aaa79f1f0a6
+6.51815,3.34044,,Point,LA,OSGOF,Golden Mind Family Abule Igbehin,LASMUN17,Church,63da3239-940e-4d10-99f2-fb5b0c57225a
+6.63296,3.32818,,Point,LA,OSGOF,St Theresa Catholic Church Ogba Ijaiye,LASIOE10,Church,63e3d5e2-b2e7-4ad7-8ced-add301454735
+6.5767,3.28445,,Point,LA,OSGOF,Redeemed Christian Church Of God Anoiting Center,LASAMO36,Church,648f57fc-7a46-4757-93e3-688b8df23180
+6.50072,3.19375,,Point,LA,OSGOF,Christ Apostolic Church Iba New Site,LASOJO04,Church,6499285e-06d8-4707-8d7a-df3061a9ae4c
+6.51538,3.33719,,Point,LA,OSGOF,Church Deliverance,LASMUN17,Church,649c3378-68d2-4409-b879-9a27917b9283
+6.54889,3.32605,,Point,LA,OSGOF,Arch A Adetiloye Anglican Church Ajao Estate,LASOIO04,Church,64a9226d-9d07-449a-92ff-8c6d7bcffe27
+6.52145,3.38018,,Point,LA,OSGOF,Foursquare Gospel Church Abule Ijesha,LASLMD02,Church,64b3760c-816e-4b8c-af5f-a3adaeda5fdf
+6.47742,3.1478,,Point,LA,OSGOF,Deeper Life Bible Church Adaloko,LASOJO13,Church,64b99b84-05c6-4d7f-be01-7e8c9b018784
+6.53175,3.36241,,Point,LA,OSGOF,Redeemed Christian Church Of God Onipanu,LASMUN10,Church,64c0c0bd-3a54-4d8f-ae1a-1cfc9be661e7
+6.42272,3.52387,,Point,LA,OSGOF,Redeemed Christian Church Of God Okun Alfa,LASEOA08,Church,64e64344-9f7f-474d-91c4-485b92614f64
+6.54942,3.29599,,Point,LA,OSGOF,Foursquare Gospel Church Agbaka,LASOIO10,Church,64e8a5ee-cc38-4136-acca-804e86b0eb48
+6.52248,3.29304,,Point,LA,OSGOF,Newlife Christ Oshoru,LASOIO17,Church,650c45ce-30b4-4150-8edd-a6d20be60833
+6.5911,3.96147,,Point,LA,OSGOF,Rev Braithwaite Memorial Anglican Church Papa,LASEPE18,Church,652ebcf8-c0ba-413d-8162-946720a82b73
+6.5067,3.37592,,Point,LA,OSGOF,Yaba Baptist Church Yaba,LASLMD10,Church,655b2b3d-e24d-4f58-b346-60f94daa3ea9
+6.60745,3.32753,,Point,LA,OSGOF,Celestial Church Of Christ Onipetesi,LASIKA13,Church,6578e810-93c3-4c1a-971e-0e2ec660b488
+6.52598,3.36637,,Point,LA,OSGOF,Redeemed Christian Church Fadeyi,LASMUN02,Church,65aead5f-ef78-4d53-a438-347677440822
+6.65124,3.27118,,Point,LA,OSGOF,Mountain Of Glory Church Akintan,LASAMO06,Church,6629b043-40ed-4c6d-b01e-cf38f2c71d1f
+6.60575,3.39526,,Point,LA,OSGOF,The Apotolic Church Erukan,LASKSE09,Church,663e66dd-d244-4e3b-8928-b19eb65ec86f
+6.40188,3.39173,,Point,LA,OSGOF,Redeemed Christian Church Of God Okun Ayo,LASEOA19,Church,66f88e12-95c8-465b-bb86-076182dbe435
+6.52409,3.37142,,Point,LA,OSGOF,Pentecostal Of Christ Igbobi Fadeyi,LASLMD10,Church,678f6e5c-0919-418b-81a9-dd5324c600e4
+6.47541,3.33047,,Point,LA,OSGOF,Cherubim And Seraphim Church Coker,LASSUE09,Church,67d48696-f8bd-4551-8207-695f2fd34c35
+6.49288,3.3558,,Point,LA,OSGOF,Redeemed Church Adamu,LASSUE01,Church,67dccf41-c68f-49be-bc7f-6ea8f147bbce
+6.50305,3.32673,,Point,LA,OSGOF,Christ Apostolic Church Oke,LASMUN13,Church,68018bec-4800-4a21-8970-bcad9902c276
+6.45152,3.32863,,Point,LA,OSGOF,The Reigners Bible Church Awodi Ora,LASATO07,Church,680cdaa0-9a5e-4872-a989-fc24a0f38c9d
+6.48579,3.16664,,Point,LA,OSGOF,C R C New Mebamu,LASOJO01,Church,6813dd63-b87f-407b-952d-c9c13031d301
+6.66219,3.28397,,Point,LA,OSGOF,Celestial Church Of Christ Alagbado,LASAMO05,Church,682cd10b-91fd-4493-82d3-1c9eed7d89cc
+6.52537,3.39209,,Point,LA,OSGOF,Redeemed Church Unity Province,LASSMU02,Church,68384f91-b1d1-49b5-a3ea-661297eea426
+6.47694,3.34051,,Point,LA,OSGOF,Deliverance And Liberation Church Orile Iganmu,LASSUE07,Church,68874de8-d252-41ab-9855-728887ce241b
+6.654163,4.08627,,Point,LA,eHA_Polio,Redeemed Church of God,LASEPE10,Church,68bbea3e-ec8e-4ddc-abdc-d05a9f3f2e74
+6.46812,3.56039,,Point,LA,OSGOF,Prosperity Church Of Nigeria Ilaje Ajah,LASEOA03,Church,68bd5a07-1e1c-440f-bbd0-e975e82f36e5
+6.5502,3.23619,,Point,LA,OSGOF,Methodist Church Egan,LASAMO17,Church,6930bad8-dd19-4d9b-85f0-5e7cbf655b3e
+6.49813,3.33555,,Point,LA,OSGOF,Christ Apostolic Church 2 Itire,LASSUE21,Church,6948f00f-c370-4f05-a36c-f47696561eb7
+6.65704,3.79595,,Point,LA,OSGOF,Our Saviour Anglican Church Itoikin,LASEPE09,Church,69547950-1ee3-41d9-a0e2-c75d6c4515f5
+6.52949,3.35756,,Point,LA,OSGOF,Methodist Church Baba Oloosa,LASMUN03,Church,69770002-e36c-4c09-9d23-6f3cfb157b82
+6.50098,3.38843,,Point,LA,OSGOF,Imole Ayo C And S Church Makoko,LASLMD12,Church,69efdd1e-0db0-4bef-872b-f1ad68cfd5a7
+6.50124,3.38213,,Point,LA,OSGOF,Shalom Worship Center Alagomeji,LASLMD05,Church,69f4fc62-cdd0-4bc9-88f7-9a0d52b30c2a
+6.49812,3.38665,,Point,LA,OSGOF,Celestial Church Of The Lord Makoko,LASLMD12,Church,6a13bade-053b-4bd4-9819-5e57230594ed
+6.46013,3.54978,,Point,LA,OSGOF,Catholic Church Of The Tranfigurat,LASEOA04,Church,6a69d814-5b14-4370-a219-c942d94095cb
+6.53298,3.38337,,Point,LA,OSGOF,The Radiant Church Bajulaiye,LASSMU04,Church,6a8cf4e1-9958-48e3-8659-b67b9ce3e6ba
+6.60536,3.29371,,Point,LA,OSGOF,Deeper Life Ministry Gowon Estate,LASAMO21,Church,6aeee6bc-3f7f-4623-8fde-44b7ccb6f513
+6.6091,3.35451,,Point,LA,OSGOF,Gospel Pillar International Church Alausa,LASIKA04,Church,6af4534f-ffd6-419c-bd35-96f11228c514
+6.43394,3.51023,,Point,LA,OSGOF,St Michael C And S Church Maiyegun,LASEOA15,Church,6b528c3b-2c96-47bb-86ab-0f9c0e2cc7b8
+6.52808,3.32276,,Point,LA,OSGOF,Christ Herald Church Ire Akari,LASOIO14,Church,6b5f0db8-4b77-4094-b3a5-db2f0df86dd7
+6.49293,3.3292,,Point,LA,OSGOF,Cherubim And Seraphim Church 2 Ijeshatedo,LASSUE03,Church,6b69e2fb-70ff-47dd-a326-40ef11d4715c
+6.47868,3.38667,,Point,LA,OSGOF,Christ Apostolic Church Oyingbo,LASLMD17,Church,6b78b2dd-6778-4c8b-9fe5-aa6ae3b8e5bb
+6.66259,3.2532,,Point,LA,OSGOF,Catholic Church Ilapo,LASAMO11,Church,6bcff4e7-fb2a-4d68-b766-f91b650a85e9
+6.463533,3.342955,,Point,LA,eHA_Polio,Independent Christ Apostolic Church,LASATO05,Church,6bd29208-db96-477c-8cd9-9776d959c0c0
+6.48043,3.34324,,Point,LA,OSGOF,The Redeemed Church 3 Orile Iganmu,LASSUE19,Church,6bf743d4-0014-4de6-8654-1f3f3c8fa658
+6.61773,3.33045,,Point,LA,OSGOF,Mountain Of Joy Church Ajegunle,LASAGG13,Church,6c14029d-e931-4f8f-937b-c1178d4fef5e
+6.66096,3.30122,,Point,LA,OSGOF,Deeper Life Church Ilupeju Titun,LASIOE01,Church,6c52baa4-d7cb-40ec-a450-c45a63894059
+6.50714,3.33551,,Point,LA,OSGOF,Evangelical Mission Itire,LASSUE18,Church,6c97c9ae-80ae-41ce-a464-724aafc8c291
+6.53318,3.36392,,Point,LA,OSGOF,Imisi Jesu Gospel Church Onipanu,LASMUN10,Church,6cb90997-497d-44f6-9472-803c50b63b6c
+6.46004,3.19778,,Point,LA,OSGOF,Redeemed Christian Church Of God Ojo Town,LASOJO11,Church,6ce7d188-aa84-4db2-9847-053e5d3c468a
+6.61479,3.70583,,Point,LA,OSGOF,Zion Church Ikosi Beach,LASEPE02,Church,6d1d551d-0594-4801-b4e8-f9937e9dacd7
+6.45966,3.34799,,Point,LA,OSGOF,Power And Life Church Aiyetoro,LASATO01,Church,6d32306c-625b-42dd-8357-9305504c3b26
+6.49728,3.38908,,Point,LA,OSGOF,Celestial Church Of Christ 2 Makoko,LASLMD12,Church,6dd929eb-f8d4-4bb2-8273-fb1ef01d5c28
+6.60891,3.43589,,Point,LA,OSGOF,Christ Apostolic Church Odo Ogun,LASKSE14,Church,6df439c1-b00a-4829-b590-a708711ce156
+6.415951,3.251931,,Point,LA,eHA_Polio,All Saints Catholic Church Ibeshe,LASAON06,Church,6e7273a5-7ed8-4310-a396-27676a47f637
+6.53292,3.34434,,Point,LA,OSGOF,Methodist Church Papa Ajao,LASMUN19,Church,6eb4b1a3-d939-47bf-b3d4-437599c9447d
+6.49382,3.34535,,Point,LA,OSGOF,Christ Embassy Church Aguda,LASSUE13,Church,6ecf6794-f0b6-45c6-a17d-8126ecdd3481
+6.44402,3.33998,,Point,LA,OSGOF,Baptist Church Alakoto,LASATO15,Church,6ee27830-1287-499d-bb9f-92e0ceb52cd0
+6.6375,3.71173,,Point,LA,OSGOF,The Elim Evangelical Church Agbowa,LASEPE02,Church,6f076239-6bba-4a9f-bf33-50db2ea184d7
+6.5242,3.29396,,Point,LA,OSGOF,The Builder's Throne Church Oshoru,LASOIO17,Church,6f5010d4-21ab-4676-9e2c-f366cf3699b6
+6.41235,3.38293,,Point,LA,OSGOF,Cherubim And Seraphim Church Ebute Oko,LASAPA02,Church,6f6702d6-cece-4add-86d4-28baf31c0804
+6.50067,3.38442,,Point,LA,OSGOF,Assemblies Of God Church Makoko,LASLMD12,Church,6fc905db-6311-445a-9cd9-95bf4ba09b0a
+6.45045,3.40451,,Point,LA,OSGOF,Mountain Of Fire And Miracle Ministry Lafiaji,LASLID12,Church,7005b550-38d3-4954-a12e-625b1b132ac2
+6.51437,3.34784,,Point,LA,OSGOF,Apostolic Church Assembly Lawanson,LASMUN05,Church,701977ef-122a-4ca3-bd8e-685b48049dae
+6.6502,3.34634,,Point,LA,OSGOF,Cherubim And Seraphim Church Oke Ira,LASIKA10,Church,702137a7-5eaa-4c6b-a516-26749c9f3997
+6.50022,3.38953,,Point,LA,OSGOF,Hossana Church Iwaya,LASLMD04,Church,7028f180-d373-4f93-a765-d2ca4ae48e6e
+6.49341,3.37841,,Point,LA,OSGOF,The Apostolic Church Alagomeji,LASLMD03,Church,703548f7-9272-4a9b-9b45-09ff004a7704
+6.46998,3.16807,,Point,LA,OSGOF,Goodness Believe Outreach Jakande New Site,LASOJO07,Church,703c26dd-0a6f-444d-baa8-b45f77f5bac2
+6.53933,3.3679,,Point,LA,OSGOF,Redeemed Church Onipanu,LASSMU09,Church,70957fe6-6e4a-4009-8ca6-73886a7b6a5c
+6.52785,3.32324,,Point,LA,OSGOF,Deeper Life Bible Church Ire Akari,LASOIO14,Church,70a16e4e-6f62-4758-9c3d-69b338da1b24
+6.5394,3.30197,,Point,LA,OSGOF,Foursquare Gospel Church Ejigbo,LASOIO03,Church,715a0c2e-6975-4ecc-9e27-14b0abc9d612
+6.51234,3.34224,,Point,LA,OSGOF,Celestial Church D Zone,LASMUN17,Church,7183c77a-6591-4773-8c0e-8d83f62dcb71
+6.49794,3.32121,,Point,LA,OSGOF,Powerline Bible Church Amuwo Odofin,LASOIO18,Church,718b977b-eb1b-48f8-b1b2-8ef1e1c80588
+6.62448,3.35344,,Point,LA,OSGOF,Wake Up To Jesus Global,LASIKA02,Church,7225ab34-7302-4224-86fb-14c7a01f6d72
+6.45981,3.3526,,Point,LA,OSGOF,Spirit And Truth Church Alayabiagba,LASATO08,Church,7239bdee-8369-42f4-90e7-f1c2587cac4f
+6.49264,3.31996,,Point,LA,OSGOF,The Lord's Chosen Charismatic Renewal Church Hq,LASAON04,Church,725c5698-3ac4-4ca2-ab64-dbc46301613b
+6.54736,3.39017,,Point,LA,OSGOF,Redeemed Bethel Parish Gbagada Apelehin,LASSMU03,Church,725db271-0005-4f1b-bdad-5df83d8cf93b
+6.59634,3.29279,,Point,LA,OSGOF,Destiny Sanctuary Egbeda,LASAMO19,Church,7274245d-36cc-4ca2-a8d7-9d52cf256c4e
+6.45715,3.20693,,Point,LA,OSGOF,St Micheal's Anglican Church Ojo Town,LASOJO08,Church,7277820c-58c3-40d7-b38c-146d50204871
+6.64218,3.32931,,Point,LA,OSGOF,African Church Cathedral Ifako,LASIOE05,Church,7285860e-1b94-4904-89dd-f9af662bc58a
+6.60256,3.98546,,Point,LA,OSGOF,Christ Intervention Gospel Ministry Odomola,LASEPE11,Church,72ac90fc-4e31-4401-99fd-5e1e2e308134
+6.41991,3.32928,,Point,LA,OSGOF,Rccg Small London Parish Igbologun,LASAON09,Church,72d4b862-dc62-4fac-b786-1c89af1f5516
+6.55609,3.34266,,Point,LA,OSGOF,Redeemed Christian Church Of God Orile Oshodi,LASOIO01,Church,73422330-d3fa-4623-9d9d-b207b4a60943
+6.48012,3.35311,,Point,LA,OSGOF,Redeemed Christian Church Of God Abebe,LASSUE11,Church,7342d051-6fce-4bf3-9372-f495ba3779e9
+6.44756,3.40704,,Point,LA,OSGOF,Methodist Church Nigeria Araromi Odo,LASLID04,Church,7347856e-1d92-4fd4-bdcb-0ad41023ba6c
+6.52523,3.32202,,Point,LA,OSGOF,Redeemed Christian Church Of God Ire Akari,LASOIO14,Church,73481143-ef30-4052-9e56-10caa270f00f
+6.52303,3.33195,,Point,LA,OSGOF,Channel Of Truth Evanglican,LASOIO13,Church,735535d4-3332-4e3f-a899-c69ea8ed761c
+6.49671,3.32656,,Point,LA,OSGOF,The Redeemed Church 1 Ijeshatedo,LASSUE02,Church,737c9bcf-9a85-4251-aa36-78e1e38bbc8e
+6.47588,3.35133,,Point,LA,OSGOF,Christ Apostolic Church Sari Iganmu,LASAPA12,Church,739d0650-eb6c-4408-ad2e-3c57d495f3f9
+6.48102,3.37509,,Point,LA,OSGOF,Cherubim And Seraphim Church Ebute Metta,LASLMD08,Church,73a95a73-7a7f-47b0-bb88-52d60e549a94
+6.40814,3.38107,,Point,LA,OSGOF,St Luke African Bethel,LASAPA02,Church,73b1956b-9d5f-4512-a88a-8b43a7e7dff0
+6.52112,3.34875,,Point,LA,OSGOF,Deeper Life Bible Church Idi Araba,LASMUN11,Church,73c7725b-fe31-40ab-86f8-799a7b022bc9
+6.5744,3.34398,,Point,LA,OSGOF,The Apostolic Church Shogunle,LASOIO20,Church,73d444ad-dfe2-4616-8604-b3600def265c
+6.61435,3.34783,,Point,LA,OSGOF,Redeemed Christian Church Of God Adekunle,LASIKA07,Church,73dba8cb-9648-4460-8443-6f9038f39a5b
+6.46311,3.33514,,Point,LA,OSGOF,St John Church Abule Kere,LASATO03,Church,73e41ada-e5ec-4c2d-b27a-1a47e809f3de
+6.51409,3.32941,,Point,LA,OSGOF,Holy Saviour Church Of Christ Ilasamaja,LASOIO13,Church,74079696-4543-461f-b384-4dc3a5ba9ffe
+6.6615,3.31142,,Point,LA,OSGOF,Redeemed Christian Church Of God New Oko Oba,LASIOE14,Church,7422a743-9c4f-4e79-8f3a-2d54a4c60f4b
+6.53147,3.31596,,Point,LA,OSGOF,Winners Gospel Church Ailegun,LASOIO12,Church,748e28c4-d04c-4410-a68e-8355f20799bd
+6.52338,3.33252,,Point,LA,OSGOF,Merciful Church Of Christ Ilasamaja,LASOIO13,Church,74f955be-409b-4c9f-8dd7-96b76230df82
+6.55276,3.39727,,Point,LA,OSGOF,Redeemed Christian Church Of God Oworonsoki,LASKSE17,Church,750c0caa-9f7a-46ed-b120-e53a42717401
+6.50691,3.34342,,Point,LA,OSGOF,Celestial Church Of Christ 2 Ikate,LASSUE08,Church,75e4f4d1-19d0-479a-9b8d-e28cf7964fa1
+6.64309,3.36158,,Point,LA,OSGOF,Celestial Church Of God Ojodu Kudoro,LASIKA08,Church,75fa4b2a-89de-443c-80a7-c90543ee9b89
+6.63218,3.35399,,Point,LA,OSGOF,City Of Life Church Agidingbi,LASIKA02,Church,764492b2-9fcd-4dfe-b292-2cf548b60e54
+6.46353,3.3331,,Point,LA,OSGOF,Kingdom Hall Of Jehovah Witness Alaba,LASATO06,Church,76d3e50f-041e-4e54-a4e1-b7689ed64ffb
+6.48917,3.34738,,Point,LA,OSGOF,St Peter's Church Aguda,LASSUE22,Church,76fc8470-c14d-4d10-8a5c-8c5e154fbff6
+6.44139,3.88538,,Point,LA,OSGOF,Kingdom Hall Of Jehovah's Witness Ilado,LASIUI09,Church,773d4f5a-c2fb-40cf-8f80-1eaae72470e0
+6.54749,3.29558,,Point,LA,OSGOF,Holiness Assembly Church Agbaka,LASOIO10,Church,7745c2ea-ed0a-4b88-ad35-94770acdb1bd
+6.45215,3.3917,,Point,LA,OSGOF,Redeemed Chuch God Church Popo Aguda,LASLID19,Church,775982e7-378d-48ec-9afc-c79849c48673
+6.47208,3.56589,,Point,LA,OSGOF,Mountain Of Fire Church Ajah Thomas,LASEOA03,Church,779b0c02-32fe-4da5-be92-eb9efa2eeca0
+6.54768,3.30435,,Point,LA,OSGOF,Gospel Apostolic Church Ejigbo,LASOIO09,Church,77acd892-2c3e-480a-8bcf-2634c27a6baf
+6.45151,3.39276,,Point,LA,OSGOF,Bishop Tugwell Memorial Church Popo Aguda,LASLID01,Church,77c9eb17-67a8-4bf1-97ff-de0665aec7e9
+6.53785,3.36397,,Point,LA,OSGOF,Divine Appointment Mission Onipanu,LASMUN18,Church,78308a84-37bc-4c37-bd91-e0a876dd0039
+6.52409,3.39097,,Point,LA,OSGOF,Deeper Life Bible Church Akoka,LASSMU02,Church,7847053a-26ed-4c92-a0ae-7a82441dd0a5
+6.49597,3.71829,,Point,LA,OSGOF,Ecwa Church Dongo,LASEPE12,Church,78671856-417b-4d90-a23e-4ecc301cda81
+6.57784,3.37053,,Point,LA,OSGOF,Celestial Church Of Christ Wasimi Parish Wasimi,LASIKA18,Church,7890a5e3-b0de-49b4-9ae3-1beb9580ae9d
+6.52633,3.30281,,Point,LA,OSGOF,Redeemed Christian Church Of God Oke Afa,LASOIO17,Church,7894b6bb-6b47-4c24-957d-360dd64d254d
+6.5711,3.34419,,Point,LA,OSGOF,Christ Apostolic Church Ladipo,LASOIO08,Church,789a826e-5646-4248-b45f-c0cccfecb1cb
+6.45798,3.34772,,Point,LA,OSGOF,Redeemed Christian Church Of God Aiyetoro,LASATO01,Church,789d6365-6fe7-46ca-b3fe-c0aa1d335f79
+6.45534,3.33883,,Point,LA,OSGOF,Baptist Church Onibaba,LASATO02,Church,78ba7d3c-2003-4ee0-a92c-02ddca27691e
+6.50447,3.32532,,Point,LA,OSGOF,Christ Ambassador Parish Ijeshatedo,LASMUN13,Church,7916c27b-273f-45e4-8883-0f6bb243e557
+6.52585,3.38757,,Point,LA,OSGOF,Christ Apostolic Church Akoka,LASSMU02,Church,792aa65b-17a3-444c-9389-41100574be7d
+6.53399,3.36427,,Point,LA,OSGOF,World Crusader,LASMUN10,Church,792bdce4-f7aa-439a-ad19-5a88791af624
+6.50185,3.38898,,Point,LA,OSGOF,The Christ Peoples Church Iwaya,LASLMD04,Church,794fb3f6-85d1-45ae-962c-fcaabd548835
+6.5625,3.33675,,Point,LA,OSGOF,Mountain Of Fire And Mirracle,LASOIO16,Church,796865e7-f385-444a-8315-02975307259a
+6.46983,3.29281,,Point,LA,OSGOF,Diocese Of Lagos Church Of The Pentecost,LASAON07,Church,798b7756-e3e8-417a-b249-36ff9b6da54e
+6.49323,3.12391,,Point,LA,OSGOF,Foursquare Gospel Church Ijanikin,LASOJO06,Church,7aaf6d9e-ac36-4b54-a8a5-56444a94d01d
+6.45387,3.32523,,Point,LA,OSGOF,Church Of Christ Awodi Ora,LASATO07,Church,7ac751dc-c493-4d42-88f0-17106f70340d
+6.44175,3.14735,,Point,LA,OSGOF,St Phillp's Anglican Church Ese Ofin Riverine,LASOJO02,Church,7b344d53-0b41-41e8-a010-70578734907d
+6.58085,3.34123,,Point,LA,OSGOF,Ogo Oluwa Shogunle,LASOIO20,Church,7b391ece-29ba-4e65-9967-ab200741b99d
+6.45293,3.10335,,Point,LA,OSGOF,Cherubim And Seraphim Church Riverine,LASOJO03,Church,7bcd2828-726c-46e5-a41f-b85819f639e2
+6.66162,3.32323,,Point,LA,OSGOF,St Andrew Church Ifako,LASIOE12,Church,7bd1920b-5359-4856-8851-8ec2e87f155d
+6.52513,3.34019,,Point,LA,OSGOF,United African Methodist Church Mushin,LASMUN01,Church,7bde7dfa-2eb6-43aa-9b34-991602e371a4
+6.4296,3.1057,,Point,LA,OSGOF,St Michael African Church Moba,LASBDY15,Church,7bdf7e44-309b-413e-9507-8b893feea3a9
+6.49731,3.32884,,Point,LA,OSGOF,Redeemed Christian Church Of God 2 Ijeshatedo,LASSUE02,Church,7c11f673-dd9c-4502-ab41-984f53ec00f8
+6.49695,3.33023,,Point,LA,OSGOF,Cherubim And Seraphim Church 1 Ijeshatedo,LASSUE21,Church,7c14ae0a-8ccf-4383-a632-89ea2b856efe
+6.5604,3.3858,,Point,LA,OSGOF,Gospel Apostolic Church Soluyi,LASKSE06,Church,7c1b9265-ec83-4178-997b-9c2aac717d5d
+6.45349,3.33556,,Point,LA,OSGOF,Redeemed Christian Church Of God 1 Onibaba,LASATO07,Church,7c242b5a-e9a0-4aea-ba2c-0a5e419cf3cf
+6.55007,3.32171,,Point,LA,OSGOF,Cherubim And Seraphim Church Ajao Estate,LASOIO04,Church,7c455cee-a5e0-421e-92ba-7bd646c473bc
+6.46454,3.32814,,Point,LA,OSGOF,Celestial Church Of Christ Alaba,LASATO14,Church,7c50c671-c85e-41bf-a391-de706836bc84
+6.39418,2.86647,,Point,LA,OSGOF,Catholic Church Yovoyan Bad,LASBDY05,Church,7c835fd9-5149-4b41-a9b3-bdaa9f5992d5
+6.47162,3.636,,Point,LA,OSGOF,St Peter'ss Anglican Church Sango Tedo,LASEOA18,Church,7cc0be47-6023-4f56-b03c-fcf61d423be1
+6.62359,3.98506,,Point,LA,OSGOF,First Africa Church Poka,LASEPE15,Church,7d397144-370e-4d8d-ba1d-9a6229a8c48b
+6.49985,3.33499,,Point,LA,OSGOF,The Redeemed Church 2 Itire,LASSUE21,Church,7d4787c3-b764-4a00-8bc6-6947370ac287
+6.5055,3.33263,,Point,LA,OSGOF,Deeper Life Bible Church Itire,LASMUN14,Church,7de34745-05b1-4201-9867-de2b18e081a0
+6.50405,3.34236,,Point,LA,OSGOF,Christ Apostolic Church Ikate,LASSUE08,Church,7e0384f0-ee22-41c6-9b57-a82bed5de792
+6.4691,3.34757,,Point,LA,OSGOF,First Baptist Church Amukoko,LASATO12,Church,7e11596d-fd38-417d-a5b3-e9c43ddde0af
+6.42416,3.14402,,Point,LA,OSGOF,Celestial Christian Church Origele Riverine,LASOJO09,Church,7e2a626f-c00b-4689-81db-f3e851886fdd
+6.45381,3.39308,,Point,LA,OSGOF,Fountain Of Deliverance Church Popo Aguda,LASLID17,Church,7e64b3e3-9b83-498a-898c-aa58e28774d7
+6.46465,3.3546,,Point,LA,OSGOF,Baptist Church Oridilu,LASATO05,Church,7e894f75-8bcb-4e54-97b8-0979efb170e3
+6.56699,3.34364,,Point,LA,OSGOF,Gospel Penticostal Church Shogunle,LASOIO16,Church,7eb28a8f-c28c-424d-9874-e7e26fca604a
+6.55199,3.38897,,Point,LA,OSGOF,Celestial Church Of God Church Gbagada,LASKSE06,Church,7ede60f1-66ee-4f45-a808-6867d3afcddd
+6.60512,3.31592,,Point,LA,OSGOF,Trem Valey Estate,LASIKA13,Church,7ee8dc35-e512-40a6-b284-c26a4f076dd5
+6.56642,3.277,,Point,LA,OSGOF,The Apostolic Church Isheri Olofin,LASAMO28,Church,7f4fa94a-bdff-4add-bf4a-6493fae22e73
+6.47957,3.37458,,Point,LA,OSGOF,The Church Of New Jerusalem,LASLMD08,Church,7f568b17-1487-4172-b9a4-5096c9ae256e
+6.53582,3.38572,,Point,LA,OSGOF,Christ Apostolic Church Orisun,LASSMU14,Church,7f8d52da-7e9d-4afc-bfac-8b330461076f
+6.4855,3.38374,,Point,LA,OSGOF,The Cathedral Church St Jude,LASLMD09,Church,7fcb5a89-c33d-4ee8-a320-c62f130e727b
+6.6042,3.38806,,Point,LA,OSGOF,Redeemed Christian Church Of God Fountain Of Life Aiyedere,LASKSE19,Church,7ff3b2f7-ae49-45a4-9054-63d591d42a31
+6.53053,3.34262,,Point,LA,OSGOF,Mountain Of Fire And Miracle Mushin,LASMUN01,Church,7ff68580-77fe-46ed-a94f-a070ade33383
+6.46351,3.32835,,Point,LA,OSGOF,Baptist Church Alaba,LASATO14,Church,7ffbf89a-38ab-4f71-8fd3-b1ede1cb869d
+6.64517,3.47966,,Point,LA,OSGOF,Anglican Church Igbo Olomu,LASIKU06,Church,8024384a-6083-44cb-8fc9-eda9b1cd7257
+6.51638,3.65524,,Point,LA,OSGOF,Evangelical Church Ipeshu,LASEPE12,Church,809270f4-7e53-470f-a1b6-04bfc9a36d29
+6.53154,3.34806,,Point,LA,OSGOF,Mountain Of Fire Miracle Shadd,LASMUN12,Church,80c7f731-70d6-4eb6-9bde-df42a08f084c
+6.48592,3.38371,,Point,LA,OSGOF,St Micheal Chapel Sango Egba,LASLMD09,Church,8104ff22-11fb-4661-bb43-0d6b8b87e151
+6.60749,3.29586,,Point,LA,OSGOF,Word Of Faith Bible Int,LASAMO12,Church,81062a33-2514-47e4-bbf7-785a8a99d03d
+6.6036,3.31415,,Point,LA,OSGOF,Redeemed Christian Church Of God Higher Ground,LASAMO35,Church,811cd23b-8edf-4242-b70b-4c0d87a1bcb2
+6.42934,3.49213,,Point,LA,OSGOF,St Rapheal Orisuniye Ccc,LASEOA13,Church,8183955d-09cc-4459-95fe-d321154a9112
+6.56391,3.33262,,Point,LA,OSGOF,Mountain Of Fire And Miracle Mafoluku,LASOIO19,Church,82366a73-3f48-47ea-a0cd-01af7c66f6d6
+6.5366,3.36993,,Point,LA,OSGOF,First Baptist Church Shomolu,LASSMU12,Church,82426db2-4c38-45f8-8acb-7f62ac47705d
+6.50297,3.32913,,Point,LA,OSGOF,Freedom Christ Mission Ijeshatedo,LASMUN13,Church,824c90f8-d69c-4c22-a2a9-88531a3a3dfb
+6.57972,3.34037,,Point,LA,OSGOF,Divine Salvation Maboju,LASOIO20,Church,824da740-948f-45f4-b363-8657701a5d1e
+6.53394,3.32917,,Point,LA,OSGOF,Christ Apostolic Church Isolo,LASOIO06,Church,825b2000-205e-436d-af1b-02fd20ac040f
+6.48085,3.37657,,Point,LA,OSGOF,Redeemed Christian Church Of God 4 Ebute Metta,LASLMD08,Church,82870770-0860-49d4-abcf-1f21e3be850b
+6.46745,3.16675,,Point,LA,OSGOF,Clestial Christian Church Jakande New Site,LASOJO07,Church,82d9a530-12d2-4625-924e-9b511809ca72
+6.5036,3.33171,,Point,LA,OSGOF,Divine Apostolic Church Ijeshatedo,LASMUN13,Church,830438d0-2763-41f7-b5db-f831d36dd73a
+6.65569,3.29911,,Point,LA,OSGOF,Christ Apostolic Church 2 Ilupeju Titun,LASIOE01,Church,8332d706-bcac-46ad-a556-faffea32ec95
+6.54003,3.22712,,Point,LA,OSGOF,Living Bread Church Akesan,LASAMO08,Church,833fc2d0-358a-42db-99b7-f937f7d8aac5
+6.4657,3.36266,,Point,LA,OSGOF,C S Movement Ijora,LASAPA01,Church,83488967-23f8-46ca-adb1-c76502092f88
+6.49936,3.38413,,Point,LA,OSGOF,Christ Apostolic Church Makoko,LASLMD12,Church,8358934a-d643-4f2f-9cb7-300e8ff9b2ce
+6.47613,3.34698,,Point,LA,OSGOF,Last Days Messenger Sari Iganmu,LASAPA03,Church,8384b2d2-20dd-4501-a812-a316b86f23e3
+6.51943,3.33068,,Point,LA,OSGOF,Glorious Destiny Ilasamaja,LASOIO13,Church,83d6c312-18e2-49a8-a531-2e9836bb29e1
+6.50924,3.37462,,Point,LA,OSGOF,All Saints Church Yaba,LASLMD10,Church,8428ff17-1bbe-42f5-a0ff-727ffb68f6fd
+6.64037,3.479327,,Point,LA,eHA_Polio,New Life Gospel Church,LASIKU28,Church,844ad225-cd61-4369-829c-ff918e20ea59
+6.56888,3.34511,,Point,LA,OSGOF,Deeper Life Bible Church Ladipo,LASOIO08,Church,846fad2d-f9fc-4bdc-b9c6-9691e5962ee7
+6.52188,3.29466,,Point,LA,OSGOF,Dominion Christian Church Oshoru,LASOIO17,Church,84dca5da-074e-40c3-be7d-736cbef42d28
+6.55306,3.355,,Point,LA,OSGOF,Fountain Of Life Church Ilupeju,LASMUN09,Church,84e2ef95-0042-49bb-88aa-bf3d33fa6328
+6.61165,3.27303,,Point,LA,OSGOF,Gospel Faith Mission Mosan,LASAMO03,Church,8502da11-59d9-42e9-b4a3-72c6c6f7f1e5
+6.47559,3.3295,,Point,LA,OSGOF,The Apostolic Church Coker,LASSUE09,Church,85207644-5c05-43a5-b8a2-438baf44f60b
+6.67829,3.9844,,Point,LA,OSGOF,Christ The King Church Odo Ayan,LASEPE15,Church,857ff180-cb46-4adb-a8ae-07cf134eff5f
+6.57765,3.3412,,Point,LA,OSGOF,St Martins Catholic Church Shogunle,LASOIO20,Church,859d5e61-3788-4d37-ab37-ff929d5f79ac
+6.52104,3.32968,,Point,LA,OSGOF,Christ Embassy Church Ilasamaja,LASOIO13,Church,85b0ee02-ccab-45fe-a9f8-f2a74e976e61
+6.382434,2.731475,,Point,LA,eHA_Polio,First Born Church,LASBDY10,Church,85c4432e-ebdd-494a-abd2-7d027470f013
+6.66049,3.32302,,Point,LA,OSGOF,St Kizito Catholic Church Ifako,LASIOE11,Church,85d9551d-570f-4fc9-bad0-06a261ab1682
+6.51391,3.32806,,Point,LA,OSGOF,Redeemed Christian Church Of God Ilasamaja,LASOIO13,Church,85df3db4-3056-4de1-b7f6-1dfe3ae9a356
+6.54511,3.37944,,Point,LA,OSGOF,Apostolic Church Orile Pedro,LASSMU03,Church,8631d6e0-dcc9-41f4-9b0b-223f7365dc65
+6.53558,3.28278,,Point,LA,OSGOF,Light Chapel Church Agodo,LASAMO18,Church,865c9730-57eb-4bb4-8359-c53f466b06a4
+6.45267,3.55569,,Point,LA,OSGOF,Mercy Chapel International Ikota,LASEOA08,Church,8676bfc6-d88a-4582-a6d3-e4ddabf8a219
+6.48416,3.18974,,Point,LA,OSGOF,Jesus Fire Ministry Igbo Elerin,LASOJO12,Church,867d6f23-2941-4962-a888-0639a23d6440
+6.51608,3.31962,,Point,LA,OSGOF,Redeemed Christian Church Of God 2 Okota,LASOIO13,Church,86ac3f38-890a-4edc-a81f-2b818fc56439
+6.53572,3.31108,,Point,LA,OSGOF,Church Of Annunciation Ilamoshe,LASOIO12,Church,86f9c970-a820-4459-a4c7-12b25cd61716
+6.63825,3.37779,,Point,LA,OSGOF,Jehovah Witness Isheri,LASKSE12,Church,872be727-932f-4766-99bc-3c80e8a0ab52
+6.45847,3.23355,,Point,LA,OSGOF,Dominion Faith Ministry Onireke,LASAON01,Church,8745e47a-6b0a-4f68-899c-f63db37da844
+6.56854,3.3448,,Point,LA,OSGOF,Foursquare Gospel Church Ladipo,LASOIO08,Church,876eb7b3-ae95-4946-9c19-448b87b9c434
+6.49574,3.3879,,Point,LA,OSGOF,Celestial Church Of God Church Makoko,LASLMD12,Church,877bcb72-1158-44c4-bd45-a2afa69d60c3
+6.57964,3.24086,,Point,LA,OSGOF,Redeemed Christian Church Of God Peace,LASAMO15,Church,8782bdde-aa6e-4def-9d29-74302586ba4b
+6.59901,3.29429,,Point,LA,OSGOF,Christ Apostolic Church Power Of God Church Egbeda,LASAMO19,Church,87f22500-931a-42ea-bedb-a0bf22a7ff1c
+6.5199,3.36226,,Point,LA,OSGOF,Jerusalem Church Of God International Idi Oro,LASMUN05,Church,87fe192e-1702-4c7e-a367-473fae7f2802
+6.50962,3.33698,,Point,LA,OSGOF,Four Square Gospel Church Itire,LASMUN17,Church,88202c91-e3cd-4b45-bf6e-c7a49538b433
+6.52782,3.36374,,Point,LA,OSGOF,First African Odo Olowo Parish Fadeyi,LASMUN10,Church,8842b7fa-bb72-4d66-b1d1-dea6632bc75a
+6.57873,3.34166,,Point,LA,OSGOF,Redeemed Christian Church Of God 1 Shogunle,LASOIO20,Church,887bd689-79a3-493d-ac43-a60aa9dfe41a
+6.60881,3.28191,,Point,LA,OSGOF,Redeemed Christian Church Of God Sceptre Of Judah,LASAMO29,Church,88b1460d-9667-46e5-9669-70759cb2d5f5
+6.52457,3.36023,,Point,LA,OSGOF,Apostolic Church 1 Idi Oro,LASMUN04,Church,89782d9e-f508-43de-a260-ac0279fcff5e
+6.58127,3.95754,,Point,LA,OSGOF,C A C Oke Ibukun Papa,LASEPE03,Church,89a9f7b0-3716-4adc-bbc7-d72e22edc45a
+6.54398,3.37654,,Point,LA,OSGOF,Christ The King Church Orile Pedro,LASSMU03,Church,89c7e916-6ad1-401a-9369-6df7bce879a8
+6.44325,3.33452,,Point,LA,OSGOF,African Church Ibafon,LASATO04,Church,89ee1ff6-d5f0-4cec-a280-be459b30280c
+6.46526,3.33283,,Point,LA,OSGOF,Christ Apostolic Church Alaba,LASATO06,Church,89f2c488-14be-41a4-8322-4d44aa75c127
+6.5124,3.34447,,Point,LA,OSGOF,Redeemed Church Shalom Hall,LASMUN17,Church,89ff38fa-c973-4390-b815-5a3eae4d561a
+6.46148,3.1862,,Point,LA,OSGOF,St Patric's Catolic Church Alaba Rago,LASOJO14,Church,8a1f1cd2-724d-4a55-b4ee-9eb24f73b420
+6.51955,3.34013,,Point,LA,OSGOF,Redeemed Church Peace Parish Abule Igbehin,LASMUN07,Church,8a2b2364-951b-43da-8c8d-e5de2a67efa5
+6.50872,3.33626,,Point,LA,OSGOF,Cherubim And Seraphim Church 1 Itire,LASSUE18,Church,8a2defc8-5190-48be-aaa1-8191076a33e1
+6.60897,3.35563,,Point,LA,OSGOF,Christ Apostolic Church Alausa,LASIKA04,Church,8a4ac898-e266-4823-8524-ef5fbf3f4ced
+6.65542,3.79929,,Point,LA,OSGOF,Mount Zion C And S Church Itoikin,LASEPE09,Church,8a4fb1ed-a34d-45a9-a17c-e7c14d9bd1ed
+6.65435,3.3147,,Point,LA,OSGOF,Redeemed Christian Church Of God Old Oko Oba,LASIOE02,Church,8a5042ff-a58c-4a24-ab22-b07eb500455a
+6.51481,3.26396,,Point,LA,OSGOF,Christ The Redeemer Church Ijegun,LASAMO24,Church,8a517cc2-61cf-4494-907b-957f2c3b76be
+6.66842,3.30475,,Point,LA,OSGOF,The Christ Family Hamadiya,LASIOE01,Church,8ab50062-672f-4903-9138-7d8d7f2c3814
+6.50766,3.39197,,Point,LA,OSGOF,The Holy Flock Of Christ Iwaya,LASLMD18,Church,8acf5e36-57f5-4640-ae70-2699060b0335
+6.63716,3.71853,,Point,LA,OSGOF,Celestial Church Of Christ Agbele,LASEPE02,Church,8ad15ed1-9e99-42b6-aa9d-cf28406230da
+6.50896,3.32153,,Point,LA,OSGOF,Redeemed Christ Church 1 Okota,LASOIO18,Church,8aeb8031-8eae-47a2-90d6-dd6006fed13b
+6.61223,3.89912,,Point,LA,OSGOF,C And S Church Of Zion,LASEPE07,Church,8af49475-bce7-49b8-b31c-4a4cff4e4ffa
+6.5584,3.24913,,Point,LA,OSGOF,Deeper Life Church Igando,LASAMO23,Church,8b1c76f4-7446-4fc5-aa0a-977d1bf9fa15
+6.63371,3.34185,,Point,LA,OSGOF,Life Power Church Ogba,LASIOE10,Church,8b25b8fe-d87e-4547-bdec-58a481af566c
+6.47812,3.18647,,Point,LA,OSGOF,Seek Yet The Kingdom Of God Church Igbo Elerin,LASOJO12,Church,8b6972fb-2aa0-4c6b-97f8-7698991b26ee
+6.53482,3.37235,,Point,LA,OSGOF,Higher Ground Apostolic Shomolu,LASSMU12,Church,8b769d99-66c3-4d11-a339-0f6c6b86fa59
+6.49598,3.12758,,Point,LA,OSGOF,The Root Of David Assembly Church Ijanikin,LASOJO06,Church,8c2510dd-3c78-4dd8-886c-7809aa7f6092
+6.65015,3.34761,,Point,LA,OSGOF,Christ Embassy Church Oke Ira,LASIKA10,Church,8c7ba07f-4737-4448-87f9-bad10ce6832d
+6.60346,3.27433,,Point,LA,OSGOF,Christ Apostolic Church Orioke Olorun,LASAMO21,Church,8c9e07c7-90a1-4a8c-9387-df42cc1a0b1c
+6.52197,3.3497,,Point,LA,OSGOF,Celestial Church Of Christ Central Parish Idi Araba,LASMUN11,Church,8d305bbc-2c64-4317-b0ba-1bc3be8faead
+6.53935,3.37463,,Point,LA,OSGOF,Redeemed Christiay Of God Church Orile Shomolu,LASSMU13,Church,8d5501c6-771c-422e-963e-8263c21aca1e
+6.68789,3.25963,,Point,LA,OSGOF,Rock Of Salvation Church Ajegunle Ilo,LASAMO11,Church,8d6274a5-3b0c-49ad-b511-d434805df9e2
+6.51752,3.34152,,Point,LA,OSGOF,Apostolic English Assembly Abule Igbehin,LASMUN17,Church,8da5c17e-a752-4539-8804-33710b2a9dd9
+6.67887,3.71274,,Point,LA,OSGOF,Methodist Church Odo Ayandelu,LASEPE05,Church,8db20457-bec7-4c87-94ed-c4b6b417cc6d
+6.46467,3.02838,,Point,LA,OSGOF,United African Method Church Esepe Village,LASBDY08,Church,8dc05460-b4cf-4dd6-a075-16daf7ba1fa2
+6.52018,3.34851,,Point,LA,OSGOF,Methodist Church Yaba,LASMUN11,Church,8ddbbddf-5f50-492f-ac9d-d89473464d51
+6.52314,3.35928,,Point,LA,OSGOF,Assemblies Of God Church Idi Oro,LASMUN04,Church,8ddd4e74-20f7-49af-b954-efd03a63a240
+6.51876,3.35961,,Point,LA,OSGOF,Rhema Church Idi Oro,LASMUN05,Church,8e25f03a-f477-4dd3-acd2-2bb076caeaa2
+6.49907,3.38332,,Point,LA,OSGOF,Cherubim And Seraphim Church Alagomeji,LASLMD05,Church,8e2fa90b-d8a3-4f48-9069-23643ae602a5
+6.62645,3.35579,,Point,LA,OSGOF,His Purpose Church Agidingbi,LASIKA02,Church,8e5a77ea-8d24-4b06-98a2-44f87f13bb95
+6.5315,3.38819,,Point,LA,OSGOF,Hellen Baugh House Church Akoka,LASSMU02,Church,8e5fb4b2-0274-4285-be32-fa0349ecee33
+6.52832,3.30102,,Point,LA,OSGOF,Salvation Church Of Lord International Oke Afa,LASOIO03,Church,8ecfbdb5-5a82-476b-a5af-7f9fcbfb29a0
+6.49806,3.32869,,Point,LA,OSGOF,Cherubim And Seraphim Church Ijeshatedo,LASSUE02,Church,8f1c5e8c-8cfc-413d-b636-b72683d9094b
+6.64524,3.34533,,Point,LA,OSGOF,Lady Of Holy Ghost Oke Ira,LASIKA09,Church,8f2e2538-8ae2-4820-8de8-b6334374bb9a
+6.61282,3.31558,,Point,LA,OSGOF,Christ Apostolic Church Oniwaya,LASAGG02,Church,8f375b6f-af4d-4d61-bdaf-72d3bb3d8ba1
+6.6455,3.34292,,Point,LA,OSGOF,Mercy Of Turnround,LASIOE09,Church,8f4451f5-1006-43c3-9919-5ba784c4c87b
+6.45095,3.24175,,Point,LA,OSGOF,Victory Christian Church Abule Oshun,LASAON05,Church,8f5a77e7-9f32-4a39-9555-7f3e4372647a
+6.51391,3.3824,,Point,LA,OSGOF,The Redeemed Christ Church 2 Onike,LASLMD15,Church,8f856024-a280-4c36-9607-8bb5b0170f3a
+6.44931,3.48961,,Point,LA,OSGOF,K And S Church 1 Ebute Kate,LASEOA10,Church,8f9b2e81-7251-442f-94ed-fbc789f7085d
+6.47664,3.12673,,Point,LA,OSGOF,Foursquare Gospel Church Era Awori,LASOJO07,Church,8fb6f6ef-490d-4ae3-ab40-a25a8b14cabe
+6.62571,3.30027,,Point,LA,OSGOF,Pentecostal Mission Isale Odo,LASAGG04,Church,9001f895-013d-4a2f-a8d5-f8aa9022c470
+6.45223,3.32576,,Point,LA,OSGOF,Redeemed Christian Church Of God Awodi Ora,LASATO07,Church,90111065-b965-4375-b7c6-8924c32b1831
+6.52996,3.37867,,Point,LA,OSGOF,Sinai Christ Chapel Of Glory Shomolu,LASSMU04,Church,9057adfa-ba39-493e-8bda-07fb6ce8fe2d
+6.56487,3.335,,Point,LA,OSGOF,Deeper Life Bible Church Mafoluku,LASOIO16,Church,90b0d7cc-7df7-4cf5-a5a9-9f3c1d218d19
+6.4217,3.34993,,Point,LA,OSGOF,Mount Zion Church Ilutuntun,LASAON09,Church,90c27850-2582-4caa-8ce3-495d580bb70a
+6.53679,3.34525,,Point,LA,OSGOF,Redeemed Church Of God Glory Par,LASMUN19,Church,9124982e-3980-47e8-b5b0-740de302bab4
+6.44862,3.33603,,Point,LA,OSGOF,Sowers International Ministries Olodi Apapa,LASATO13,Church,91304434-caab-4cd1-9651-dc7406fca08c
+6.53427,3.32763,,Point,LA,OSGOF,Oasis Of Life Isolo,LASOIO06,Church,91580cad-26b7-432b-a923-dc2694cc70c1
+6.43121,3.37603,,Point,LA,OSGOF,Catholic Church Sagbokoji,LASAPA02,Church,916cf5bc-8cd5-4c1c-99ac-053adab96773
+6.44553,3.49518,,Point,LA,OSGOF,K And S Church 2 Ebute Kate,LASEOA10,Church,91a277cc-bd24-475b-af3f-c46d0963e458
+6.53851,3.3082,,Point,LA,OSGOF,Christ Ascension Church 2 Ilamoshe,LASOIO12,Church,92950bad-11e6-4fc1-ba54-eab4a9dc5363
+6.40522,3.15585,,Point,LA,OSGOF,African Church Of Beth Agaja Community Riverine,LASOJO15,Church,92951a92-13be-4135-8b42-ea57618116fb
+6.42945,3.49268,,Point,LA,OSGOF,Ologo Didan K And S Orile Ilasan,LASEOA13,Church,92a97344-e03a-4a6b-8970-00749d9f1d47
+6.56457,3.33903,,Point,LA,OSGOF,Ebenezer Baptist Church Afijalo,LASOIO16,Church,92c09e64-d701-4e8c-829f-56bec5f984b7
+6.47779,3.34123,,Point,LA,OSGOF,Word Of Evangelical Mission Orile Iganmu,LASSUE07,Church,9367b461-2f7c-4b06-abd5-b3d3886d649c
+6.53814,3.31405,,Point,LA,OSGOF,Christ Ascension Church 1 Ilamoshe,LASOIO12,Church,9414039f-560a-4ede-b92c-276a983b0574
+6.471955,3.663618,,Point,LA,eHA_Polio,The Redeemed Church of God,LASEOA18,Church,9463e8d9-55c9-48b5-a277-72583e5f67d1
+6.48017,3.35076,,Point,LA,OSGOF,Agape Baptist Church Abebe,LASSUE11,Church,94ffac98-6a58-486c-a8f3-8d314478fd41
+6.47442,3.33469,,Point,LA,OSGOF,St Micheal Anglican Church Coker,LASSUE09,Church,950827b6-1422-4b01-8e44-c12715392860
+6.48812,3.60587,,Point,LA,OSGOF,Eternal Rock Of Ages,LASEOA02,Church,9515b85f-52c6-4f10-8bf4-f90e73cb88f5
+6.60076,3.24269,,Point,LA,OSGOF,Deeper Life Bible Church Ayobo,LASAMO14,Church,9523d3cf-4679-42cb-bc25-9b49cc4f01df
+6.59586,3.36431,,Point,LA,OSGOF,Church Of The Lord Oregun,LASIKA15,Church,957471cc-eb99-4f62-98c2-e107451de96f
+6.50597,3.38758,,Point,LA,OSGOF,Testimony Church Iwaya,LASLMD18,Church,95f6f07c-8a04-4ada-8cc4-f73b70ddb1d3
+6.43088,3.37851,,Point,LA,OSGOF,Redeemed Christian Church Of God Sagbokoji,LASAPA02,Church,95fab91b-2b9d-4d9c-9c90-b6d9e43fea10
+6.63997,3.35632,,Point,LA,OSGOF,The Apostolic Church Akiode,LASIKA08,Church,9631d03e-228a-458c-9671-8652217d1cb2
+6.50049,3.38836,,Point,LA,OSGOF,Deeper Life Bible Church Makoko,LASLMD12,Church,96328ba7-83bd-4209-9593-4e73782b4994
+6.46987,3.34151,,Point,LA,OSGOF,Church Of God Mission Church Amukoko,LASATO11,Church,963b276f-be1d-4334-837b-87f5a46edbe2
+6.45012,3.39662,,Point,LA,OSGOF,Holy Cross Cathederal Lagos,LASLID01,Church,96497aae-dbd8-4c3b-9466-25fbb8ebf725
+6.43611,2.87952,,Point,LA,OSGOF,Christ The Messiah Church Ajara Seje Town,LASBDY03,Church,969623f2-e3d8-4dc0-9803-d11cc8556f72
+6.61079,3.30159,,Point,LA,OSGOF,Go Ye Church Alimosho,LASAMO34,Church,96e1c447-221d-4239-b1dd-771f10f53bf6
+6.45622,4.11884,,Point,LA,OSGOF,Foursquare Gospel Church Imoba Oke,LASEPE16,Church,976bff2f-609f-41de-9035-62919228e9cd
+6.57846,3.28064,,Point,LA,OSGOF,Christ Apostolic Church Rock Of Salvation,LASAMO28,Church,97705931-76d0-4358-8c9c-4c6b52e473d2
+6.58358,3.30669,,Point,LA,OSGOF,Christian Assembly Church Shasha Oguntade,LASAMO30,Church,97b85270-db15-4a1d-8ac1-cfaf9dae6cd9
+6.47601,3.34367,,Point,LA,OSGOF,Kingdom Hall Of Jehovah Witness Sari Iganmu,LASAPA03,Church,97d60752-6614-474e-a7e4-ca5a2cccff67
+6.55924,3.345,,Point,LA,OSGOF,Christ Gospel Apostolic Church Oshodi,LASOIO11,Church,9806487f-a548-47bf-9e65-b78c2a07ab3a
+6.49851,3.24752,,Point,LA,OSGOF,Christ Apostolic Church Ijedodo,LASAMO24,Church,985f24c6-3d49-4887-8875-ca4e005885dc
+6.41602,3.35921,,Point,LA,OSGOF,Rccg Siku,LASAPA02,Church,988f691b-955f-411a-96a9-26c12917e778
+6.48963,3.34734,,Point,LA,OSGOF,Victory Mount Zion,LASSUE22,Church,99038ec1-c7c1-42c4-bdab-24ee313342d4
+6.60537,3.39452,,Point,LA,OSGOF,The Apostolic Church Kosofe,LASKSE09,Church,9911f911-747a-4c43-8a94-0a1bb76ee423
+6.52867,3.31742,,Point,LA,OSGOF,Celestial Church Isolo,LASOIO14,Church,9926a44d-aa63-4ed0-a07c-59270af8d78e
+6.64655,3.34467,,Point,LA,OSGOF,Redeemed Christian Church Of God Victorious Faith Oke Ira,LASIKA10,Church,99270ef9-a112-441d-ac23-c7a91c92fe97
+6.49677,3.38831,,Point,LA,OSGOF,Redeemed Christian Church Of God Makoko,LASLMD12,Church,992f2fb6-8f5b-4ba1-9b55-a0a4f6d5af08
+6.53435,3.36427,,Point,LA,OSGOF,Ebenezer Apostolic Church Onipanu,LASMUN10,Church,99712c1b-3e8f-4fdf-9915-146ae00042e7
+6.45706,3.55469,,Point,LA,OSGOF,Presbyterian Church Ikota,LASEOA04,Church,99833aaf-83e3-4da2-8b18-37a9d65aed86
+6.5525,3.30326,,Point,LA,OSGOF,Redeemed Christian Church Of God 3 Ageke,LASOIO02,Church,99c991e1-db56-45e7-8fc7-e4f19fc85545
+6.47252,3.12271,,Point,LA,OSGOF,St Peter's Anglican Church Era Awori,LASOJO07,Church,99d748fd-7d2f-419a-9480-13bb4bc080fb
+6.46438,3.35182,,Point,LA,OSGOF,Catholic Church Oridilu,LASATO05,Church,9a274719-241b-438a-a582-014abe1b54c7
+6.61306,3.30608,,Point,LA,OSGOF,The Apostolic Church Papa Ashafa,LASAGG10,Church,9a297ce0-81f2-4420-badf-15b0963f128c
+6.491,3.32323,,Point,LA,OSGOF,The Redeemed Evangelical Mission Trem Odofin Park Estate,LASAON04,Church,9a6bcfab-a4c1-4ffd-ae3b-64976d180c5f
+6.55104,3.27599,,Point,LA,OSGOF,Foursquare Gospel Church Egbe,LASAMO20,Church,9a81f3e0-9897-4392-b02a-a151d068b027
+6.51716,3.33818,,Point,LA,OSGOF,Apostolic Church Power Of Mercy,LASMUN17,Church,9a953576-8999-4ffd-adf9-da3e3cc24f79
+6.56743,3.33545,,Point,LA,OSGOF,Foursquare Gospel Church Ewu Tuntun,LASOIO08,Church,9ad0e5b7-d49c-46f3-ad30-82b92dbaf4d3
+6.64477,3.71563,,Point,LA,OSGOF,Owu Methodist Church Owu,LASEPE01,Church,9ae20953-70e6-4e0f-85ed-e95ba1c7abe8
+6.60739,3.38729,,Point,LA,OSGOF,Christ Unity Evangelical Church Aiyedere,LASKSE19,Church,9b42a913-5d2f-4676-8075-270f0945262a
+6.49557,3.38809,,Point,LA,OSGOF,Standre Dulac Catholic Church Makoko,LASLMD12,Church,9b6db283-532c-4657-8ef8-39f473d1100a
+6.50208,3.37464,,Point,LA,OSGOF,Kingville Church Yaba,LASLMD11,Church,9b88a51e-5ce0-4605-81af-dc0d45e36f34
+6.50765,3.34351,,Point,LA,OSGOF,The Holy Flock Of Christ Ikate,LASSUE08,Church,9b8ad817-03ed-4095-a542-b1881765b979
+6.45948,3.33883,,Point,LA,OSGOF,First Baptist Church Layeni,LASATO10,Church,9bb38467-be0a-4474-a0dd-65f8667f6afa
+6.53669,3.39057,,Point,LA,OSGOF,Christ Afrkan Church Bariga,LASSMU03,Church,9bb6dbb6-49da-4eae-aab7-5e0e3a269fd3
+6.48383,3.37119,,Point,LA,OSGOF,Redeemed Christian Church Of God 2 Abule Nla Olaleye,LASLMD06,Church,9bd17228-42e1-4c1e-9b91-e3535687a98c
+6.62058,3.88443,,Point,LA,OSGOF,First African Church Sekungba,LASEPE07,Church,9bd3f765-dbce-4cc0-8769-592839e03100
+6.52476,3.38846,,Point,LA,OSGOF,The Redeemed Christ Church Akoka,LASSMU02,Church,9c164d96-1eb6-486f-a15b-869332a92f61
+6.47196,3.3111,,Point,LA,OSGOF,Redeemed Christian Church Of God Adaloko,LASAON04,Church,9c507f95-da63-423c-8993-66de52e704e5
+6.45601,3.39548,,Point,LA,OSGOF,Ile Adura Agbo Mimo Christ Oke Popo,LASLID16,Church,9c65ed75-4060-4c00-8bab-e336f27783be
+6.63904,3.71173,,Point,LA,OSGOF,St Peter Catholic Church Agbowa,LASEPE02,Church,9c8aa719-b86a-456a-b61e-0e2ffb295637
+6.6539,3.99236,,Point,LA,OSGOF,Rccg Chapel Of Praise Odo Ragunshin,LASEPE13,Church,9ced05f2-7c7e-48bb-83b1-4cb7b3e3ddeb
+6.55339,3.32504,,Point,LA,OSGOF,Redeemed Christian Church Of God Ajao Estate,LASOIO04,Church,9ceebb9d-9b9e-4a16-9c8c-869afd1a6dbe
+6.59678,3.30964,,Point,LA,OSGOF,Christ Apostolic Church Prayer Life Ministry Shasha Ilupeju,LASAMO35,Church,9ceef0a4-3e57-4cd0-93fe-dfe6fe0ecc97
+6.43311,3.50363,,Point,LA,OSGOF,Church Of Christ Ilasan Housing Estate,LASEOA13,Church,9d2f5878-e53f-4833-aab9-a0378d72e8c7
+6.6402,3.34588,,Point,LA,OSGOF,Holy Spirit Cathedral Aguda,LASIKA01,Church,9d48187c-476d-4773-8003-ded842ffb2b8
+6.62283,3.32933,,Point,LA,OSGOF,Christ Apostolic Church Keke,LASAGG06,Church,9d5973bf-57db-4e86-bb64-7b95c6b1352e
+6.65858,3.30048,,Point,LA,OSGOF,Jehovah Witness Abule Egba,LASIOE01,Church,9dcd4458-866a-4dd6-bf5f-593cee25cf6e
+6.47837,3.17318,,Point,LA,OSGOF,Christ Apostolic Church Mebamu Town,LASOJO01,Church,9e09478e-4811-4926-92c0-4da630924bf9
+6.44828,3.33018,,Point,LA,OSGOF,Communion Church Olodi Apapa,LASATO13,Church,9e18f18b-ec9d-472e-a3f5-497f56560ac2
+6.417592,3.327226,,Point,LA,eHA_Polio,Christ Redeem Church of God,LASAON09,Church,9e54d3dc-9f50-41fe-91d6-f9708774d9f5
+6.51186,3.33803,,Point,LA,OSGOF,Holy Way International Itire,LASMUN17,Church,9ebb22eb-cadf-42f7-9675-f96506a92fb1
+6.61249,3.39623,,Point,LA,OSGOF,Mission For Souls Maidan,LASKSE20,Church,9f0fcf4b-85aa-4e69-a086-304f80898ee3
+6.61186,3.41854,,Point,LA,OSGOF,Redeemed Christian Church Of God Victor Chapel Idera,LASKSE14,Church,9f64fc53-7dbc-462c-a3d7-0ab0fa694082
+6.67493,4.00576,,Point,LA,OSGOF,Anglican Diocese Igboye,LASEPE10,Church,9f77df1a-e245-4c41-b4e7-10617abe0de8
+6.40652,3.38209,,Point,LA,OSGOF,Epiphan Anglican Church Abagbo,LASEOA19,Church,9f7ea389-d863-4350-b376-e11fa512deab
+6.63984,3.3413,,Point,LA,OSGOF,Church House Ifako,LASIOE09,Church,a00bfdd2-2bbd-4e1d-aafd-efc2bf4007a8
+6.65905,3.33286,,Point,LA,OSGOF,Foursquare Church Ifako,LASIOE13,Church,a01ae717-3538-44e2-8844-25ee8ee674ef
+6.49923,3.37854,,Point,LA,OSGOF,Redeemed Christian Church Of God Alagomeji,LASLMD05,Church,a0348fb7-2e30-480f-9b42-49be594d887d
+6.50182,3.34405,,Point,LA,OSGOF,Celestial Church Of Christ 1 Ikate,LASSUE08,Church,a0419590-8ab9-440d-8f0d-f443d2ade73d
+6.51418,3.34375,,Point,LA,OSGOF,Redeemed Church Church Lawanson,LASMUN17,Church,a0cf2f8b-7489-43c9-84c3-53d5f0a466b4
+6.49605,3.3886,,Point,LA,OSGOF,Cherubim And Seraphim Church Makoko,LASLMD12,Church,a15ac83c-3342-4961-9014-58bc998256bf
+6.59799,3.33698,,Point,LA,OSGOF,Light House Parish Anifowose,LASIKA05,Church,a1b8cbe6-c7d4-485a-9202-05f56ac07535
+6.46456,3.33921,,Point,LA,OSGOF,Believer's Reward,LASATO03,Church,a1dfe5a2-31be-4bf9-83c9-5e85ea9e7450
+6.45879,3.3809,,Point,LA,OSGOF,St Joseph Catholic Church Elegbata,LASLID15,Church,a223a30b-c304-4b63-a5dc-428b5fa51b40
+6.63105,3.31537,,Point,LA,OSGOF,Cherubim And Seraphim Church Tabon Tabon,LASAGG12,Church,a23c7a41-19d8-45fe-a625-142292cec435
+6.65616,3.27508,,Point,LA,OSGOF,Omologede African Church Omologede,LASAMO06,Church,a2451c97-f7b9-4561-8203-00ee32b70bfa
+6.48898,3.36644,,Point,LA,OSGOF,Assemblies Of God Church Abule Nla Olaleye,LASLMD11,Church,a267c26c-5d32-4540-8183-1b9429964b3e
+6.539214,3.222835,,Point,LA,eHA_Polio,Mountain of Fire Miracle Ministries,LASAMO08,Church,a29bec20-b0f6-4e0f-b7af-ba90edcff66a
+6.668582,3.666858,,Point,LA,eHA_Polio,C C C Parish 1,LASIKU14,Church,a2ad70ce-9709-4a6c-a674-e03de773997c
+6.66556,3.30215,,Point,LA,OSGOF,Redeemed Christian Church Of God Ilupeju Titun,LASIOE01,Church,a2c62089-358a-43f7-b50c-e3bed1a1eedb
+6.55575,3.38857,,Point,LA,OSGOF,Deeper Life Church Gbagada,LASKSE06,Church,a2cae8c6-4dcd-410c-b135-aa1cd93dfe2f
+6.46346,3.34263,,Point,LA,OSGOF,Christ Life Assembly Amukoko,LASATO05,Church,a2d887c0-1d62-4d22-9ab8-113a34857a57
+6.52039,3.32794,,Point,LA,OSGOF,The Levites Living Ilasamaja,LASOIO14,Church,a2e3bfa3-b62d-4475-9ee2-7e17a79cdfc8
+6.55655,3.34134,,Point,LA,OSGOF,Oshodi Central,LASOIO01,Church,a2f0834a-104b-4385-aa46-e62b175ce340
+6.52549,3.29606,,Point,LA,OSGOF,Christ Ascension Church Ailegun,LASOIO17,Church,a2f3319f-96ec-4973-aabe-de934e2a8588
+6.57676,3.27131,,Point,LA,OSGOF,Living Faith Church Isheri Olofin,LASAMO28,Church,a333a531-67f3-4365-bbe2-1685b38094aa
+6.42948,3.10513,,Point,LA,OSGOF,Cherubim And Seraphim Church Moba Village,LASBDY15,Church,a3f41d23-59db-4df4-b297-aacc6435d8c9
+6.50064,3.38101,,Point,LA,OSGOF,Sozo Ministry Alagomeji,LASLMD05,Church,a4094e07-3e7c-4b81-9925-1a1b87aabf47
+6.62608,3.29994,,Point,LA,OSGOF,First Baptist Church Isale Odo,LASAGG04,Church,a43c0dd2-ac8d-4159-a33f-7e2e72168f74
+6.48682,3.36564,,Point,LA,OSGOF,Cherubim And Seraphim Abule Nla Olaleye,LASLMD11,Church,a487d990-c80d-43fc-8b08-5992146d78a1
+6.49621,3.37978,,Point,LA,OSGOF,Seventh Day Adventist Alagomeji,LASLMD05,Church,a4956e29-7f0e-4893-9320-99c2b96e8293
+6.65814,3.7941,,Point,LA,OSGOF,New World Church Itoikin,LASEPE09,Church,a4bc09c7-34c0-4b36-9e98-1e557b0e4b9f
+6.45396,3.34787,,Point,LA,OSGOF,Church Of Christ Ajegunle,LASATO02,Church,a4c7f562-433c-402c-a181-8d9195001d03
+6.43111,3.507,,Point,LA,OSGOF,Celestial Church Of God Ilasan,LASEOA13,Church,a51df18e-69e6-4ca9-bc69-a763fc863d92
+6.47726,3.34096,,Point,LA,OSGOF,The Redeemed Church 2 Orile Iganmu,LASSUE07,Church,a53d19bb-5e10-48e3-b6ec-0e9313b1b79e
+6.46799,3.34789,,Point,LA,OSGOF,Revival Group Church Amukoko,LASATO12,Church,a54807ec-dcc0-48be-8846-dc83447e9742
+6.63344,3.32394,,Point,LA,OSGOF,Abudant Life Gospel Church Ogba Ijaiye,LASIOE02,Church,a55e5e09-3df0-498c-a18f-48479644109b
+6.57092,3.33887,,Point,LA,OSGOF,St Luke's Christ Army Church Shogunle,LASOIO08,Church,a58c49cc-85a0-44fc-bccc-12f17b76e278
+6.52526,3.29393,,Point,LA,OSGOF,Celestial Church Ailegun,LASOIO03,Church,a5f56d3e-db38-4b4d-ba5c-12fe222c8ca6
+6.62655,3.30753,,Point,LA,OSGOF,Redeemed Province Headquarter,LASAGG04,Church,a5fa3a75-66c6-4baa-abf4-5a8797ec10a7
+6.4888,3.36624,,Point,LA,OSGOF,The Great Divine Holy Order,LASLMD11,Church,a62d06f6-c5fa-41e9-aff6-acfc055931ce
+6.5995,3.37952,,Point,LA,OSGOF,All Saints Church Ikosi,LASKSE11,Church,a64ac498-21dd-4993-bfed-3cf0ae662b0f
+6.5786,3.34171,,Point,LA,OSGOF,Redeemed Christian Church Of God Maboju,LASOIO20,Church,a6884d37-6ba3-42ac-b2c5-26fd9542b866
+6.52378,3.36554,,Point,LA,OSGOF,Evangelical Of Divine Salvatio,LASMUN02,Church,a69ac5c6-225d-40c8-a083-286f51a61347
+6.55372,3.29456,,Point,LA,OSGOF,Redeemed Christian Church Of God Agbaka,LASOIO10,Church,a709c132-88ea-4350-97a9-063596f57a0a
+6.55354,3.35869,,Point,LA,OSGOF,Redeemed Church Of God Church Ilupeju,LASMUN09,Church,a75b8225-1a0c-4a17-bfb2-0eaeac4c0cdf
+6.55219,3.25356,,Point,LA,OSGOF,C And S Moverment Church Ikotun,LASAMO01,Church,a768b65b-4798-44e9-b568-c1a1990c68d9
+6.627,3.77307,,Point,LA,OSGOF,Catholic Church Orugbo,LASEPE17,Church,a7714604-6bc4-4018-a98e-ad1463f4a696
+6.60474,3.40202,,Point,LA,OSGOF,Cherubim And Seraphim Church Owode Orile,LASKSE20,Church,a8104b6b-8fe5-4d10-97d1-f075177de11b
+6.50289,3.38824,,Point,LA,OSGOF,Redeemed Christian Church Of God 1 Iwaya,LASLMD04,Church,a837a921-9ea4-4a6d-828e-e67a6ac2195c
+6.54065,3.35602,,Point,LA,OSGOF,Ecwa Church Mushin,LASMUN12,Church,a84c291f-5453-459a-9218-d5e6a0304ae4
+6.50422,3.33231,,Point,LA,OSGOF,Methodist Church Ijeshatedo,LASMUN14,Church,a85d1a5f-01ed-4b2c-9644-8f5048d21b11
+6.45252,3.40402,,Point,LA,OSGOF,Gods Kingdom Society Lafiaji,LASLID12,Church,a8aa41e1-0058-4fd7-90d7-f3e7ce96f93c
+6.64974,3.35813,,Point,LA,OSGOF,St Timothy Catholic Church Yakoyo,LASIKA08,Church,a8b5fbfb-5096-436f-b17c-7fc8ed429ac9
+6.56002,3.3491,,Point,LA,OSGOF,The Apostolic Church Oshodi,LASOIO11,Church,a8d63792-eee9-4d77-b418-3a083ef533ed
+6.60502,3.98694,,Point,LA,OSGOF,Rccg Salvation Model Parish Odomola,LASEPE11,Church,a93c6f2d-67b1-4dce-8b12-9f21abdaccf2
+6.45216,3.391,,Point,LA,OSGOF,Salvation Army Lagos Centre Corp,LASLID19,Church,a966b821-df08-4823-be43-96c09baac86a
+6.49758,3.32545,,Point,LA,OSGOF,The Apostolic Church Ijeshatedo,LASSUE17,Church,a96961cf-89d4-4f31-8b0e-db578408134e
+6.54976,3.3381,,Point,LA,OSGOF,Foursquare Church Afariogun,LASOIO01,Church,a9989145-01ee-45dc-9e62-a03ea54fd28e
+6.63793,3.31901,,Point,LA,OSGOF,Gospel Mission Church Oko Oba,LASIOE02,Church,a99ccd64-660a-4d79-97c7-2e821f1ceca1
+6.53334,3.25985,,Point,LA,OSGOF,C A C Mount Of Mercy,LASAMO27,Church,a9e11a17-b2b3-4bbe-93f2-a615b61cf62d
+6.57878,3.97002,,Point,LA,OSGOF,Assemblies Of God Church Epe Central,LASEPE03,Church,aa08d160-b39d-4635-a61e-1337bbb3289d
+6.58766,3.98484,,Point,LA,OSGOF,St Theresa Catholic Church Epe Central,LASEPE11,Church,aa0b384e-380a-42ca-8643-fbbb88cb4d74
+6.60958,3.32928,,Point,LA,OSGOF,Tatter Glory Church Idimangoro,LASAGG05,Church,aa3f90ad-792d-4cf3-8c0e-526ca4ae6b20
+6.42113,3.33389,,Point,LA,OSGOF,Assemblies Of God Church Igbologun,LASAON09,Church,aa75f3c1-52b3-498b-892a-7bf20d652353
+6.48971,3.36711,,Point,LA,OSGOF,Redeemed Christian Church Of God 1 Abule Nla Olaleye,LASLMD11,Church,aaf98742-879a-4edb-8aa0-3b7fbea54137
+6.64043,4.06068,,Point,LA,OSGOF,Anglican Communion Agodo Ilesi,LASEPE10,Church,ab1bfb1d-5cf8-40a3-b8d5-66f8634add1d
+6.58298,3.96547,,Point,LA,OSGOF,Celestial Church Of Christ Papa,LASEPE18,Church,ab24add8-9460-47ed-9bd1-416cffd49e71
+6.52157,3.33174,,Point,LA,OSGOF,The Apostolic Church Ilasamaja,LASOIO13,Church,ab4157f7-da3c-4e51-a112-978a10737110
+6.44047,3.34473,,Point,LA,OSGOF,Assemblies Of God Church Tolu,LASATO15,Church,ab6b3fa0-b616-49c7-b362-abf8d1d0cf37
+6.661,3.79332,,Point,LA,OSGOF,Assemblies Of God Church Itoikin,LASEPE09,Church,ab97af85-9599-4f80-99a4-e82330633634
+6.44567,3.33407,,Point,LA,OSGOF,Great Power Church Ibafon,LASATO09,Church,abd9ebb1-a68e-459f-8320-5f1732b12579
+6.49386,3.32897,,Point,LA,OSGOF,Assemblies Of God Church Ijeshatedo,LASSUE02,Church,ac94c8fc-754c-459c-b2d1-29565921be30
+6.51235,3.37699,,Point,LA,OSGOF,St Dominnics Catholic Church Yaba,LASLMD10,Church,acb7e4b9-c7a4-4026-a5fd-86c30f26ded4
+6.45407,3.39317,,Point,LA,OSGOF,Deeper Life Bible Church Popo Aguda,LASLID17,Church,acd75cc8-b87e-439d-9c1b-d433e27b109f
+6.43016,3.51889,,Point,LA,OSGOF,Transformation Baptist Church Baruwa Town,LASEOA15,Church,ad3c1ba6-95ae-4a01-9945-50d8588ab68f
+6.50145,3.34582,,Point,LA,OSGOF,Ikate Baptist Church Ikate,LASSUE20,Church,ad48b678-0d72-4aaa-b2e0-a9d0f46153ea
+6.50652,3.34325,,Point,LA,OSGOF,Mountain Of Life Evangelical M,LASSUE08,Church,ae070305-f0b4-49d7-b582-e47d71c2366d
+6.46269,3.38919,,Point,LA,OSGOF,Kings Anglican Church Enuowa,LASLID08,Church,ae248d2a-5bf0-4ebf-88ff-4d5e0c70cbee
+6.54744,3.29808,,Point,LA,OSGOF,Divinelight And Peace Church Agbaka,LASOIO10,Church,ae72e147-0e47-4f37-a9d7-063a50b91fe2
+6.56761,3.34549,,Point,LA,OSGOF,Miracle Assembly Alasia,LASOIO16,Church,ae85ef76-01ae-4e85-9cb0-cfe74578203a
+6.63436,3.90292,,Point,LA,OSGOF,St Joseph Catholic Church Molajoye,LASEPE09,Church,af18a88a-430c-469d-bf26-37cb684048c9
+6.6749,3.71334,,Point,LA,OSGOF,Celestial Church Of Christ Odo Ayandelu Parish Odo Ayandelu,LASEPE05,Church,af8f10cb-01fe-4686-818e-8ea0bd9365dc
+6.4173,3.32783,,Point,LA,OSGOF,Emmanuel Church Anglican Communion,LASAON09,Church,af944615-8509-403a-a6d4-dcb0fa44cec4
+6.64555,3.34305,,Point,LA,OSGOF,Mercy Tabernacle Oke Ira,LASIKA10,Church,afb286f9-ef24-470b-8ae7-5c84b1d81069
+6.49483,3.17222,,Point,LA,OSGOF,Celestial Christ Church Of God Ishasi Odan,LASOJO05,Church,afd8e503-0fd2-4074-bb5b-1425d2f0153d
+6.4993,3.3832,,Point,LA,OSGOF,Celestial Church Of God Alagomeji,LASLMD05,Church,affcc5dd-ceb7-4203-93f9-a46aadcdad66
+6.67209,3.73695,,Point,LA,OSGOF,Celestial Church Of Christ Ark Parish Otta,LASEPE05,Church,b0141063-3b17-419f-96a0-058708e5e8d7
+6.5272,3.36592,,Point,LA,OSGOF,St Jude Anglican Church Fadeyi,LASMUN02,Church,b042b650-6975-4479-97f9-ad05f908d539
+6.4032,3.38423,,Point,LA,OSGOF,Evangelical Gospel Mission Light House,LASEOA19,Church,b056c618-27d5-493d-a97e-5759099cfb37
+6.45603,3.33775,,Point,LA,OSGOF,Intl Pentecostal Church Onibaba,LASATO02,Church,b0c78875-08cc-45f7-a6a2-0fc1ed750145
+6.42823,3.16196,,Point,LA,OSGOF,African Church Of God Church Itogbesa Riverine,LASOJO09,Church,b0d72ef6-7776-45dd-908d-026c852b0332
+6.45137,3.16289,,Point,LA,OSGOF,Power Life Minsrty Church Igbede Town,LASOJO14,Church,b10fd25b-6b8c-4f2a-aaf9-f50d0a03f6a5
+6.54991,3.3086,,Point,LA,OSGOF,Mountain Of Fire Mewom,LASOIO09,Church,b1282b26-ff4e-4eb0-b343-19998299bf59
+6.5572,3.32983,,Point,LA,OSGOF,Redeemed Christian Church Of God Ogunoloko,LASOIO15,Church,b16ac8ce-0c4f-4d97-bff5-317b228cbb8d
+6.57466,3.28233,,Point,LA,OSGOF,Diocese Of Lagos Anglican Church Idimu,LASAMO36,Church,b1853db6-43a5-4c86-8a95-c607c5cd9c45
+6.64847,3.30537,,Point,LA,OSGOF,First African Church Abule Egba,LASAMO05,Church,b1fa1ce6-d796-4243-9278-e062deb74342
+6.46931,3.28226,,Point,LA,OSGOF,Holy Family Catholic Church Festac,LASAON14,Church,b244acdf-aa0f-47f7-bf9d-6a1aa9a0a1d7
+6.57707,3.26443,,Point,LA,OSGOF,Christ Apostolic Miracle Isheri Olofin,LASAMO28,Church,b274721b-408f-4e52-925e-d194af27ecf9
+6.51193,3.34632,,Point,LA,OSGOF,Redeemed Christian Church Of G,LASSUE20,Church,b27de7d7-d3bc-4eeb-8a7a-50c8bbb7d3da
+6.41897,3.32773,,Point,LA,OSGOF,The Lord's Chosen Charismatic Revival Ministry Igbologun,LASAON09,Church,b2abd76d-866f-4eb8-b280-016f72467526
+6.52868,3.38999,,Point,LA,OSGOF,The Redeemed Chritian Church Akoka,LASSMU02,Church,b2b85074-83e2-44bf-8da7-3e38d45b05fd
+6.52609,3.39026,,Point,LA,OSGOF,Assemblies Of God Comfort Family Igbari Akoka,LASSMU02,Church,b2bff890-da37-4680-ba59-3ee4be591ab7
+6.434243,3.503801,,Point,LA,eHA_Polio,Community Church of The Holy Apostles,LASEOA13,Church,b2f26568-bfde-43d0-8997-612bdd4cd200
+6.4121,3.11391,,Point,LA,OSGOF,Anglican Church Ponpoku,LASOJO15,Church,b31e8caa-640c-427a-9fdf-8bd1e0e1fbcb
+6.63499,3.33615,,Point,LA,OSGOF,Goodwill Baptist School,LASIOE10,Church,b31fe7c0-bac7-4a06-bb7b-1947b6302518
+6.54546,3.39324,,Point,LA,OSGOF,Love Of God Gospel Church Abule Okuta,LASSMU03,Church,b37b4aa7-b5f1-40f8-aa86-830890e9cf4a
+6.49957,3.33637,,Point,LA,OSGOF,Cherubim And Seraphim Church 2 Itire,LASSUE18,Church,b3857216-6f31-49d1-b9d3-c8b2f981d7db
+6.57776,3.41055,,Point,LA,OSGOF,Foursquare Church Agboyi I,LASKSE01,Church,b38b5f64-d3dc-4455-8981-ffdf1a43e74a
+6.62232,3.39462,,Point,LA,OSGOF,Catholic Church Agiliti,LASKSE21,Church,b3a16f14-acad-41b2-a8e6-6c117f80f054
+6.52841,3.36439,,Point,LA,OSGOF,St Luke African Church Fadeyi,LASMUN10,Church,b3a45b9e-22f7-4847-99e3-3f77812a3612
+6.66484,3.70817,,Point,LA,OSGOF,New Life International Church Odo Onosa,LASEPE05,Church,b41081cf-fc0b-4b10-b263-73ad9e8fa54b
+6.52393,3.3221,,Point,LA,OSGOF,St Mary Catholic Church Ire Akari,LASOIO14,Church,b4198a2b-20ae-4edb-bb23-1e85efc91129
+6.45726,3.34868,,Point,LA,OSGOF,Christ Choosen Church Aiyetoro,LASATO01,Church,b4807b77-584d-4047-ac4d-1f40923d6cda
+6.41604,3.36302,,Point,LA,OSGOF,Deliverance And Blessing Church Tomaro Onisiwo,LASAPA02,Church,b48e8c4b-bb18-4594-911b-4d02406c4469
+6.51296,3.34322,,Point,LA,OSGOF,Eternal Sacred Of Celestial Church Of Christ Lawanson,LASMUN17,Church,b4a80688-101c-4a94-b18c-06a23da88402
+6.44066,3.12515,,Point,LA,OSGOF,New Creature Church Ishagira,LASOJO02,Church,b4b195c1-c9f6-4e54-b6e1-22df1a17079c
+6.46934,3.34691,,Point,LA,OSGOF,Deeper Life Church Amukoko,LASATO12,Church,b5016cbd-3cd6-46c7-a2a3-c6f63c4e973a
+6.50108,3.38702,,Point,LA,OSGOF,Endtime Church Makoko,LASLMD12,Church,b503a5f4-b1ae-49ec-b771-54520a6e0ecb
+6.60103,3.24405,,Point,LA,OSGOF,The Apostolic Church Ayobo,LASAMO14,Church,b51fb414-7255-43cc-a3b8-5896433044a5
+6.45337,3.39629,,Point,LA,OSGOF,St Philips Anglican Church Oke Popo,LASLID16,Church,b5c61baf-5566-4de2-bf52-2f5ddb6ff62c
+6.51816,3.36556,,Point,LA,OSGOF,St James Anglican Church Moshalashi,LASMUN02,Church,b5c9ae7b-975d-421f-9f1f-4512fdfda532
+6.53859,3.26124,,Point,LA,OSGOF,St John Anglican Church Ikotun,LASAMO01,Church,b5fe18d1-d482-4493-ab15-512797194f69
+6.51765,3.3332,,Point,LA,OSGOF,Zion Gospel Church Ilasamaja,LASOIO13,Church,b60bbc9a-8a83-4a81-b3af-cf6adaa3d340
+6.45653,3.39814,,Point,LA,OSGOF,Cherubim And Seraphim Church Oke Popo,LASLID07,Church,b627225a-960f-468b-b6e0-ab5738a1a978
+6.39806,3.01859,,Point,LA,OSGOF,Christ Apostolic Church Jegeme Ayanba Riverine,LASBDY15,Church,b65d3908-065e-4c7b-82e4-0719098a98a0
+6.56323,3.37446,,Point,LA,OSGOF,The Apostolic Church Anthony,LASKSE05,Church,b6b18b4a-33da-4dae-b72f-a3dfc9fe9077
+6.44992,3.4039,,Point,LA,OSGOF,St Davids Anglican Church Lafiaji,LASLID12,Church,b6c58c9d-1dd6-4cd6-bf65-0af9dd354752
+6.494,3.15007,,Point,LA,OSGOF,Mointain Of Fire Miracle Minis,LASOJO06,Church,b6dbeef9-fd06-4c2c-9ae3-5e66388b37d0
+6.44469,3.34665,,Point,LA,OSGOF,Christ Apostolic Church Tolu,LASATO16,Church,b72b748d-5273-44fe-9d14-0520e130e4ed
+6.60979,3.27862,,Point,LA,OSGOF,C And S Iri Ibukun,LASAMO29,Church,b763beea-5d5d-4e5a-bb37-476fa84b0b63
+6.40759,3.39137,,Point,LA,OSGOF,Cherubim And Seraphim Okun Ayo,LASEOA19,Church,b765fbbe-8e75-407c-b38c-394341069539
+6.46892,3.35097,,Point,LA,OSGOF,Methodist Church Oke Oja,LASAPA07,Church,b793154f-21b0-41a7-921c-de2c2e4dcb8a
+6.51804,3.32281,,Point,LA,OSGOF,Foursquare Church Okota,LASOIO13,Church,b7cbd566-2d57-4760-b2f1-fbe8628b4c2e
+6.62521,3.31775,,Point,LA,OSGOF,St Peters Anglican Church Oke Koto,LASAGG07,Church,b7eb118a-8eba-4c54-8f14-fc2da0d89318
+6.52685,3.38962,,Point,LA,OSGOF,Trem Wisdom House Belina,LASSMU02,Church,b8635ecd-9775-4600-847a-341df50fcc43
+6.53758,3.38778,,Point,LA,OSGOF,Gospel Baptish Church Bariga,LASSMU01,Church,b8e46afb-0139-471a-aa24-89f46dcabe43
+6.52429,3.37055,,Point,LA,OSGOF,Kingdom Hall Of Jehovah Witness Igbobi Fadeyi,LASLMD10,Church,b8f76377-819d-4a64-9866-20bea649200d
+6.59861,3.34338,,Point,LA,OSGOF,New Wine Assembly Orile Ikeja,LASIKA16,Church,b9072de3-6059-4b10-8565-b725404c1f32
+6.58905,3.28634,,Point,LA,OSGOF,Mountain Of Fire Ministry Abule Odu,LASAMO33,Church,b92db4ee-22c6-4555-9c67-0f207a218bac
+6.63758,3.37947,,Point,LA,OSGOF,Jehovah Jere Afri Church Isheri,LASKSE12,Church,b9f07903-e726-47aa-a812-55122c943696
+6.48182,3.37944,,Point,LA,OSGOF,United African Methodist Church Ebute Metta,LASLMD13,Church,ba051b19-412c-4ac2-8079-cfcf1c000056
+6.41722,3.36178,,Point,LA,OSGOF,Deeper Life Bible Church Siku Village,LASAPA02,Church,bace4a73-c02f-455d-8ab2-c15404f70ca3
+6.56692,3.33708,,Point,LA,OSGOF,The Glorios People Of God Church Ewu Tuntun,LASOIO16,Church,bae9ccbb-c2ed-4fd5-b14e-28543f0cc1e0
+6.4289,3.10562,,Point,LA,OSGOF,C M S Church Moba Riverine,LASBDY15,Church,bb243150-2436-4d37-abd5-e41a64be23f2
+6.56046,3.275,,Point,LA,OSGOF,Voice Of His Kingdom Idimu,LASAMO22,Church,bb2b39e1-93cf-4342-9671-db7eff87b990
+6.49118,3.35865,,Point,LA,OSGOF,Berea Baptist Church Alaka,LASSUE01,Church,bb4bde7d-cd49-4192-a11d-045aa8460801
+6.62765,3.91467,,Point,LA,OSGOF,Anglican Church Sala,LASEPE09,Church,bb539b13-5e4c-4780-9fca-49fef1654e21
+6.55903,3.24926,,Point,LA,OSGOF,Christ Apostolic Church Zonal Headquarters,LASAMO23,Church,bb9c8fcf-c553-46c0-b79b-2178f39771a9
+6.46002,3.34919,,Point,LA,OSGOF,The Prophetic Church Alayabiagba,LASATO01,Church,bbb0eac7-03de-4538-bf80-883bcee7751a
+6.49953,3.38487,,Point,LA,OSGOF,Jaura Celestial Church Of God Church Makoko,LASLMD12,Church,bbe1fb7e-e2b3-48af-8b2b-2229bb9ada70
+6.48793,3.38095,,Point,LA,OSGOF,Phema Chapel International Oyingbo,LASLMD09,Church,bc22db38-f8ff-41dc-aa28-60861e58119f
+6.65468,3.28769,,Point,LA,OSGOF,Prayer Of Fire Ministry Ojokoro,LASAMO05,Church,bc254db6-b329-4e54-9418-840c82caefe4
+6.44237,3.34208,,Point,LA,OSGOF,Praise Evangelical Ministry Tolu,LASATO15,Church,bc8852a1-62e4-444c-bc3e-5661f1674cc8
+6.62438,3.31422,,Point,LA,OSGOF,Cherubim And Seraphim Church Moricas,LASAGG02,Church,bca3c232-d5db-4ee8-bac6-6a62165fe2c2
+6.44848,3.51856,,Point,LA,OSGOF,Fellowship Baptist Church Ajiran,LASEOA04,Church,bd3590d6-c764-457c-9ee1-663b2846c423
+6.50124,3.3845,,Point,LA,OSGOF,The Great Mission Of God C And S Makoko,LASLMD12,Church,bda3b77b-823a-4b57-bf2c-f09b2d75f35c
+6.45686,3.36134,,Point,LA,OSGOF,Assemblies Of God Church Marine Beach,LASAPA09,Church,bdaac641-56f8-4b70-8823-5fbd4f522f01
+6.52015,3.29385,,Point,LA,OSGOF,Truth Apostolic Church Oshoru,LASOIO17,Church,bdc9416f-9925-4ef3-8edc-9c28e580440d
+6.52886,3.38915,,Point,LA,OSGOF,Life Foundation Igbari Akoka,LASSMU02,Church,bdd9866c-f6e7-4279-a2d8-aa94e2059e50
+6.5129,3.32511,,Point,LA,OSGOF,Vineyard Christian Church Ilasamaja,LASOIO13,Church,be5383fd-18ef-4a8b-97df-a4b99c6cdf0c
+6.5044,3.3254,,Point,LA,OSGOF,Christ Apostolic Church Ijeshatedo,LASMUN13,Church,be53a734-28e0-4d1c-a177-c4028594cfa9
+6.51948,3.33177,,Point,LA,OSGOF,Progress Baptist Church Ilasamaja,LASOIO13,Church,bedb7118-ce09-4961-bf52-7194b7304e22
+6.51203,3.33379,,Point,LA,OSGOF,Redeemed Church Living Stone,LASMUN14,Church,bedccc45-7fb8-49bd-99cd-752fd60b9a51
+6.63792,3.31434,,Point,LA,OSGOF,Assemblies Of God Church Oko Oba,LASAGG12,Church,bf2506f3-ee2f-426d-8da9-162e895db69d
+6.55093,3.3218,,Point,LA,OSGOF,Christ Choosen Church Ajao Estate,LASOIO04,Church,bf4f8464-b6bb-47f3-b8b3-c97f217a7b63
+6.4526,3.34237,,Point,LA,OSGOF,Victory Life Church Ajegunle,LASATO02,Church,bfd42c69-0953-483c-bf96-ccde3dc81589
+6.52666,3.39132,,Point,LA,OSGOF,Foursquare Gospel Church Akoka,LASSMU02,Church,bfe451c8-8456-40c5-8706-dc3de36f0d55
+6.45755,3.40328,,Point,LA,OSGOF,Cherubim And Seraphim Church Oke Ibunkun,LASLID12,Church,bfe69135-3adc-436f-bbe4-b59e96f8d45b
+6.45963,3.38701,,Point,LA,OSGOF,Methodist Church Idumota,LASLID20,Church,c05d22af-cd0e-41e6-89d8-8ae743d3ae25
+6.52973,3.3799,,Point,LA,OSGOF,St Mark Church Of Christ Shomolu,LASSMU04,Church,c08bdce0-f23c-41ce-92a1-4895e174faad
+6.45995,3.16504,,Point,LA,OSGOF,St Andrew's Catolic Church Ilemba Hausa,LASOJO07,Church,c0dfa380-6ff2-4a78-b497-6a5b160b1531
+6.46414,3.12496,,Point,LA,OSGOF,Celestial Christian Church Oke Agbo,LASOJO07,Church,c108b0fc-80b5-4adf-b4dd-4253ccc322be
+6.66321,3.30184,,Point,LA,OSGOF,Mountain Of Fire And Miracle Ministry Ilupeju Titun,LASIOE01,Church,c10ba77e-c0ad-4f6e-93d6-e6e89a3ab55d
+6.47548,3.34309,,Point,LA,OSGOF,Christ Disciples Centre Sari Iganmu,LASAPA03,Church,c1342024-8db6-4c74-949e-2000a2cb277e
+6.54138,3.2987,,Point,LA,OSGOF,Newlife Bible Church Ifoshi,LASOIO10,Church,c18fa07c-12ec-4f44-938a-e62816ef19b0
+6.53783,3.28206,,Point,LA,OSGOF,The Apostolic Church Agodo,LASAMO18,Church,c1bda5b4-7c30-4d1c-8922-919289bb294d
+6.4652,3.33203,,Point,LA,OSGOF,Apostolic Church Alaba,LASATO06,Church,c1c6f35c-f095-418c-a7c8-5042c837d62d
+6.62438,3.30407,,Point,LA,OSGOF,Celestial Church Of Christ Alaagba,LASAGG04,Church,c1e167ef-c158-48ef-82c4-753a07357814
+6.46536,3.16587,,Point,LA,OSGOF,Grace Baptist Church Jakande New Site,LASOJO07,Church,c2080299-663d-42bc-bdf3-6eee698cc8b3
+6.49804,3.24606,,Point,LA,OSGOF,Redeemed Christian Church Of God Ijedodo,LASAMO24,Church,c21173a9-4f9d-4062-9cc7-242fb0e281b6
+6.42038,3.14388,,Point,LA,OSGOF,Foursquare Gospel Church Ojorin,LASOJO09,Church,c2241423-efd9-49b1-8e43-87e50942db8a
+6.55031,3.27827,,Point,LA,OSGOF,Christ Glory Church Egbe,LASAMO20,Church,c23e6001-c0bc-49c8-9d03-4b2871999963
+6.58763,3.3392,,Point,LA,OSGOF,Anglican Church Abule Onigbagbo,LASIKA06,Church,c271ae80-2570-429e-a2a0-4eddc0871f1a
+6.68003,3.71306,,Point,LA,OSGOF,Celestial Church Of Christ Olaoluwa Parish Odo Ayandelu,LASEPE05,Church,c298cfb9-23f9-474b-8031-b1e16414e24c
+6.64841,3.70714,,Point,LA,OSGOF,C A C Mount Of Blessing Agbowa,LASEPE02,Church,c2ef2d87-e9f9-4030-ac44-07bcc2a677aa
+6.56455,3.33645,,Point,LA,OSGOF,Christ Ascension Church Ewu Tuntun,LASOIO16,Church,c2fbfc39-5487-481b-8ae1-de5f35f80ef2
+6.619,3.30586,,Point,LA,OSGOF,Decross Gospel Mission Papa Ashafa,LASAGG09,Church,c30278d9-37a3-4bf1-a19c-18b1f7e895eb
+6.62028,3.29926,,Point,LA,OSGOF,Word Transformation Ministry Abule Oki,LASAMO32,Church,c320d098-142d-433e-a0be-5b22d3f68c2c
+6.50841,3.32938,,Point,LA,OSGOF,K And S Church Okeiyann Parish Itire,LASMUN14,Church,c357d29f-3630-4678-9e28-18f8a7a5d4d4
+6.52473,3.38306,,Point,LA,OSGOF,Apostolic Church Shomolu,LASSMU07,Church,c4026ef1-b853-47fa-b266-790ea8bbab9b
+6.473,3.17057,,Point,LA,OSGOF,The Gospel Faith Afromedia,LASOJO07,Church,c422cb80-231e-4e85-9df0-394cffc9cb67
+6.50371,3.17423,,Point,LA,OSGOF,Redeemed Christian Church Of God Ishasi Town,LASOJO05,Church,c4a97291-39dd-4877-960b-44be9b2ce9b2
+6.56109,3.33671,,Point,LA,OSGOF,Redeemed Christian Church Of God Mafoluku,LASOIO16,Church,c4d54574-b4fd-4e7b-ba52-25977ae6f355
+6.56401,3.34215,,Point,LA,OSGOF,Christ Lighthouse,LASOIO16,Church,c4e10ad5-2b33-411e-8c76-abe72d9e862a
+6.46555,3.35884,,Point,LA,OSGOF,Gosple Baptist Church Abete,LASAPA01,Church,c4eff966-1df4-4014-ab7f-26f86654c8f7
+6.57157,3.3724,,Point,LA,OSGOF,Christ Apostolic Church Mende,LASKSE13,Church,c50c91da-6805-4f2e-9d7a-fae9a6768a60
+6.56921,3.33398,,Point,LA,OSGOF,St John Evangelistic Church Shogunle,LASOIO08,Church,c55c6c3c-7eaa-49c5-b6c4-8e911f3e870e
+6.45157,3.18659,,Point,LA,OSGOF,Christ Faith Deliverance Church Ilufe Town,LASOJO14,Church,c565876d-8f28-46d0-a039-08a762dec578
+6.54332,3.23161,,Point,LA,OSGOF,Christ Dilivarance Ministry Egan,LASAMO08,Church,c57801aa-7000-4858-a660-183d16531369
+6.61099,3.2728,,Point,LA,OSGOF,The Apostole Faith Abesan,LASAMO03,Church,c5d3072e-d351-4484-be65-e047c8010c0a
+6.46985,3.34733,,Point,LA,OSGOF,Assemblies Of God Church Amukoko,LASATO12,Church,c63fda23-2a03-4e6e-9f23-00133a441066
+6.47424,3.5672,,Point,LA,OSGOF,Our Lady Mother Of P H Cath Church Ajah,LASEOA03,Church,c652a137-f782-4898-97fd-97d981627b8d
+6.46011,3.34891,,Point,LA,OSGOF,Liberation Of Word Ministry Aiyetoro,LASATO01,Church,c67e7a43-008f-40b6-ba38-9a2ea6ca0dfa
+6.52853,3.29494,,Point,LA,OSGOF,Redeemed Christian Church Of God 3 Ailegun,LASOIO03,Church,c6a46edc-a5c6-4775-b78b-285aa1efdbf3
+6.49626,3.33068,,Point,LA,OSGOF,Kingdom Hall Of Jehovah Witness Ijeshatedo,LASSUE02,Church,c6be16b7-bd08-46f3-83e6-35018a4b88ea
+6.45954,3.34358,,Point,LA,OSGOF,Gate Of Heaven Church Layeni,LASATO10,Church,c730958b-d7f5-4711-a38f-7c5aae472196
+6.59064,3.96941,,Point,LA,OSGOF,Living Faith Church Papa,LASEPE18,Church,c76653d2-9add-4c6a-b630-46c6c281f31e
+6.5534,3.3076,,Point,LA,OSGOF,The Apostolic Church Ageke,LASOIO02,Church,c79e1947-603e-4613-89ec-28cd68a64b1e
+6.48384,3.37141,,Point,LA,OSGOF,Covenant Shepherd International Abule Nla Olaleye,LASLMD06,Church,c7cd24f9-940a-475a-8e1d-c7337f8209bd
+6.43617,3.50997,,Point,LA,OSGOF,Church Of Penticost Igbara,LASEOA15,Church,c800de72-6892-4a81-9b3a-df23254289bd
+6.47288,3.18801,,Point,LA,OSGOF,Breakthrough Church Okokomiako,LASOJO12,Church,c856ec25-ff03-43e1-aa2c-caab89cdfd56
+6.50774,3.34056,,Point,LA,OSGOF,Church Of Christ Ikate,LASSUE08,Church,c8965db4-c376-4f73-943d-6c78045a047c
+6.48866,3.16379,,Point,LA,OSGOF,Celestial Christian Church Olorunshogo,LASOJO05,Church,c8a95faa-e6d7-4e7f-a324-8d132c52f003
+6.41803,3.36286,,Point,LA,OSGOF,St James Catholic Church Tomaro Onisiwo,LASAPA02,Church,c8d58658-5e3c-438c-bd2b-504a2b5f549c
+6.52136,3.38019,,Point,LA,OSGOF,Redeemed Christian Church Of God Abule Ijesha,LASLMD02,Church,c9166efe-8f82-42d8-bb98-e64c283e3e99
+6.62957,3.33073,,Point,LA,OSGOF,Living Proof Church Ogba Ijaiye,LASIOE10,Church,c998130d-0db6-4204-a56f-e12b64c7767d
+6.41207,3.38388,,Point,LA,OSGOF,St Cecilia Catholic Church Ebute Oko,LASAPA02,Church,c9de66cd-9cd8-4f3a-a5e9-5e29cbd444dc
+6.41253,3.08801,,Point,LA,OSGOF,Catholic Church Ojogun Badagry,LASBDY15,Church,ca0a499e-49ca-44b8-856a-8c02d16d05ff
+6.63695,3.34725,,Point,LA,OSGOF,The Cherubim And Seraphim,LASIKA01,Church,ca5f2af5-13ce-4b13-9965-2b0bb8eb1ee8
+6.52997,3.36213,,Point,LA,OSGOF,Act Of Apostle Church Baba Oloosa,LASMUN06,Church,ca8e60dc-e51f-45c3-b70e-a8e5768264f4
+6.63954,3.33934,,Point,LA,OSGOF,Christ Divine Church Ifako,LASIOE09,Church,cadd59a7-ebdf-4e98-81fb-dc83350d47d0
+6.67659,3.26843,,Point,LA,OSGOF,Mouuntain Of Fire And Miracle Alagbado,LASAMO11,Church,cae60952-b723-45c2-a534-e81b22d253c7
+6.51328,3.35911,,Point,LA,OSGOF,Apostolic Church Agbala,LASMUN05,Church,cb02265e-e19f-4919-af82-f5adf4ff62ed
+6.54002,3.37203,,Point,LA,OSGOF,Ebenezer African,LASSMU09,Church,cb15cc2d-42f8-4ab0-b8b8-303412a76cf3
+6.47514,3.3472,,Point,LA,OSGOF,Ecwa Church Sari Iganmu,LASAPA03,Church,cb5fcf33-a467-4901-a5d2-81765cb8fd51
+6.52439,3.35389,,Point,LA,OSGOF,Celestial Church Of Christ Mount Shilo Prayer Band,LASMUN04,Church,cb81fb0b-5e43-4daf-b7bd-690952d93181
+6.53183,3.36189,,Point,LA,OSGOF,C And S Unification Nig,LASMUN10,Church,cba4af98-43c7-49a7-adef-3a229c1250ac
+6.55634,3.30043,,Point,LA,OSGOF,St Peter Catholic Church Ejigbo,LASOIO02,Church,cbc48735-a9a3-4515-a173-beb6b72a406b
+6.53898,3.31606,,Point,LA,OSGOF,Redeemed Christian Church Of God 1 Ilamoshe,LASOIO12,Church,cbe5ad75-251c-48d3-bbb3-a4ea9d79a25a
+6.51377,3.32652,,Point,LA,OSGOF,Cherubim And Seraphim Church Ilasamaja,LASOIO13,Church,cbf41e9f-5bbc-47d8-85d6-0b8e09c0d07e
+6.54569,3.30781,,Point,LA,OSGOF,Evidence International Church Mewom,LASOIO09,Church,cc1d9b1a-8eb7-425e-bcc2-ac7445b5b224
+6.65696,3.29972,,Point,LA,OSGOF,Christ Witness Church Ilupeju Titun,LASIOE01,Church,cc290d2f-4001-4a6a-956f-20317c3a4ce4
+6.60262,3.27774,,Point,LA,OSGOF,Sure Seed Foundation Gowon Estate,LASAMO21,Church,cc5a8805-6bc5-46f3-af43-d21253edce73
+6.55104,3.30507,,Point,LA,OSGOF,Cherubim And Seraphim Church Irawo,LASOIO09,Church,cc916c17-c3cf-4982-a8fe-00ace872aacd
+6.52816,3.34466,,Point,LA,OSGOF,Ile Adure Agbo Mimo,LASMUN01,Church,ccbc971d-c115-44a4-9969-6c3f5298ce96
+6.53636,3.29215,,Point,LA,OSGOF,Redeemed Christ Church Ailegun,LASOIO03,Church,ccd38115-bdf2-469c-86d4-61175d7224b1
+6.45438,3.33855,,Point,LA,OSGOF,The Lords Chosen Onibaba,LASATO02,Church,ccd50465-c603-4fc4-8980-0f97801cede8
+6.48082,3.33534,,Point,LA,OSGOF,Eternal Word Believal,LASSUE19,Church,ccddd6f5-d6dc-46c0-a656-0ccf41a072b9
+6.45968,3.34728,,Point,LA,OSGOF,Christ Army Church Aiyetoro,LASATO01,Church,cd042ec1-5c2d-4df0-ba9f-facfb0502d71
+6.58142,3.95843,,Point,LA,OSGOF,Apostolic Irawo Owuro,LASEPE03,Church,cd0770a1-a479-44a4-b3e2-0ca196f67dd3
+6.51028,3.33016,,Point,LA,OSGOF,Church Of God Mission International Itire,LASMUN14,Church,cd6debdd-8cb6-4232-b8f2-7e6b09698f58
+6.5475,3.38149,,Point,LA,OSGOF,Redeemed Christian Church Of God Orile 2 Pedro,LASSMU03,Church,cddabc9b-3132-4788-a01b-a9eeff7294b3
+6.50784,3.34649,,Point,LA,OSGOF,Redeemed Christian Church Of God 2 Ikate,LASSUE20,Church,ce062818-0f23-4e3b-ac51-cfe9e3031323
+6.50603,3.33972,,Point,LA,OSGOF,Redeemed Christian Church Of God 1 Ikate,LASSUE18,Church,ce0ff219-bed3-46dd-852f-fa157d3bdee7
+6.45964,3.40483,,Point,LA,OSGOF,Redeemed Christian Church Of God Ilubirin,LASEOA09,Church,ce1fc833-fd38-4c9c-8d41-02d903f95260
+6.50246,3.37934,,Point,LA,OSGOF,Church Of The Holy Ghost Coven,LASLMD05,Church,cec959ac-3b20-4b30-90e0-9e82514d5800
+6.58345,3.98611,,Point,LA,OSGOF,Redeemed Christian Church Of God Epe Central,LASEPE11,Church,cf0c70bc-0bac-4b99-a153-39a3aed561a5
+6.46431,3.12908,,Point,LA,OSGOF,Anglican Church Oke Agbo,LASOJO07,Church,cf12096f-3f50-4ee7-a3da-d6548591b5d8
+6.6574,3.32627,,Point,LA,OSGOF,Assemblies Of God Church Ifako,LASIOE12,Church,cf2d35b5-fda1-4c12-ba93-7a125113069c
+6.44909,3.22537,,Point,LA,OSGOF,Redeemed Christian Church Of God Tedi Town,LASOJO08,Church,cf561f58-536b-4133-9f4a-5bf137824d8b
+6.48542,3.34243,,Point,LA,OSGOF,Jesus Is Alive Deliverance Mini,LASSUE22,Church,cf716b8b-d4ea-44b1-9918-def53cb8a7db
+6.48344,3.38565,,Point,LA,OSGOF,Redeemed Christiant Chiurch,LASLMD17,Church,d020aa58-82b4-4fab-b229-766edaae5bfb
+6.49732,3.33141,,Point,LA,OSGOF,The Living Gospel Church Ijeshatedo,LASSUE21,Church,d02178e3-e7c7-4c14-9ef1-525e490d42d3
+6.63777,3.34143,,Point,LA,OSGOF,Lord Choosen Ifako,LASIOE09,Church,d08b6471-800e-4ac7-b018-8851f4a72299
+6.55189,3.30409,,Point,LA,OSGOF,Celestial Church Ejigbo,LASOIO09,Church,d0d8e5dd-7ef7-44c6-bdcf-e269ae9992bc
+6.52287,3.34027,,Point,LA,OSGOF,C And S Movement,LASMUN01,Church,d0de9069-4167-4654-891e-64072db49074
+6.54636,3.3759,,Point,LA,OSGOF,Redeemed Christian Church Of God Orile 1 Pedro,LASSMU15,Church,d1561f1d-cf7e-4aef-a9a3-84051358ca26
+6.5327,3.37806,,Point,LA,OSGOF,Methodit Church Alade,LASSMU11,Church,d278a465-26d8-48fe-9dd6-4863c33dc3ed
+6.45717,3.39003,,Point,LA,OSGOF,St John Church Aroloya,LASLID18,Church,d2a37582-2092-4a63-bd77-327f278b447c
+6.47453,3.27458,,Point,LA,OSGOF,Deeper Life Bible Church Festac Central District,LASAON10,Church,d2dc6680-059c-499b-94b8-8e7111247e71
+6.631,3.34263,,Point,LA,OSGOF,Holy Fire Overflow Ogba,LASIKA07,Church,d314aa57-1476-40ec-819a-600805c39e99
+6.59301,3.40046,,Point,LA,OSGOF,Christ Apostolic Church Oshogun,LASKSE07,Church,d3472a55-3a4e-44c3-8d29-3c5c7ecf6288
+6.62368,3.70568,,Point,LA,OSGOF,Celestial Church Of Christm Agbowa,LASEPE02,Church,d36a9993-5e96-4004-b9c6-aabb916aae53
+6.62424,3.24624,,Point,LA,OSGOF,Redeemed Christian Church Of God City Of Power Ikola,LASAMO07,Church,d391001c-f128-4912-bfa1-d6ea0b66e89d
+6.66639,3.70796,,Point,LA,OSGOF,Celestial Church Of Christ Odo Onosa,LASEPE05,Church,d3c50ce2-7ca7-41ee-b0bb-0ca844227874
+6.50159,3.35142,,Point,LA,OSGOF,Trem Church Surulere,LASSUE23,Church,d3e8c4f2-e7f0-440f-9733-b3b37c36dfbd
+6.53681,3.22044,,Point,LA,OSGOF,Christ Apostolic Church Akesan,LASAMO08,Church,d421fd4b-e720-4886-9426-e1592944294f
+6.46782,3.35043,,Point,LA,OSGOF,Elect Gospel Church Oke Oja,LASATO12,Church,d4462a95-d841-47f5-ba46-b00b3c386a68
+6.67626,3.26678,,Point,LA,OSGOF,Dominion Christian Church Alagbado,LASAMO11,Church,d44fb790-7bdb-418c-adae-482d4dc2e4ce
+6.46217,3.38962,,Point,LA,OSGOF,Evangelical Church For West Africa Church Eleru Iwash,LASLID08,Church,d47b3c9a-e76c-46cc-9548-1962f1aa1130
+6.49755,3.37826,,Point,LA,OSGOF,Decross Gospel Mission Alagomeji,LASLMD05,Church,d493ad36-cc5c-4572-8d73-ee696c5a04bb
+6.60229,3.30537,,Point,LA,OSGOF,Foursquare Gospel Church Akowonjo,LASAMO34,Church,d4affee2-4c98-4507-b997-7e276ca5188e
+6.47487,3.37881,,Point,LA,OSGOF,Celestial Church Of God Otto,LASLMD16,Church,d50d192c-dd0c-4f9a-b6b4-7da8a14e816f
+6.62924,3.77314,,Point,LA,OSGOF,St Bartholomew's Anglican Church Orugbo,LASEPE17,Church,d5411eac-df16-4694-a351-f25e3e6feca2
+6.53375,3.32989,,Point,LA,OSGOF,Mountain Of Fire And Miracle Isolo,LASOIO06,Church,d54d9fc0-c564-405c-9ef6-891a3edc2f96
+6.4472,3.3488,,Point,LA,OSGOF,Eternal Sacred Church Olodi Apapa,LASATO16,Church,d5582ecd-7d23-4a11-8352-7a8deca01ae6
+6.68697,3.25897,,Point,LA,OSGOF,Christ Power Pentiscostal,LASAMO11,Church,d5a11194-b8a6-4bd8-8e3a-1f50852001d5
+6.48384,3.35954,,Point,LA,OSGOF,International Christ Mchurch,LASSUE11,Church,d5b6e16e-1c94-4ab4-97fe-6cab05f6d355
+6.65569,3.24666,,Point,LA,OSGOF,Assemblies Of God Church Alaso Town,LASAMO07,Church,d5bb2ee9-815f-47f4-9c0f-ef95f1d79fe2
+6.45296,3.24688,,Point,LA,OSGOF,Sacred Cherubim And Seraphim Church Ashogun,LASAON01,Church,d5dba8d6-d10f-4f65-ac5a-7e1f797d0dc2
+6.54086,3.50006,,Point,LA,OSGOF,St Andrew Church Ofin Ile,LASIKU09,Church,d616aa23-d98d-4a40-9a22-a2ffdd1a67d4
+6.56017,3.34781,,Point,LA,OSGOF,Redeemed Christian Church Of God 2 Igbehin Adun,LASOIO11,Church,d65c01d5-b4bd-442b-94ce-9a8abb4e458e
+6.56326,3.37326,,Point,LA,OSGOF,Christ Apostolic Church Anthony,LASKSE05,Church,d66f2e72-7bde-4caa-934f-bf7fb2da7c7a
+6.6401,3.33898,,Point,LA,OSGOF,1st Baptist Church Ifako,LASIOE09,Church,d69c05d9-df42-45d5-b533-0b6a714985b9
+6.59329,3.28871,,Point,LA,OSGOF,Deeper Life Ministry Egbeda,LASAMO19,Church,d6c57e00-fcb9-498a-9b76-9168e0f70750
+6.51688,3.31981,,Point,LA,OSGOF,The Realm Of Glory Okota,LASOIO13,Church,d6f5a7a2-f616-4702-8263-a2ccb369342a
+6.53286,3.39702,,Point,LA,OSGOF,Deeper Life Bible Church Ilaje,LASSMU10,Church,d71ba2fe-1ba9-4e14-ad12-9979448948a9
+6.6506,3.35777,,Point,LA,OSGOF,Christ Apostolic Church Yakoyo,LASIKA08,Church,d71f8fd9-e03a-4deb-a2e4-6dc3a54f974f
+6.48181,3.37929,,Point,LA,OSGOF,Redeemed Christian Church Of God 2 Ebute Metta,LASLMD13,Church,d73645a0-d5b5-44f9-a8c7-4de932e2cb16
+6.47545,3.34772,,Point,LA,OSGOF,Redeemed Christian Church Of God Church Sari Iganmu,LASAPA12,Church,d770dfff-8bc1-4450-9696-4395b30674b5
+6.41815,3.23384,,Point,LA,OSGOF,Christ Apostolic Church Oke Irapada,LASAON05,Church,d77c0ca8-b1dc-4999-9a26-c5fa07733bb7
+6.44078,3.25982,,Point,LA,OSGOF,Rccg Jubilee Assembly Ijegun Egba,LASAON08,Church,d7b00947-e6cd-4ca1-958b-f7c282cab8f4
+6.56213,3.28136,,Point,LA,OSGOF,Redeemed Christian Church Of God Top Mela Church Idimu,LASAMO22,Church,d7f6ed29-81f3-4dd6-b28a-a7b7f2c59fcf
+6.45224,3.21096,,Point,LA,OSGOF,Kingdom Hall Of Jehovah Witness Ira Quarter,LASOJO08,Church,d850d04f-e960-440f-9f6c-52350543adc6
+6.53461,3.30681,,Point,LA,OSGOF,Oasis Of Christ Ilamoshe,LASOIO12,Church,d8668b3a-0c67-4db3-8a37-e310b3f9ee0c
+6.61031,3.35317,,Point,LA,OSGOF,Foursquare Church Alausa,LASIKA04,Church,d8b0bf11-798e-4b4a-a8c5-c84b7e360f17
+6.50317,3.39305,,Point,LA,OSGOF,Cherubim And Seraphim Church Iwaya,LASLMD04,Church,d8b82ec1-7191-46c2-b9d2-44213d41cd21
+6.45465,3.33532,,Point,LA,OSGOF,Catholic Church Awodi Ora,LASATO07,Church,d8e06d2c-7606-43a9-bf03-e92b54e6af7e
+6.54488,3.39212,,Point,LA,OSGOF,St John Anglican Church Gbagada Apelehin,LASSMU03,Church,d90c3028-1244-4898-a56f-270651049ca1
+6.60023,3.36471,,Point,LA,OSGOF,The Apostolic Church Alausa,LASIKA15,Church,d9843689-6df6-4966-b07a-9ab773587441
+6.45074,3.34972,,Point,LA,OSGOF,Assemblies Of God Church Olodi Apapa,LASATO16,Church,d994716d-c29c-4b1d-b167-d0d564dd7e7f
+6.52486,3.372,,Point,LA,OSGOF,Redeemed Christian Church Of God Faith Centre,LASLMD10,Church,d9b6d27e-ff2c-4c68-94f1-22d180a1dfa7
+6.56477,3.2754,,Point,LA,OSGOF,Church Of God Prophecy,LASAMO28,Church,da13172d-548a-4130-b7ea-c0baeb83e5b3
+6.47043,3.35854,,Point,LA,OSGOF,Prophetic Church Of Nigeria Badia,LASAPA11,Church,da2d5610-1b35-4827-8763-c9853c027cf3
+6.46726,3.35379,,Point,LA,OSGOF,Mount Olive C S Badia,LASAPA07,Church,db382bbc-ae31-4839-b4d3-5790b093392e
+6.58445,3.34966,,Point,LA,OSGOF,Christ Apostolic Church Ikeja Gra,LASIKA06,Church,db5854e7-6a77-4065-a9ec-502984b30209
+6.47689,3.34006,,Point,LA,OSGOF,Celestial Church Of Christ Orile Iganmu,LASSUE07,Church,dc0c29f3-5a6e-4b09-85e1-50f5d93b80c8
+6.62905,3.31057,,Point,LA,OSGOF,First Baptist Church Orile Agege,LASAGG07,Church,dc2d9725-6b8a-4860-9431-54f1a5917189
+6.45982,3.36274,,Point,LA,OSGOF,St Therasa Catholic Church Marine Beach,LASAPA09,Church,dc51f7b9-abd7-4157-9b75-4fd82958acec
+6.54703,3.30873,,Point,LA,OSGOF,St Joseph Catholic Church Mewom,LASOIO09,Church,dcb17669-9b89-4854-9705-c443e12a7b46
+6.52254,3.36133,,Point,LA,OSGOF,Four Square Gospel Church Idi Oro,LASMUN04,Church,dcc1bdb8-62d5-4eb1-8075-aacbb9bb0618
+6.6055,3.38924,,Point,LA,OSGOF,Mountain Of Fire And Miracle Ministry Aiyedere,LASKSE19,Church,dcc7f361-30c0-4dda-8738-2e555de506ab
+6.58672,3.23804,,Point,LA,OSGOF,Christ Apostolic Church Hephzidah Muji,LASAMO15,Church,dd060b03-32f7-48a2-bc9f-68853c227d8b
+6.48435,3.36159,,Point,LA,OSGOF,Rev Adeinkomi Memorial Method,LASSUE11,Church,dd7ddf07-b279-4265-9646-9897251befc4
+6.62523,3.28156,,Point,LA,OSGOF,St Alphonsus Catholic Church Aboru,LASAMO04,Church,dde5f5b4-e478-4a5b-9709-f70d6ecce636
+6.60958,3.35326,,Point,LA,OSGOF,Mountain Of Fire Alausa,LASIKA04,Church,de0d41ab-52bb-403a-8895-af3889732cc3
+6.66404,3.32295,,Point,LA,OSGOF,Fountain Of Life Church Ifako,LASIOE11,Church,de158682-ceca-482b-856b-1a60c0abda5f
+6.57093,3.30262,,Point,LA,OSGOF,Word Of Eternal Life Orisumbare,LASAMO30,Church,de5fec86-e52c-4b89-9358-9d277ed21754
+6.6311,3.32821,,Point,LA,OSGOF,Seven Day Adventist Ogba Ijaiye,LASIOE10,Church,dea52757-0dd7-40ad-8281-17ee5c6a10d4
+6.55457,3.33322,,Point,LA,OSGOF,Christ Disciples Mafoluku,LASOIO15,Church,decf0fe4-b898-495f-9111-86bdf4aed2e0
+6.51744,3.36093,,Point,LA,OSGOF,Redeemed Church Of Jehovah Idi Oro,LASMUN05,Church,deffc007-4017-4d04-9ac3-76ed2d1ed799
+6.62245,3.96698,,Point,LA,OSGOF,Deeper Life Bible Church Poka,LASEPE15,Church,df02ba83-10e6-4549-ba05-d1a0f6132112
+6.64132,3.31306,,Point,LA,OSGOF,The Apostolic Church Oko Oba,LASAGG08,Church,df3f5df1-0bbe-4647-b680-bfd369a126b5
+6.49754,3.38801,,Point,LA,OSGOF,The Christ Gospel Church Makoko,LASLMD12,Church,df63bea0-7326-46fd-8dac-66272ced846d
+6.59106,3.96573,,Point,LA,OSGOF,Christ Risen Ministry Papa,LASEPE18,Church,df6a449e-b656-4530-a8c3-e2908ab6efeb
+6.45626,3.40196,,Point,LA,OSGOF,Christ Apostolic Church Gen Hq,LASLID06,Church,df945c62-efab-4162-aec0-99a2d65d55af
+6.39471,2.89166,,Point,LA,OSGOF,Dignity Church Ilaje 2 Sb,LASBDY16,Church,dfa5e2b0-fc4a-45ed-a31f-3330fcc849c3
+6.53736,3.22475,,Point,LA,OSGOF,St Peter Catholic Church Akesan,LASAMO08,Church,dfa621bb-d0eb-4be0-a3a4-ade74cdfa57e
+6.49077,3.17341,,Point,LA,OSGOF,End Time Churchristian Harvest Church Ishasi Odan,LASOJO05,Church,e03b8940-959a-4fa9-ab42-95fa8d021bd3
+6.53664,3.36143,,Point,LA,OSGOF,Christ Apostolic Church Onipanu,LASMUN18,Church,e046cbbf-ac5f-48cc-9e41-17ffcb48275f
+6.58215,3.96005,,Point,LA,OSGOF,Gospel Church Of Christ Papa,LASEPE03,Church,e05b92b2-7484-48de-8675-12709d22406d
+6.46446,3.33911,,Point,LA,OSGOF,Anglican Church Abule Kere,LASATO03,Church,e07d002b-4653-4c02-9a4a-a463c85a2d3a
+6.46788,3.351,,Point,LA,OSGOF,Christ Apostolic Church Badia,LASAPA07,Church,e0a943fb-6ad4-486e-80f0-11de849dead6
+6.63371,3.33093,,Point,LA,OSGOF,Baptist Church Ogba Ijaiye,LASIOE10,Church,e0b6069b-3ef2-4956-afb7-55f90e746313
+6.56738,3.34422,,Point,LA,OSGOF,Redeemed Christian Church Of God Ladipo,LASOIO08,Church,e0b806b7-1888-46c3-baa1-437dd18dce44
+6.4891,3.34856,,Point,LA,OSGOF,Foursquare Gospel Church Aguda,LASSUE22,Church,e0cfa557-4578-4d2a-ba34-6c027f385602
+6.46011,3.35065,,Point,LA,OSGOF,Glorious Power Alayabiagba,LASATO01,Church,e0dab72d-c52d-4ab7-8ba3-e92a6dbdab68
+6.47918,3.34533,,Point,LA,OSGOF,Cherubim And Seraphim Church 2 Orile Iganmu,LASSUE22,Church,e0ddd941-5946-4ad0-93d7-cdf574268abb
+6.64357,3.34318,,Point,LA,OSGOF,Deeper Live Church Ogba Ijaiye,LASIOE09,Church,e11396a0-8dac-42d4-9fcc-129045f330ab
+6.55244,3.2593,,Point,LA,OSGOF,Victorious Bible Church Ikotun,LASAMO25,Church,e1167bf2-6027-4189-b690-b775ac9c2442
+6.6772,3.98518,,Point,LA,OSGOF,All Saints Anglican Church Odo Ayan,LASEPE13,Church,e13658cb-87a7-4fb8-8ee0-95c3618a6d5c
+6.42069,3.33057,,Point,LA,OSGOF,Deeper Life Bible Church Snake Island,LASAON09,Church,e13bfee3-bf1d-44bf-a7f9-8c663695b7a6
+6.44566,3.31207,,Point,LA,OSGOF,St Joseph Catholic Church Kirikiri,LASAON11,Church,e152055f-fe65-4f53-8990-7b8ced62cab8
+6.45893,3.35213,,Point,LA,OSGOF,Redeemed Christian Church Of God Alayabiagba,LASATO08,Church,e16d70a1-59ae-452e-8c18-1c45d1e35a44
+6.5261,3.32515,,Point,LA,OSGOF,Christway Church Ishagatedo,LASOIO14,Church,e18d41a2-802b-4a58-9691-31a8f946c133
+6.50885,3.3402,,Point,LA,OSGOF,Rouse Ministries International Ikate,LASSUE08,Church,e1980e51-9d41-4607-8cb1-8fac5224a7d2
+6.42302,3.33305,,Point,LA,OSGOF,Catholic Church Of Immaculate Conception,LASAON09,Church,e19bda35-7459-4e0c-8192-237c38019963
+6.49191,3.36193,,Point,LA,OSGOF,Union Baptist Church Alaka,LASSUE01,Church,e1fab07a-6dc9-41fa-b481-0b2d4bc775e6
+6.59121,3.97104,,Point,LA,OSGOF,The Apostolic Church Papa,LASEPE04,Church,e2d5f77a-ef5e-4e33-b3ba-22169d14f32c
+6.47478,3.16693,,Point,LA,OSGOF,Afromedia Assemblies Of God Church Afromedia,LASOJO07,Church,e35571ca-9021-4b7e-b005-a04021abb695
+6.54094,3.35262,,Point,LA,OSGOF,Gospel Faith Mission Mushin,LASMUN12,Church,e3967368-0ffd-4926-bfae-b32dc979e2f1
+6.50965,3.33146,,Point,LA,OSGOF,Living Gospel Church Itire,LASMUN14,Church,e39e2d93-fc78-49c7-b699-fab256c12c36
+6.45937,3.13117,,Point,LA,OSGOF,Redeemed Christian Church Of God Oke Agbo,LASOJO07,Church,e446215e-9280-463c-95e5-e02749cf9e2a
+6.39865,3.39846,,Point,LA,OSGOF,St Paul Anglican Church Mile 12,LASEOA19,Church,e49245fd-8f47-4b93-9e2f-cf65d2732dd2
+6.50627,3.5802,,Point,LA,OSGOF,Ecwa Church Langbasa,LASEOA06,Church,e4c00539-1119-4b7c-8a00-7fe76e533a53
+6.46353,3.33613,,Point,LA,OSGOF,Glorious Christian Evangelism Abule Kere,LASATO03,Church,e4e2c557-e950-4165-bfd0-b7ac0eee858a
+6.41911,4.16919,,Point,LA,OSGOF,Celestial Church Of Christ Igbolomi,LASIUI12,Church,e50a5b29-2879-4677-8425-23cb48ac34ba
+6.45812,3.15878,,Point,LA,OSGOF,Greater Grace Assembly Ilemba Awori Community,LASOJO07,Church,e50c76f7-d6a8-4175-ae14-4f180059c5ac
+6.48529,3.3554,,Point,LA,OSGOF,International Church Of Christ Abebe,LASSUE11,Church,e52fa623-ef57-4642-b222-9cf1091a8e27
+6.49929,3.33078,,Point,LA,OSGOF,The Redeemed Church 2 Ijeshatedo,LASSUE21,Church,e5ecca67-56f5-47eb-a725-a181dd1bfe65
+6.45553,3.35092,,Point,LA,OSGOF,Apostolic Church Alayabiagba,LASATO01,Church,e5ffe61a-ba08-43ea-a56c-1320cb2752c2
+6.64534,3.70927,,Point,LA,OSGOF,Assemblies Of God Church Agbowa,LASEPE02,Church,e63ade05-8f39-4131-91fa-d0ce09f60f75
+6.68325,3.26108,,Point,LA,OSGOF,Celestial Church Of Christ 2 Ajegunle Ilo,LASAMO11,Church,e63c2a8b-2d4b-46f6-967a-aa30241d6e26
+6.48557,3.38994,,Point,LA,OSGOF,Assemblies Of God Church Okobaba Idiagbon Agoro,LASLMD14,Church,e64c527f-6177-432c-a1dc-1fc3b696ad5f
+6.46236,3.34522,,Point,LA,OSGOF,Christ Apostolic Church 2 Aiyetoro,LASATO01,Church,e651e53f-48bb-4833-8018-ca39cdac26ff
+6.50774,3.60682,,Point,LA,OSGOF,Redeemed Christian Church Of God Badore,LASEOA06,Church,e65348fc-ffad-45f3-b080-cac5ef994040
+6.47668,3.34874,,Point,LA,OSGOF,Deeper Life Bible Church Sari Iganmu,LASAPA12,Church,e6aff7dd-09d8-4e64-9302-68fa3e43f28d
+6.53518,3.37495,,Point,LA,OSGOF,Kingdom Hall Of Jehovah Witness Shomolu,LASSMU13,Church,e6e62f91-fa4e-4cc4-ac15-fe7626e4c572
+6.4895,3.16339,,Point,LA,OSGOF,Shallom Church Olorunshogo,LASOJO05,Church,e70b236e-ee99-41e2-9550-9965963fe7a9
+6.53504,3.24847,,Point,LA,OSGOF,Redeemed Christian Church Of God Peniel Pavallio,LASAMO01,Church,e73f3022-7c20-4236-9267-56f2405a98dc
+6.44496,3.34746,,Point,LA,OSGOF,The Living Acts Of Apostle Church Tolu,LASATO16,Church,e76870db-5c67-4cce-ba59-644cce258d02
+6.59256,3.29019,,Point,LA,OSGOF,Foursquare Gospel Church Egbeda,LASAMO19,Church,e7707182-aa30-48ea-b8b3-8fb275576390
+6.56548,3.28031,,Point,LA,OSGOF,Redeemed Christian Church Of God King Palace,LASAMO22,Church,e7ac7bee-821d-4815-a012-4de9959b354a
+6.5377,3.30585,,Point,LA,OSGOF,Church Of God Ejigbo,LASOIO09,Church,e7d02780-dbac-4ab5-a0e0-638ac4793984
+6.53547,3.38353,,Point,LA,OSGOF,Redeemed Christian Church Of God Bariga,LASSMU14,Church,e7de49dd-19e8-4f3d-a066-395ed238bf15
+6.61511,3.31053,,Point,LA,OSGOF,St John Anglican Church Papa Ashafa,LASAGG10,Church,e7e74be0-15e3-4d36-bed9-f277364d0e37
+6.56571,3.34664,,Point,LA,OSGOF,Redeemed Christian Church Of God Alasia,LASOIO16,Church,e7f74638-46bf-45c6-b785-dfd3ee59ceef
+6.56534,3.3388,,Point,LA,OSGOF,Church Of Jesus Christ Afijalo,LASOIO16,Church,e841b187-d488-4a0f-99e8-4691647366be
+6.53741,3.35142,,Point,LA,OSGOF,Christ Apostolic Church Mushin,LASMUN12,Church,e8804684-59af-4c2b-817e-aa4d5bd3c54c
+6.5791,3.4101,,Point,LA,OSGOF,St Barnabas Anglican Church Agboyi I,LASKSE02,Church,e890fad6-e0ab-4513-bf19-2fc9a37b912c
+6.60122,3.30119,,Point,LA,OSGOF,Center For Heavenly Woman,LASAMO09,Church,e8b39197-ed3f-4c0d-89c9-7a292d76e37b
+6.49532,3.38004,,Point,LA,OSGOF,Kingdom Hall Of Jehovah Witness Alagomeji,LASLMD05,Church,e8b58a3d-ea55-4385-8cf2-30fbe593a04d
+6.41943,3.20213,,Point,LA,OSGOF,St Peters Anglican Church Iyagbe,LASAON05,Church,e90bb199-b03e-4027-97fc-eea1dbf06683
+6.45168,3.18587,,Point,LA,OSGOF,The Apostolic Church Ilufe Town,LASOJO14,Church,e921b48d-39fd-4d3f-a063-75ff5887504a
+6.4611,3.15102,,Point,LA,OSGOF,Miracle Apostolic Church Ilemba Awori Community,LASOJO03,Church,e9369e64-4757-4497-b3f4-a2da8bc5884b
+6.48873,3.38327,,Point,LA,OSGOF,Redeemed Christian Church Of God 1 Oyingbo,LASLMD09,Church,e973c164-ab8c-4417-8cbc-325170141bb1
+6.57716,3.26201,,Point,LA,OSGOF,Christ Embassy Church Isheri Olofin,LASAMO28,Church,e987641c-2657-46c6-9a1c-987dc5ccb009
+6.54329,3.34181,,Point,LA,OSGOF,Christ Global Church Papa Ajao,LASMUN19,Church,e9af09c8-688f-4f90-b820-d381169cbb23
+6.48135,3.33687,,Point,LA,OSGOF,Iganmu Foursquare Church,LASSUE19,Church,ea9dace1-d75d-4d58-b375-74c686a2ce52
+6.51407,3.26989,,Point,LA,OSGOF,Deeper Life Ministry Ijegun,LASAMO27,Church,eaf9bd9b-20b8-44da-8f55-6c9b060a272c
+6.48064,3.38398,,Point,LA,OSGOF,The First African Church Missi,LASLMD17,Church,eafe528d-e4b0-4ad4-a5fc-783aece66f4e
+6.58428,3.25728,,Point,LA,OSGOF,The Apostolic Church Lawani Ode,LASAMO16,Church,eaff713b-f928-436a-9a3f-846001910d82
+6.60779,3.38684,,Point,LA,OSGOF,Redeemed Christian Church Of God Throne Of Grace,LASKSE19,Church,eb4cbf94-494e-4928-999e-adae59ae2545
+6.44385,3.5135,,Point,LA,OSGOF,St Joseph Chosen Church Agungi,LASEOA04,Church,eb55faa7-6d23-45bc-9cb7-b5123b181359
+6.61132,3.30688,,Point,LA,OSGOF,Jehovah Witness Church Papa Ashafa,LASAGG10,Church,ebab9ea4-58d7-442c-8b3e-927593d823f0
+6.4944,3.12325,,Point,LA,OSGOF,Christ Apostolic Church Ijankin,LASOJO06,Church,ebeb8fc9-bb64-446e-a8a5-2dbb500d52e5
+6.57399,3.34415,,Point,LA,OSGOF,Cornerstone Apostolic Church Shogunle,LASOIO20,Church,ebf425b9-f32e-4a07-aa0f-c5026327aa67
+6.57389,3.39412,,Point,LA,OSGOF,St Anodrew Anglican Church Ogudu,LASKSE15,Church,ec1d6755-aaf2-4e53-adf2-833906096f95
+6.46442,3.11424,,Point,LA,OSGOF,Cherubim And Seraphim Church Imude Village,LASOJO07,Church,ed08116b-0dcb-43c1-8acc-6016b4fe17d3
+6.63916,3.32376,,Point,LA,OSGOF,Cherubim And Seraphim Church Ifako,LASIOE06,Church,ed4dcfa7-0623-4c2c-9d4a-10efbc7b0f3f
+6.54747,3.30201,,Point,LA,OSGOF,Church Of God Ifoshi,LASOIO09,Church,ee43486e-6e6c-4be4-b31a-cf1c0548f9f0
+6.55737,3.39828,,Point,LA,OSGOF,The Apostolic Church Oworonsoki,LASKSE17,Church,ee88d0af-4d66-4cc0-a074-a885adb798b4
+6.56032,3.38489,,Point,LA,OSGOF,St Gerald Catholic Church Soluyi,LASKSE06,Church,ef337555-20b7-4cfd-a29c-2c3254f6f8c8
+6.49641,3.38628,,Point,LA,OSGOF,Holy Ghost Church Of Lord Makoko,LASLMD12,Church,ef7b3037-6ac4-410a-8039-0f514ffb040d
+6.52707,3.38781,,Point,LA,OSGOF,Redeemed Christian Church Of God Akoka,LASSMU02,Church,efe2e81a-da72-4838-86e4-bdb2734e62aa
+6.48926,3.36889,,Point,LA,OSGOF,Cherubim And Seraphim Church Abule Nla Olaleye,LASLMD11,Church,efe98694-a704-45c0-a339-a16dc9337e13
+6.5043,3.32681,,Point,LA,OSGOF,Celestial Church Of Christ Holy Mary Cathedral Ijeshatedo,LASMUN13,Church,efeda02e-fc46-49e5-8aa0-413bb6075355
+6.60172,3.27421,,Point,LA,OSGOF,Women Of Vision Int,LASAMO21,Church,eff02dce-4db2-4631-89e3-d8383682759e
+6.53534,3.34208,,Point,LA,OSGOF,Christ Apostolic Church Papa Ajao,LASMUN19,Church,f024def0-b5f6-4951-955c-e8c580773b21
+6.5214,3.34794,,Point,LA,OSGOF,Mountain Of Fire Miracle Minty,LASMUN11,Church,f1095302-d099-4c44-a408-91a692d68ba9
+6.4168,3.35988,,Point,LA,OSGOF,Christ Apostolic Church Agbojedo,LASAPA02,Church,f12a288b-3286-4f20-b1d0-1bcc9d2766b8
+6.45847,3.34753,,Point,LA,OSGOF,Seventh Day Adventist Church Aiyetoro,LASATO01,Church,f1548da1-1fea-4c6e-b046-2d76ce7c8a84
+6.65809,3.795776,,Point,LA,eHA_Polio,Deeper Life Bible Church,LASEPE09,Church,f1cb3931-d2db-4b44-809d-d56b52bc5724
+6.48738,3.36511,,Point,LA,OSGOF,United Christ Apostolic Church Abule Nla Olaleye,LASLMD11,Church,f1e44a29-23b3-4b43-99e4-f6d8cbd69bd1
+6.60809,3.32428,,Point,LA,OSGOF,United Church Of Christ Onilekere,LASIKA13,Church,f1fe452c-b15f-46e8-9744-3644834fd5bc
+6.43175,3.52261,,Point,LA,OSGOF,Redeemed Christian Church Of God Igbo Efon,LASEOA15,Church,f24a7b97-ea2e-4b05-b0c2-f45b9543ba06
+6.51231,3.32463,,Point,LA,OSGOF,All Nation Gospel Church Ilasamaja,LASOIO13,Church,f299da27-c694-4b8b-b06e-6a8023946781
+6.53449,3.32829,,Point,LA,OSGOF,Saviour's Gospel Church Isolo,LASOIO06,Church,f2bd6f42-2247-4938-b0fb-7d3873589859
+6.54973,3.36618,,Point,LA,OSGOF,Salem Evangelical Ilupeju,LASMUN09,Church,f2f1cc41-496c-4965-8828-afde819bd262
+6.50484,3.17092,,Point,LA,OSGOF,Kingdom Hall Of Jehovah Witness Ishasi Town,LASOJO05,Church,f3cf079c-d640-4d38-870e-6a8a8106620c
+6.48315,3.38011,,Point,LA,OSGOF,Methodist Church Ebute Metta,LASLMD13,Church,f3e17d29-1b86-4087-852b-c5682455b73f
+6.49509,3.35699,,Point,LA,OSGOF,Foursquare Gospel Church Surulere,LASSUE01,Church,f40a762d-5c01-417b-8725-2ccc11f972ab
+6.55053,3.24634,,Point,LA,OSGOF,St John Catholic Church Igando,LASAMO23,Church,f440bed3-5c74-4ac4-bc3b-852f694e1251
+6.46214,3.13019,,Point,LA,OSGOF,Christ Apostolic Church Oke Agbo,LASOJO07,Church,f4646852-c645-4eec-b908-a5f8a8e409ee
+6.59039,3.2573,,Point,LA,OSGOF,Redeemed Christian Church Of God Liberty Parish Candos,LASAMO13,Church,f46cec80-9ed3-4ce9-8ab1-21087c30a9ba
+6.66059,3.26248,,Point,LA,OSGOF,Christ Apostolic Church Suberu Oje,LASAMO11,Church,f48fa177-c3b7-4739-918f-ee9297d8bd06
+6.68044,3.26989,,Point,LA,OSGOF,Redeemed Christian Church Of God Alakuko,LASAMO11,Church,f4f16852-8a21-46ed-8f2a-1367cf899ac4
+6.45686,3.3499,,Point,LA,OSGOF,Pentecostal Church Ajegunle,LASATO01,Church,f527d1ca-8305-48ee-9c09-cc9c3ba34862
+6.62429,3.31448,,Point,LA,OSGOF,Redeemed Christian Church Of God Moricas,LASAGG02,Church,f569d6fb-ebdc-48c2-a793-d5f87c69d7f5
+6.62685,3.35458,,Point,LA,OSGOF,Light House Chapel Agidingbi,LASIKA02,Church,f5b73b6f-354e-46c0-a728-90858f0a8a5d
+6.62452,3.30452,,Point,LA,OSGOF,Four Square Church Alaagba,LASAGG04,Church,f5ce3acc-011d-4dd0-ad74-7123658a992c
+6.55971,3.34401,,Point,LA,OSGOF,St Anglican Church Oshodi,LASOIO11,Church,f5fc2830-8824-45b1-9a36-4a2db6c74b5c
+6.66001,3.75438,,Point,LA,OSGOF,Anglican Church Iganke,LASEPE17,Church,f60a2185-e39c-48ae-8693-d096b5350cc2
+6.63184,3.37494,,Point,LA,OSGOF,Redeemed Christian Church Of God Hope Of Victory,LASKSE12,Church,f628013e-3670-405d-bbc8-d497d6b1eda5
+6.55336,3.32847,,Point,LA,OSGOF,Church Of God Mafoluku,LASOIO15,Church,f634338b-34b4-493d-9fce-55d685c94db2
+6.52372,3.32212,,Point,LA,OSGOF,Delight Some British Home,LASOIO14,Church,f6f99d77-1367-4ace-8989-9552378494e1
+6.65517,3.27187,,Point,LA,OSGOF,Resurrection Parish Omologede,LASAMO06,Church,f74a7c78-3c62-4195-9a3d-6407ae6722fa
+6.54042,3.31132,,Point,LA,OSGOF,Golden Gate Ministry Ilamoshe,LASOIO12,Church,f752a9e8-a88a-4fa9-acff-e3bf95e5f964
+6.55655,3.34668,,Point,LA,OSGOF,Methodist Church Igbehin Adun,LASOIO11,Church,f75ee654-096c-4c6a-b061-35fab200087a
+6.55118,3.2391,,Point,LA,OSGOF,The Lord Chosen Church Igando,LASAMO23,Church,f7850451-536a-4c55-95fc-62bff5b0e90d
+6.52198,3.28967,,Point,LA,OSGOF,Foursquare Church 2 Ailegun,LASOIO03,Church,f832961b-d2c4-4238-8843-c3a498a188f4
+6.56005,3.39242,,Point,LA,OSGOF,Redeemed Christian Church Of God Life Gate,LASKSE06,Church,f87c0b2e-dd30-40c8-b88c-46882acabb32
+6.51414,3.27076,,Point,LA,OSGOF,Seven Day Adventist Ado Church Ijegun,LASAMO27,Church,f8b2b5b2-0553-4682-8ed4-4628793dae24
+6.49679,3.38581,,Point,LA,OSGOF,Lord Chosen Rivival Church Makoko,LASLMD12,Church,f8b3daee-3165-4812-9756-1cf56019f4bc
+6.5198,3.36513,,Point,LA,OSGOF,Redeemed Church,LASMUN02,Church,f8bd5ed6-2ce1-42e6-acb3-d66e2e0540b9
+6.53838,3.35237,,Point,LA,OSGOF,Apostolic Church Challenge,LASMUN12,Church,f958a362-164f-43d7-98a9-276e185ae1dc
+6.44675,3.4676,,Point,LA,OSGOF,Catholic Church Of Divine Mercy,LASEOA10,Church,f97648e8-8347-419c-896a-c3adb169d812
+6.56909,3.34034,,Point,LA,OSGOF,St John Catholic Church Shogunle,LASOIO08,Church,f98f59d2-6e65-498f-ac42-6ebb6f0ecf79
+6.48869,3.3485,,Point,LA,OSGOF,The Bredeemed Church Aguda,LASSUE22,Church,f9a92d6b-2666-45e1-8839-cc9c7d5a69e5
+6.57029,3.34065,,Point,LA,OSGOF,Christ Apostolic Church Maboju,LASOIO08,Church,f9e9c073-b35b-49fa-abed-17d7ee2fc83e
+6.5548,3.30407,,Point,LA,OSGOF,Celestial Church Ageke,LASOIO02,Church,f9fee33f-7b84-4d90-85ff-052aabee2a03
+6.59012,3.97786,,Point,LA,OSGOF,Redemption Gospel Church Epe Central,LASEPE04,Church,fa1829f8-3453-45e0-8d67-b8fbb4144bf6
+6.5109,3.38359,,Point,LA,OSGOF,Redeemed Christian Church Of God Onike,LASLMD18,Church,fa355871-6f4e-448f-ba97-60f1942e815f
+6.45325,3.15932,,Point,LA,OSGOF,St Mary's Anglican Church Igbede Town,LASOJO14,Church,fa4dcfff-3ec0-46de-92d2-2b7dfe3b9086
+6.58778,3.35864,,Point,LA,OSGOF,Chapel Of Glory Abule Onigbagbo,LASIKA14,Church,faa47d48-4dce-4b73-aa45-e8f82fab6822
+6.55385,3.34004,,Point,LA,OSGOF,Godfirst International Church Afariogun,LASOIO01,Church,fab24ccd-65d9-45fb-a0f9-3e395aa4dff9
+6.52702,3.32217,,Point,LA,OSGOF,Christ Salvation Evanglican,LASOIO14,Church,fab4c807-3a87-42ac-9a8b-60041b2c6b15
+6.46404,3.33227,,Point,LA,OSGOF,Cherubim And Seraphim Church Alaba,LASATO06,Church,fabd5f42-16ee-42f1-a7be-f47c4df153c2
+6.60413,3.39695,,Point,LA,OSGOF,Redeemed Christian Church Of God Mercy Seal,LASKSE09,Church,fb1b7108-dae8-417c-b917-f602c62c2bbf
+6.50475,3.38711,,Point,LA,OSGOF,Redeemed Christian Church Of God 2 Iwaya,LASLMD04,Church,fbc50a2d-6fe6-4a8c-9021-db35040a7d48
+6.48966,3.35653,,Point,LA,OSGOF,The Redeemed Church 2 Iponri,LASSUE11,Church,fbe82e37-6af1-4e2a-975b-3d530bfd57dd
+6.45436,3.14313,,Point,LA,OSGOF,Salutin Mount Church Etegbin Riverine,LASOJO03,Church,fbf93437-ecea-4e58-8066-6a790220a599
+6.49552,3.33064,,Point,LA,OSGOF,St Paul's Anglican Church Ijeshatedo,LASSUE02,Church,fc1b562e-8b5e-4048-b01b-6bcf21239115
+6.63542,3.35841,,Point,LA,OSGOF,Catholic Church Omole,LASIKA02,Church,fc3b5b61-7c5a-432f-bc51-480efa169593
+6.65296,3.29757,,Point,LA,OSGOF,Eternal Glory Bible Church Abule Egba,LASAMO05,Church,fc5f8976-d617-4860-96fc-8fdda887d794
+6.57856,3.36985,,Point,LA,OSGOF,Praise House Wasimi,LASIKA18,Church,fc62e0e3-ea1a-4355-a302-f29d806e6734
+6.40896,3.30028,,Point,LA,OSGOF,Christ Apostolic Church Ilashe,LASAON06,Church,fc743119-86fb-40ab-bfa9-519c23f4c28e
+6.61247,3.37332,,Point,LA,OSGOF,Christ Embassy Church Shangisha,LASKSE21,Church,fcba9bf0-0df1-4e58-9954-8c4a01bb4726
+6.54134,3.38395,,Point,LA,OSGOF,St Gabriel Catholic Church Ibuowo Mafowoku,LASSMU01,Church,fcc02025-cede-4098-8678-5dad41bcfbf2
+6.51421,3.34731,,Point,LA,OSGOF,Cherubim And Seraphim Church Lawanson,LASMUN17,Church,fcc0e372-7187-4f7d-9c4d-93d7ad0a6e94
+6.42781,3.51402,,Point,LA,OSGOF,St Michael C And S Church Aro Town,LASEOA15,Church,fcd05fc1-b7fb-4288-94f9-a27257920df3
+6.44121,2.88692,,Point,LA,OSGOF,The Apostolic Church Tozunkanmeh,LASBDY03,Church,fd07468c-9820-4fe8-b6d4-cbded75fdb00
+6.46795,3.27567,,Point,LA,OSGOF,First Baptist Church Champion S Cathedral Festac,LASAON10,Church,fd117596-cd77-4122-a548-2f7203f94250
+6.45608,3.33837,,Point,LA,OSGOF,Christ Faith Church Onibaba,LASATO02,Church,fd1d686e-fe0e-4082-9ceb-0750f06026b4
+6.51324,3.27563,,Point,LA,OSGOF,Foursquare Gospel Church Isheri Osun,LASAMO27,Church,fd2db8d5-7d1e-4713-8ca0-a2deca35c073
+6.42027,3.34954,,Point,LA,OSGOF,New Jerusalem Cherubim And Seraphim Church Ilutuntun,LASAON09,Church,fd470785-4628-4f0c-afd0-8907e0a13b8e
+6.60063,3.28821,,Point,LA,OSGOF,Lord Chosen Charismatic Gowon Estate,LASAMO21,Church,fd6736b4-6a2b-4b59-b341-82c1519dd3d4
+6.58338,3.3845,,Point,LA,OSGOF,World Evangelistic Church Ojota,LASKSE16,Church,fde7282b-1e88-46b1-8fff-f981370a5f53
+6.61708,3.31887,,Point,LA,OSGOF,Gospel Church Oniwaya,LASAGG02,Church,fe04257e-4671-4b6c-98f3-1fbc4cc4a0dd
+6.54979,3.29763,,Point,LA,OSGOF,Celestial Church Agbaka,LASOIO10,Church,fe656c3d-f65d-485a-9aa1-68740c3dbd07
+6.61538,3.89352,,Point,LA,OSGOF,St Peter's Anglican Church Ejirin,LASEPE07,Church,fea65989-8a8b-45c1-bf60-2a5762c3a309
+6.47952,3.33497,,Point,LA,OSGOF,Christ Apostolic Church Orile Iganmu,LASSUE19,Church,ff123b40-b7ac-459b-b333-93f37bd65afd
+6.45538,3.35029,,Point,LA,OSGOF,Christ Apostolic Church Ajegunle,LASATO01,Church,ff368445-0e27-4264-a099-aad836865ad5
+6.54799,3.39303,,Point,LA,OSGOF,Apostolic Church Gbagaija,LASSMU03,Church,ff37bcf0-c1e4-4b63-aa03-f83fa6e6ddc7
+6.60435,3.40195,,Point,LA,OSGOF,Redeemed Christian Church Of God Sanctuary Of Joy,LASKSE03,Church,ffd87bc8-31f6-4a87-bacf-7042239f89f2
